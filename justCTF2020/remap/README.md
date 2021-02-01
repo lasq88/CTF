@@ -17,7 +17,7 @@ Second, more timeconsuming solution:
 3. run the same code as in intended solution
 
 My take was to take a look at python38.dll in Ghidra, check function _PyEval_EvalFrameDefault and compare it to same function from not-modified python38.dll + python source code ( https://github.com/python/cpython/blob/master/Python/ceval.c ). 
-This is very time consuming and I only managed to figure out 13/120 opcodes in few hours. I was hoping to discover some kind of patter (like all opcodes shifted by 3) but there was none :(
+This is very time consuming and I only managed to figure out 13/120 opcodes in few hours. I was hoping to discover some kind of pattern (like all opcodes shifted by 3) but there was none :(
 
 I've learned a lot about python internals though, which is good.
 
