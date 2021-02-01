@@ -1,0 +1,713 @@
+1         0 STORE_GLOBAL             0 (builtins)
+    >>    2 STORE_GLOBAL             1 (bi)
+          4 IMPORT_NAME              0 (builtins)
+          6 STORE_FAST               1 
+
+4         8 STORE_GLOBAL             2 (sc)
+         10 STORE_GLOBAL             3 (ds)
+         12 DELETE_ATTR              0 (builtins)
+         14 STORE_FAST               2 
+
+12       16 STORE_GLOBAL             4 (rr)
+         18 STORE_GLOBAL             5 (rs)
+         20 DELETE_ATTR              0 (builtins)
+         22 STORE_FAST               3 
+
+21       24 STORE_GLOBAL             6 (getattr)
+         26 STORE_GLOBAL             7 (f)
+         28 DELETE_ATTR              0 (builtins)
+         30 STORE_FAST               4 
+
+25       32 STORE_GLOBAL             8 (ch01)
+         34 STORE_GLOBAL             9 (ch02)
+         36 DELETE_ATTR              0 (builtins)
+         38 STORE_FAST               5 
+
+28       40 FORMAT_VALUE             6 
+         42 FORMAT_VALUE             1 
+         44 FORMAT_VALUE             3 
+         46 FORMAT_VALUE             5 
+         48 STORE_GLOBAL            10 (ch03)
+         50 STORE_GLOBAL            11 (ch04)
+         52 STORE_GLOBAL            12 (ch05)
+         54 STORE_GLOBAL            13 (ch06)
+         56 STORE_GLOBAL            14 (ch07)
+         58 SETUP_ASYNC_WITH         5 (to 65)
+         60 SETUP_FINALLY            1 (to 63)
+         62 SETUP_FINALLY            1 (to 65)
+         64 SETUP_FINALLY            2 (to 68)
+
+29       66 FORMAT_VALUE             3 
+    >>   68 FORMAT_VALUE             5 
+         70 STORE_GLOBAL            15 (ch08)
+         72 STORE_GLOBAL            11 (ch04)
+         74 STORE_GLOBAL            16 (ch09)
+         76 STORE_GLOBAL            17 (ch10)
+         78 STORE_GLOBAL            18 (ch11)
+         80 STORE_GLOBAL            19 (startswith)
+         82 STORE_GLOBAL            20 (endswith)
+         84 STORE_GLOBAL            21 (__class__)
+         86 STORE_GLOBAL            22 (__base__)
+         88 STORE_GLOBAL            23 (__subclasses__)
+         90 STORE_GLOBAL            24 (ff)
+         92 STORE_GLOBAL            25 (rrr)
+         94 STORE_GLOBAL            26 (len)
+         96 STORE_GLOBAL            27 
+         98 STORE_GLOBAL            28 
+        100 STORE_GLOBAL            29 
+        102 SETUP_ASYNC_WITH        16 (to 120)
+        104 SETUP_FINALLY            1 (to 107)
+        106 SETUP_FINALLY            1 (to 109)
+
+28      108 SETUP_FINALLY            1 (to 111)
+        110 STORE_FAST               7 
+
+31      112 STORE_GLOBAL            30 
+        114 STORE_GLOBAL            31 
+        116 SETUP_ASYNC_WITH         2 (to 120)
+        118 STORE_FAST               8 
+
+32  >>  120 STORE_GLOBAL            32 
+        122 STORE_GLOBAL            33 
+        124 SETUP_ASYNC_WITH         2 (to 128)
+        126 STORE_FAST               9 
+
+33  >>  128 STORE_GLOBAL            34 
+        130 STORE_GLOBAL            35 
+        132 SETUP_ASYNC_WITH         2 (to 136)
+        134 STORE_FAST              10 
+
+34  >>  136 STORE_GLOBAL            36 
+        138 STORE_GLOBAL            35 
+        140 SETUP_ASYNC_WITH         2 (to 144)
+        142 STORE_FAST              11 
+
+35  >>  144 STORE_GLOBAL            34 
+        146 STORE_GLOBAL            37 
+        148 SETUP_ASYNC_WITH         2 (to 152)
+        150 STORE_FAST              12 
+
+36  >>  152 STORE_GLOBAL            38 
+        154 STORE_GLOBAL            35 
+        156 SETUP_ASYNC_WITH         2 (to 160)
+        158 STORE_FAST              13 
+
+37  >>  160 STORE_GLOBAL            34 
+        162 STORE_GLOBAL            20 (endswith)
+        164 SETUP_ASYNC_WITH         2 (to 168)
+        166 STORE_FAST              14 
+
+38  >>  168 STORE_GLOBAL            32 
+        170 STORE_GLOBAL            37 
+        172 SETUP_ASYNC_WITH         2 (to 176)
+        174 STORE_FAST              15 
+
+39  >>  176 STORE_GLOBAL            38 
+        178 STORE_GLOBAL            39 
+        180 SETUP_ASYNC_WITH         2 (to 184)
+        182 STORE_FAST              16 
+
+40  >>  184 STORE_GLOBAL            36 
+        186 STORE_GLOBAL            40 
+        188 SETUP_ASYNC_WITH         2 (to 192)
+        190 STORE_FAST              17 
+
+41  >>  192 STORE_GLOBAL            41 
+        194 STORE_GLOBAL            42 
+        196 SETUP_ASYNC_WITH         2 (to 200)
+        198 STORE_FAST              18 
+
+42  >>  200 FORMAT_VALUE             7 
+        202 STORE_NAME              19 (startswith)
+        204 FORMAT_VALUE             3 
+        206 FORMAT_VALUE             5 
+        208 STORE_GLOBAL            43 
+        210 STORE_GLOBAL            44 
+        212 STORE_GLOBAL            29 
+        214 STORE_GLOBAL            45 
+        216 STORE_GLOBAL            46 
+        218 STORE_GLOBAL            47 
+        220 STORE_GLOBAL            48 
+        222 STORE_GLOBAL            49 
+        224 SETUP_ASYNC_WITH         8 (to 234)
+        226 SETUP_FINALLY            1 (to 229)
+        228 SETUP_FINALLY            1 (to 231)
+        230 LOAD_CLOSURE             1 
+        232 IMPORT_FROM              4 (rr)
+    >>  234 RAISE_VARARGS          250 
+        236 FORMAT_VALUE             7 
+        238 STORE_NAME              20 (endswith)
+        240 FORMAT_VALUE             3 
+        242 FORMAT_VALUE             5 
+        244 STORE_GLOBAL            50 
+        246 SETUP_ASYNC_WITH         1 (to 249)
+        248 SETUP_FINALLY            1 (to 251)
+        250 SETUP_FINALLY            1 (to 253)
+        252 LOAD_CLOSURE             1 
+        254 IMPORT_FROM              4 (rr)
+        256 RAISE_VARARGS          250 
+
+43      258 FORMAT_VALUE             7 
+        260 BUILD_SLICE              0 
+        262 MAKE_FUNCTION           21 
+        264 MAKE_FUNCTION           22 
+        266 STORE_NAME              23 (__subclasses__)
+        268 LOAD_CLOSURE             0 
+        270 STORE_GLOBAL            51 
+        272 INPLACE_MATRIX_MULTIPLY     
+        274 FORMAT_VALUE             3 
+        276 FORMAT_VALUE             5 
+        278 STORE_GLOBAL            52 
+        280 SETUP_ASYNC_WITH         1 (to 283)
+        282 SETUP_FINALLY            1 (to 285)
+        284 SETUP_FINALLY            1 (to 287)
+        286 SETUP_FINALLY            1 (to 289)
+        288 BUILD_SLICE              0 
+        290 MAKE_FUNCTION           21 
+        292 MAKE_FUNCTION           22 
+        294 STORE_NAME              23 (__subclasses__)
+        296 LOAD_CLOSURE             0 
+        298 STORE_GLOBAL            51 
+        300 INPLACE_MATRIX_MULTIPLY     
+        302 FORMAT_VALUE             3 
+        304 FORMAT_VALUE             5 
+        306 STORE_GLOBAL            53 
+        308 STORE_GLOBAL            54 
+        310 SETUP_ASYNC_WITH         2 (to 314)
+        312 SETUP_FINALLY            1 (to 315)
+    >>  314 SETUP_FINALLY            1 (to 317)
+        316 SETUP_FINALLY            1 (to 319)
+        318 LOAD_FAST                2 
+        320 INPLACE_MATRIX_MULTIPLY     
+        322 STORE_FAST              24 
+
+44      324 STORE_GLOBAL            55 
+        326 STORE_FAST              25 
+
+45      328 FORMAT_VALUE            26 
+        330 FORMAT_VALUE            24 
+        332 SETUP_FINALLY            1 (to 335)
+        334 STORE_GLOBAL             0 (builtins)
+        336 POP_JUMP_IF_TRUE         2 
+        338 IMPORT_FROM              1 (bi)
+        340 RAISE_VARARGS           90 
+
+46      342 STORE_GLOBAL            56 
+        344 STORE_FAST              25 
+
+47      346 FORMAT_VALUE             2 
+        348 FORMAT_VALUE             3 
+        350 FORMAT_VALUE             5 
+        352 FORMAT_VALUE             8 
+        354 SETUP_FINALLY            1 (to 357)
+        356 SETUP_FINALLY            1 (to 359)
+        358 FORMAT_VALUE            24 
+        360 STORE_GLOBAL             0 (builtins)
+        362 STORE_GLOBAL            57 
+        364 LOAD_FAST                2 
+        366 INPLACE_MATRIX_MULTIPLY     
+        368 STORE_GLOBAL            58 
+        370 POP_JUMP_IF_TRUE         3 
+        372 IMPORT_FROM              1 (bi)
+        374 RAISE_VARARGS          132 
+        376 FORMAT_VALUE            24 
+        378 STORE_GLOBAL             0 (builtins)
+        380 STORE_GLOBAL            57 
+        382 LOAD_FAST                2 
+        384 INPLACE_MATRIX_MULTIPLY     
+        386 BUILD_TUPLE              2 
+        388 STORE_GLOBAL            59 
+        390 SETUP_FINALLY            2 (to 394)
+        392 IMPORT_FROM              1 (bi)
+    >>  394 CALL_FUNCTION          144 
+
+48      396 STORE_GLOBAL            56 
+        398 STORE_FAST              25 
+
+49      400 FORMAT_VALUE             2 
+        402 FORMAT_VALUE             3 
+        404 FORMAT_VALUE             5 
+        406 FORMAT_VALUE             9 
+        408 SETUP_FINALLY            1 (to 411)
+        410 SETUP_FINALLY            1 (to 413)
+        412 FORMAT_VALUE            24 
+        414 STORE_GLOBAL            57 
+        416 STORE_GLOBAL            51 
+        418 LOAD_FAST                2 
+        420 INPLACE_MATRIX_MULTIPLY     
+        422 STORE_GLOBAL            58 
+        424 POP_JUMP_IF_TRUE         3 
+        426 IMPORT_FROM              1 (bi)
+        428 RAISE_VARARGS          186 
+        430 FORMAT_VALUE            24 
+        432 STORE_GLOBAL            57 
+        434 STORE_GLOBAL            51 
+        436 LOAD_FAST                2 
+        438 INPLACE_MATRIX_MULTIPLY     
+        440 BUILD_TUPLE              2 
+        442 STORE_GLOBAL            60 
+        444 SETUP_FINALLY            2 (to 448)
+        446 IMPORT_FROM              1 (bi)
+    >>  448 CALL_FUNCTION          198 
+
+50      450 STORE_GLOBAL            56 
+        452 STORE_FAST              25 
+
+51      454 FORMAT_VALUE             2 
+        456 FORMAT_VALUE             3 
+        458 FORMAT_VALUE             5 
+        460 FORMAT_VALUE            10 
+        462 SETUP_FINALLY            1 (to 465)
+        464 SETUP_FINALLY            1 (to 467)
+        466 FORMAT_VALUE            24 
+        468 STORE_GLOBAL            51 
+        470 STORE_GLOBAL            61 
+        472 LOAD_FAST                2 
+        474 INPLACE_MATRIX_MULTIPLY     
+        476 STORE_GLOBAL            58 
+        478 POP_JUMP_IF_TRUE         3 
+        480 IMPORT_FROM              1 (bi)
+        482 RAISE_VARARGS          240 
+        484 FORMAT_VALUE            24 
+        486 STORE_GLOBAL            51 
+        488 STORE_GLOBAL            61 
+        490 LOAD_FAST                2 
+        492 INPLACE_MATRIX_MULTIPLY     
+        494 BUILD_TUPLE              2 
+        496 STORE_GLOBAL            62 
+        498 SETUP_FINALLY            2 (to 502)
+        500 IMPORT_FROM              1 (bi)
+    >>  502 CALL_FUNCTION          252 
+
+52      504 STORE_GLOBAL            56 
+        506 STORE_FAST              25 
+
+53      508 FORMAT_VALUE             2 
+        510 FORMAT_VALUE             3 
+        512 FORMAT_VALUE             5 
+        514 FORMAT_VALUE            11 
+        516 SETUP_FINALLY            1 (to 519)
+        518 SETUP_FINALLY            1 (to 521)
+        520 FORMAT_VALUE            24 
+        522 STORE_GLOBAL            61 
+        524 STORE_GLOBAL            63 
+        526 LOAD_FAST                2 
+        528 INPLACE_MATRIX_MULTIPLY     
+        530 STORE_GLOBAL            58 
+        532 POP_JUMP_IF_TRUE         3 
+        534 IMPORT_FROM              2 (sc)
+        536 RAISE_VARARGS           38 
+        538 FORMAT_VALUE            24 
+        540 STORE_GLOBAL            61 
+        542 STORE_GLOBAL            63 
+        544 LOAD_FAST                2 
+        546 INPLACE_MATRIX_MULTIPLY     
+        548 BUILD_TUPLE              2 
+        550 STORE_GLOBAL            64 
+        552 SETUP_FINALLY            2 (to 556)
+        554 IMPORT_FROM              2 (sc)
+    >>  556 CALL_FUNCTION           50 
+
+54      558 STORE_GLOBAL            56 
+        560 STORE_FAST              25 
+
+55      562 FORMAT_VALUE             2 
+        564 FORMAT_VALUE             3 
+        566 FORMAT_VALUE             5 
+        568 FORMAT_VALUE            12 
+        570 SETUP_FINALLY            1 (to 573)
+        572 SETUP_FINALLY            1 (to 575)
+        574 FORMAT_VALUE            24 
+        576 STORE_GLOBAL            63 
+        578 STORE_GLOBAL            65 
+        580 LOAD_FAST                2 
+        582 INPLACE_MATRIX_MULTIPLY     
+        584 STORE_GLOBAL            58 
+        586 POP_JUMP_IF_TRUE         3 
+        588 IMPORT_FROM              2 (sc)
+        590 RAISE_VARARGS           92 
+        592 FORMAT_VALUE            24 
+        594 STORE_GLOBAL            63 
+        596 STORE_GLOBAL            65 
+        598 LOAD_FAST                2 
+        600 INPLACE_MATRIX_MULTIPLY     
+        602 BUILD_TUPLE              2 
+        604 STORE_GLOBAL            66 
+        606 SETUP_FINALLY            2 (to 610)
+        608 IMPORT_FROM              2 (sc)
+    >>  610 CALL_FUNCTION          104 
+
+56      612 STORE_GLOBAL            56 
+        614 STORE_FAST              25 
+
+57      616 FORMAT_VALUE             2 
+        618 FORMAT_VALUE             3 
+        620 FORMAT_VALUE             5 
+        622 FORMAT_VALUE            13 
+        624 SETUP_FINALLY            1 (to 627)
+        626 SETUP_FINALLY            1 (to 629)
+        628 FORMAT_VALUE            24 
+        630 STORE_GLOBAL            65 
+        632 STORE_GLOBAL            19 (startswith)
+        634 LOAD_FAST                2 
+        636 INPLACE_MATRIX_MULTIPLY     
+        638 STORE_GLOBAL            58 
+        640 POP_JUMP_IF_TRUE         3 
+        642 IMPORT_FROM              2 (sc)
+        644 RAISE_VARARGS          146 
+        646 FORMAT_VALUE            24 
+        648 STORE_GLOBAL            65 
+        650 STORE_GLOBAL            19 (startswith)
+        652 LOAD_FAST                2 
+        654 INPLACE_MATRIX_MULTIPLY     
+        656 BUILD_TUPLE              2 
+        658 STORE_GLOBAL            67 
+        660 SETUP_FINALLY            2 (to 664)
+        662 IMPORT_FROM              2 (sc)
+    >>  664 CALL_FUNCTION          158 
+
+58      666 STORE_GLOBAL            56 
+        668 STORE_FAST              25 
+
+59      670 FORMAT_VALUE             2 
+        672 FORMAT_VALUE             3 
+        674 FORMAT_VALUE             5 
+        676 FORMAT_VALUE            14 
+        678 SETUP_FINALLY            1 (to 681)
+        680 SETUP_FINALLY            1 (to 683)
+        682 FORMAT_VALUE            24 
+        684 STORE_GLOBAL            19 (startswith)
+        686 STORE_GLOBAL            68 
+        688 LOAD_FAST                2 
+        690 INPLACE_MATRIX_MULTIPLY     
+        692 STORE_GLOBAL            58 
+        694 POP_JUMP_IF_TRUE         3 
+        696 IMPORT_FROM              2 (sc)
+        698 RAISE_VARARGS          200 
+        700 FORMAT_VALUE            24 
+        702 STORE_GLOBAL            19 (startswith)
+        704 STORE_GLOBAL            68 
+        706 LOAD_FAST                2 
+        708 INPLACE_MATRIX_MULTIPLY     
+        710 BUILD_TUPLE              2 
+        712 STORE_GLOBAL            69 
+        714 SETUP_FINALLY            2 (to 718)
+        716 IMPORT_FROM              2 (sc)
+    >>  718 CALL_FUNCTION          212 
+
+60      720 STORE_GLOBAL            56 
+        722 STORE_FAST              25 
+
+61      724 FORMAT_VALUE             2 
+        726 FORMAT_VALUE             3 
+        728 FORMAT_VALUE             5 
+        730 FORMAT_VALUE            15 
+        732 SETUP_FINALLY            1 (to 735)
+        734 SETUP_FINALLY            1 (to 737)
+        736 FORMAT_VALUE            24 
+        738 STORE_GLOBAL            68 
+        740 STORE_GLOBAL            70 
+        742 LOAD_FAST                2 
+        744 INPLACE_MATRIX_MULTIPLY     
+        746 STORE_GLOBAL            58 
+        748 POP_JUMP_IF_TRUE         3 
+        750 IMPORT_FROM              2 (sc)
+        752 RAISE_VARARGS          254 
+        754 FORMAT_VALUE            24 
+        756 STORE_GLOBAL            68 
+        758 STORE_GLOBAL            70 
+        760 LOAD_FAST                2 
+        762 INPLACE_MATRIX_MULTIPLY     
+        764 BUILD_TUPLE              2 
+        766 STORE_GLOBAL            71 
+        768 SETUP_FINALLY            2 (to 772)
+        770 IMPORT_FROM              3 (ds)
+    >>  772 CALL_FUNCTION           10 
+
+62      774 STORE_GLOBAL            56 
+        776 STORE_FAST              25 
+
+63      778 FORMAT_VALUE             2 
+        780 FORMAT_VALUE             3 
+        782 FORMAT_VALUE             5 
+        784 FORMAT_VALUE            16 
+        786 SETUP_FINALLY            1 (to 789)
+        788 SETUP_FINALLY            1 (to 791)
+        790 FORMAT_VALUE            24 
+        792 STORE_GLOBAL            70 
+        794 STORE_GLOBAL            72 
+        796 LOAD_FAST                2 
+        798 INPLACE_MATRIX_MULTIPLY     
+        800 STORE_GLOBAL            58 
+        802 POP_JUMP_IF_TRUE         3 
+        804 IMPORT_FROM              3 (ds)
+        806 RAISE_VARARGS           52 
+        808 FORMAT_VALUE            24 
+        810 STORE_GLOBAL            70 
+        812 STORE_GLOBAL            72 
+        814 LOAD_FAST                2 
+        816 INPLACE_MATRIX_MULTIPLY     
+        818 BUILD_TUPLE              2 
+        820 STORE_GLOBAL            73 
+        822 SETUP_FINALLY            2 (to 826)
+        824 IMPORT_FROM              3 (ds)
+    >>  826 CALL_FUNCTION           64 
+
+64      828 STORE_GLOBAL            56 
+        830 STORE_FAST              25 
+
+65      832 FORMAT_VALUE             2 
+        834 FORMAT_VALUE             3 
+        836 FORMAT_VALUE             5 
+        838 FORMAT_VALUE            17 
+        840 SETUP_FINALLY            1 (to 843)
+        842 SETUP_FINALLY            1 (to 845)
+        844 FORMAT_VALUE            24 
+        846 STORE_GLOBAL            72 
+        848 STORE_GLOBAL            74 
+        850 LOAD_FAST                2 
+        852 INPLACE_MATRIX_MULTIPLY     
+        854 STORE_GLOBAL            58 
+        856 POP_JUMP_IF_TRUE         3 
+        858 IMPORT_FROM              3 (ds)
+        860 RAISE_VARARGS          106 
+        862 FORMAT_VALUE            24 
+        864 STORE_GLOBAL            72 
+        866 STORE_GLOBAL            74 
+        868 LOAD_FAST                2 
+        870 INPLACE_MATRIX_MULTIPLY     
+        872 BUILD_TUPLE              2 
+        874 STORE_GLOBAL            75 
+        876 SETUP_FINALLY            2 (to 880)
+        878 IMPORT_FROM              3 (ds)
+    >>  880 CALL_FUNCTION          118 
+
+66      882 STORE_GLOBAL            56 
+        884 STORE_FAST              25 
+
+67      886 FORMAT_VALUE             2 
+        888 FORMAT_VALUE             3 
+        890 FORMAT_VALUE             5 
+        892 FORMAT_VALUE            18 
+        894 SETUP_FINALLY            1 (to 897)
+        896 SETUP_FINALLY            1 (to 899)
+        898 FORMAT_VALUE            24 
+        900 STORE_GLOBAL            74 
+        902 STORE_GLOBAL            76 
+        904 LOAD_FAST                2 
+        906 INPLACE_MATRIX_MULTIPLY     
+        908 STORE_GLOBAL            58 
+        910 POP_JUMP_IF_TRUE         3 
+        912 IMPORT_FROM              3 (ds)
+        914 RAISE_VARARGS          160 
+        916 FORMAT_VALUE            24 
+        918 STORE_GLOBAL            74 
+        920 STORE_GLOBAL            76 
+        922 LOAD_FAST                2 
+        924 INPLACE_MATRIX_MULTIPLY     
+        926 BUILD_TUPLE              2 
+        928 STORE_GLOBAL            77 
+        930 SETUP_FINALLY            2 (to 934)
+        932 IMPORT_FROM              3 (ds)
+    >>  934 CALL_FUNCTION          172 
+
+68      936 STORE_GLOBAL            56 
+        938 STORE_FAST              25 
+
+69      940 FORMAT_VALUE             6 
+        942 FORMAT_VALUE             1 
+        944 FORMAT_VALUE             3 
+        946 FORMAT_VALUE             5 
+        948 STORE_GLOBAL            78 
+        950 STORE_GLOBAL            35 
+        952 STORE_GLOBAL            79 
+        954 STORE_GLOBAL            80 
+        956 STORE_GLOBAL            14 (ch07)
+        958 SETUP_ASYNC_WITH         5 (to 965)
+        960 SETUP_FINALLY            1 (to 963)
+        962 SETUP_FINALLY            1 (to 965)
+        964 SETUP_FINALLY            2 (to 968)
+        966 SETUP_FINALLY            0 (to 968)
+    >>  968 BINARY_AND                 
+
+70      970 FORMAT_VALUE            25 
+        972 IMPORT_FROM              4 (rr)
+        974 RAISE_VARARGS          200 
+
+71      976 FORMAT_VALUE             6 
+        978 FORMAT_VALUE             1 
+        980 FORMAT_VALUE             3 
+        982 FORMAT_VALUE             5 
+        984 STORE_GLOBAL            78 
+        986 STORE_GLOBAL            35 
+        988 STORE_GLOBAL            79 
+        990 STORE_GLOBAL            80 
+        992 STORE_GLOBAL            14 (ch07)
+        994 SETUP_ASYNC_WITH         5 (to 1001)
+        996 SETUP_FINALLY            1 (to 999)
+        998 SETUP_FINALLY            1 (to 1001)
+       1000 SETUP_FINALLY            2 (to 1004)
+       1002 FORMAT_VALUE             3 
+    >> 1004 FORMAT_VALUE             5 
+       1006 STORE_GLOBAL            15 (ch08)
+       1008 STORE_GLOBAL            81 
+       1010 STORE_GLOBAL            82 
+       1012 STORE_GLOBAL            80 
+       1014 STORE_GLOBAL            83 
+       1016 STORE_GLOBAL            84 
+       1018 STORE_GLOBAL            85 
+       1020 STORE_GLOBAL            78 
+       1022 STORE_GLOBAL            86 
+       1024 STORE_GLOBAL            87 
+       1026 STORE_GLOBAL            88 
+       1028 STORE_GLOBAL            89 
+       1030 STORE_GLOBAL            90 
+       1032 STORE_GLOBAL            28 
+       1034 STORE_GLOBAL            91 
+       1036 STORE_GLOBAL            92 
+       1038 STORE_GLOBAL            93 
+       1040 STORE_GLOBAL            94 
+       1042 STORE_GLOBAL            95 
+       1044 STORE_GLOBAL            96 
+       1046 STORE_GLOBAL            97 
+       1048 STORE_GLOBAL            19 (startswith)
+       1050 STORE_GLOBAL            14 (ch07)
+       1052 STORE_GLOBAL            90 
+       1054 STORE_GLOBAL            86 
+       1056 STORE_GLOBAL            98 
+       1058 STORE_GLOBAL            99 
+       1060 STORE_GLOBAL            35 
+       1062 STORE_GLOBAL            26 (len)
+       1064 STORE_GLOBAL            54 
+       1066 STORE_GLOBAL           100 
+       1068 STORE_GLOBAL           101 
+       1070 STORE_GLOBAL           102 
+       1072 STORE_GLOBAL           103 
+       1074 STORE_GLOBAL            80 
+       1076 STORE_GLOBAL            13 (ch06)
+       1078 STORE_GLOBAL           104 
+       1080 STORE_GLOBAL           105 
+       1082 STORE_GLOBAL           106 
+       1084 STORE_GLOBAL           107 
+       1086 STORE_GLOBAL           108 
+       1088 STORE_GLOBAL           109 
+       1090 STORE_GLOBAL           110 
+       1092 STORE_GLOBAL           103 
+       1094 STORE_GLOBAL            79 
+       1096 STORE_GLOBAL           111 
+       1098 STORE_GLOBAL           112 
+       1100 STORE_GLOBAL            74 
+       1102 STORE_GLOBAL           113 
+       1104 STORE_GLOBAL            25 (rrr)
+       1106 STORE_GLOBAL           114 
+       1108 STORE_GLOBAL            17 (ch10)
+       1110 STORE_GLOBAL            97 
+       1112 STORE_GLOBAL            19 (startswith)
+       1114 STORE_GLOBAL           115 
+       1116 STORE_GLOBAL           116 
+       1118 STORE_GLOBAL           117 
+       1120 STORE_GLOBAL            25 (rrr)
+       1122 STORE_GLOBAL            30 
+       1124 STORE_GLOBAL            89 
+       1126 STORE_GLOBAL           118 
+       1128 STORE_GLOBAL           103 
+       1130 STORE_GLOBAL           119 
+       1132 STORE_GLOBAL             0 (builtins)
+       1134 STORE_GLOBAL           107 
+       1136 STORE_GLOBAL           103 
+       1138 STORE_GLOBAL            16 (ch09)
+       1140 STORE_GLOBAL           120 
+       1142 STORE_GLOBAL           121 
+       1144 STORE_GLOBAL            19 (startswith)
+       1146 STORE_GLOBAL           122 
+       1148 STORE_GLOBAL            78 
+       1150 STORE_GLOBAL           123 
+       1152 STORE_GLOBAL           124 
+       1154 STORE_GLOBAL            26 (len)
+       1156 STORE_GLOBAL           103 
+       1158 STORE_GLOBAL           125 
+       1160 STORE_GLOBAL            87 
+       1162 STORE_GLOBAL           126 
+       1164 STORE_GLOBAL            29 
+       1166 STORE_GLOBAL            93 
+       1168 STORE_GLOBAL            37 
+       1170 STORE_GLOBAL            95 
+       1172 STORE_GLOBAL            13 (ch06)
+       1174 STORE_GLOBAL           127 
+       1176 STORE_GLOBAL           128 
+       1178 STORE_GLOBAL           108 
+       1180 STORE_GLOBAL            52 
+       1182 STORE_GLOBAL           129 
+       1184 STORE_GLOBAL            25 (rrr)
+       1186 STORE_GLOBAL            88 
+       1188 STORE_GLOBAL           130 
+       1190 STORE_GLOBAL           131 
+       1192 STORE_GLOBAL            54 
+       1194 STORE_GLOBAL           119 
+       1196 STORE_GLOBAL            72 
+       1198 STORE_GLOBAL            10 (ch03)
+       1200 STORE_GLOBAL            35 
+       1202 STORE_GLOBAL            82 
+       1204 STORE_GLOBAL           132 
+       1206 STORE_GLOBAL            20 (endswith)
+       1208 STORE_GLOBAL           133 
+       1210 STORE_GLOBAL           134 
+       1212 SETUP_ASYNC_WITH       103 (to 1317)
+       1214 SETUP_FINALLY            1 (to 1217)
+       1216 SETUP_FINALLY            1 (to 1219)
+       1218 SETUP_FINALLY            1 (to 1221)
+       1220 BINARY_AND                 
+       1222 BUILD_TUPLE             48 
+
+73     1224 FORMAT_VALUE             6 
+       1226 FORMAT_VALUE             1 
+       1228 FORMAT_VALUE             3 
+       1230 FORMAT_VALUE             5 
+       1232 STORE_GLOBAL            78 
+       1234 STORE_GLOBAL            35 
+       1236 STORE_GLOBAL            79 
+       1238 STORE_GLOBAL            80 
+       1240 STORE_GLOBAL            14 (ch07)
+       1242 SETUP_ASYNC_WITH         5 (to 1249)
+       1244 SETUP_FINALLY            1 (to 1247)
+       1246 SETUP_FINALLY            1 (to 1249)
+       1248 SETUP_FINALLY            2 (to 1252)
+       1250 FORMAT_VALUE             3 
+    >> 1252 FORMAT_VALUE             5 
+       1254 STORE_GLOBAL           135 
+       1256 STORE_GLOBAL            25 (rrr)
+       1258 STORE_GLOBAL            12 (ch05)
+       1260 STORE_GLOBAL            17 (ch10)
+       1262 SETUP_ASYNC_WITH         4 (to 1268)
+       1264 SETUP_FINALLY            1 (to 1267)
+       1266 SETUP_FINALLY            1 (to 1269)
+    >> 1268 SETUP_FINALLY            1 (to 1271)
+       1270 BINARY_AND                 
+       1272 BUILD_TUPLE             48 
+
+75     1274 FORMAT_VALUE             6 
+       1276 FORMAT_VALUE             1 
+       1278 FORMAT_VALUE             3 
+       1280 FORMAT_VALUE             5 
+       1282 STORE_GLOBAL            78 
+       1284 STORE_GLOBAL            35 
+       1286 STORE_GLOBAL            79 
+       1288 STORE_GLOBAL            80 
+       1290 STORE_GLOBAL            14 (ch07)
+       1292 SETUP_ASYNC_WITH         5 (to 1299)
+       1294 SETUP_FINALLY            1 (to 1297)
+       1296 SETUP_FINALLY            1 (to 1299)
+       1298 SETUP_FINALLY            2 (to 1302)
+       1300 FORMAT_VALUE             3 
+    >> 1302 FORMAT_VALUE             5 
+       1304 STORE_GLOBAL           135 
+       1306 STORE_GLOBAL            25 (rrr)
+       1308 STORE_GLOBAL            12 (ch05)
+       1310 STORE_GLOBAL            17 (ch10)
+       1312 SETUP_ASYNC_WITH         4 (to 1318)
+       1314 SETUP_FINALLY            1 (to 1317)
+       1316 SETUP_FINALLY            1 (to 1319)
+    >> 1318 SETUP_FINALLY            1 (to 1321)
+       1320 BINARY_AND                 
+       1322 STORE_GLOBAL             1 (bi)
+       1324 POP_EXCEPT                 
