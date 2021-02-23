@@ -1,0 +1,1 @@
+All flags were in ftp-data sent to FTP server. IIRC first was jpg file, 2 others were in encrypted zip archive, encryption password was sent separetly in .txt file. First one was .png file, second was hex and base64 encoded jpg file
