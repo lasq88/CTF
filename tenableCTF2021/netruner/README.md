@@ -1,4 +1,4 @@
-Very nice challenge, I learned a lot about block-cyphers when solving it. In the end article that helped me to solve it was this one:
+Very nice challenge, I learned a lot about block-ciphers when solving it. In the end article that helped me to solve it was this one:
 
 https://www.linkedin.com/pulse/short-note-prefix-chosen-plaintext-attack-cpa-ecb-mode-hannes-salin/
 
