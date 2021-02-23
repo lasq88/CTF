@@ -1,4 +1,4 @@
-Working code in both python scripts (_py2 is python 2 for purposes oif the challenge).
+Working code in both python scripts (chess_py2.py is python 2 for purposes of the challenge validator).
 
 Initial idea was to check if every figure "sees" king because that's how I found it done in some open-source chess code. But in the end I managed to optimize it for sake of only validating if king is in check:
 1. I start with finding king's position
