@@ -1,4 +1,6 @@
-**NOT DONE**
+**NOT SOLVED**
+
+Great write-up here: https://github.com/cavetownie/pwn_journey/blob/main/NahamCon2021/writeups/thelist/thelist.md
 
 Branded as "easy" binary exploitation challenge but still too difficult for me ;)
 
