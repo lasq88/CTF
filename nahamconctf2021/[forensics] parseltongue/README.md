@@ -1,5 +1,15 @@
+parseltongue is a compiled python .pyc file but with removed header so it is not quite obvious as `file` command will only reveal `data`. But we can easily run it with python interpreter even without adding header. When run with python it will output some random strings.
+
+To check what is inside, we need to decompile it. Without header uncompyle6 complained that this is not a .pyc file but surprisingly only adding .pyc extension was enough to decompile this file:
+
+```
 vulcan@DESKTOP-93D27OT:/mnt/d/Documents/ctf/nahamcon/parseltongue$ cp parseltongue parseltongue.pyc
 vulcan@DESKTOP-93D27OT:/mnt/d/Documents/ctf/nahamcon/parseltongue$ uncompyle6 parseltongue.pyc
+```
+
+Decompiled code below, it did some string and byte manipulations to display random string at the end. After some quick debugging, flag was in `zzz` variable.
+
+```python
 # uncompyle6 version 3.7.4
 # Python bytecode 3.8 (3413)
 # Decompiled from: Python 3.8.5 (default, Jul 28 2020, 12:59:40)
@@ -41,3 +51,4 @@ else:
     else:
         print(' '.join([random.choice(sszz).upper() for _ in range(random.randrange(5, 10))]))
 # okay decompiling parseltongue.pyc
+```
