@@ -11,7 +11,7 @@ What I liked about the CTF:
  * Big community
 
 What I disliked:
- * Too many hints was given away on Discord - I feel like this should be stopped or hints should be official on the page so everyone could see them.
+ * Too many hints were given away on Discord - I feel like this should be stopped or hints should be official on the page so everyone could see them.
  * Too many boring sponsor challenges like: find flag on sponsor page or go through entire Hack The Box module. I understand sponsorship requirements but these challenges should be either interesting or pretty simple and straightforward so everyone gets free points. Otherwise it's boring and unfair like HTB infra challenged unsolved until last 3 hours of CTF and then suddenly magically solved by 111 teams who saw a hint on Discord. Quite unfair in my opinion.
  * Too much Web and Binexp challenges but that's personal bias, probably some people loved it. Still I think chellenge pool should be more balanced.
  * No RE challenges at all :( :( Only 2 deobfuscation re-like challenges hidden as Misc
