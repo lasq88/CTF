@@ -1,5 +1,7 @@
 **NOT SOLVED**
 
+Edit: After checking some write-ups, apparently https://www.dcode.fr/book-cipher works flawlessly for this challenge. Not sure why and what is their word counting strategy.
+
 Didn't manage to solve this (supposedly) easy crypto challenge :( I'm quite sure used cipher was [Beale cipher](https://en.wikipedia.org/wiki/Beale_ciphers) but it didn't work. 
 
 note.txt was encrypted flag
