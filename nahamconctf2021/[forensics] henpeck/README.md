@@ -1,5 +1,7 @@
 Very similar to [cat taps challenge](https://github.com/lasq88/CTF/tree/main/tenableCTF2021/cat%20taps) from Tentable CTF 2021.
 
+Solution is described in details here: https://abawazeeer.medium.com/kaizen-ctf-2018-reverse-engineer-usb-keystrok-from-pcap-file-2412351679f4
+
 By adjusting a filter in wireshark a little, I was this time able to solve it using only python script/
 
 Solution in cat.py
