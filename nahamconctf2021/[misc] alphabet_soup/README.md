@@ -57,6 +57,6 @@ namespace RAKSVwqLMTDsnB
 }
 ```
 
-After looking at assembly.dll in dnspy, it initialized very big variable and then simply printed *"Not so fast!"*. It looked like flag is somewhere in initialized memory. Simple look at memory window confirmed this
+After looking at assembly.dll in dnspy, it initialized very big byte array and then simply printed *"Not so fast!"*. It looked like flag is somewhere in initialized memory. Simple look at memory window confirmed this
 
 ![memory](https://github.com/lasq88/CTF/blob/main/nahamconctf2021/%5Bmisc%5D%20alphabet_soup/flag.PNG)
