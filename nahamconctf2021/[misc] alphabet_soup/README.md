@@ -1,6 +1,6 @@
 Interesting C# deobfuscation challenge. Original code implemented quite common obfuscation for C# malware where first stage binary decrypted and loaded into memory assembly code and then executed it.
 
-Since we were in posession of source-code we could even slightly modify this code to drob second stage to disk. Most likely it wasn't even needed as probably flag could be simply taken from memory of this first stage code, but in all honesty I don't know how to do it with Visual Studio so I prefered to drop this file do disk and take a look at it in dnspy.
+Since we were in posession of source-code we could even slightly modify this code to drop the second stage to disk. Most likely it wasn't even needed as probably flag could be simply taken from memory of this first stage code, but in all honesty I don't know how to do it with Visual Studio so I prefered to drop this file to disk and take a look at it in dnspy.
 
 Modified first stage in Program.cs
 ```C#
@@ -57,6 +57,6 @@ namespace RAKSVwqLMTDsnB
 }
 ```
 
-After looking at assembly.dll in dnspy, it initialized very big variable and then simply printed *"Not so fast!"*. It looked like flag is somewhere in initialized memory. Simple look at memory window confirmed this
+After looking at assembly.dll in dnspy, it initialized very big byte array and then simply printed *"Not so fast!"*. It looked like flag is somewhere in initialized memory. Simple look at memory window confirmed this
 
 ![memory](https://github.com/lasq88/CTF/blob/main/nahamconctf2021/%5Bmisc%5D%20alphabet_soup/flag.PNG)
