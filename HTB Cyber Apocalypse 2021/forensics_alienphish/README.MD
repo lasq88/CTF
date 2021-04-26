@@ -14,7 +14,7 @@ As we know, the new Office document format since 2007 is basically just a zipped
 
 Then we can check what’s inside. Powerpoint presentation, has a standard office document format with documentpProperties etc. + ppt folder with one xml file per slide (in this case only one). We will start here to see what’s actually included int the slide.
 
-![Slide1](writeup\slide1.png)
+![Slide1](writeup/slide1.png)
 
 This looks interesting, there’s an image with a strange directive for “a:hlinkHover” event. But what does it mean? 
 
@@ -26,7 +26,7 @@ So now we need to check this r:id object. Seems this is a relation object and al
 
 If we check there, we can see that relation `rId2` is in fact an URL encoded command line argument, that is executed after mouse hovers over the image in presentation.
 
-![Slide1](writeup\relation2.png)
+![Slide1](writeup/relation2.png)
 
 What does it do? Well it is a URL encoded command, so we can decode it in CybeChef:
 
