@@ -21,7 +21,7 @@ It deobfuscates itself into the document!
 
 ![Deobfuscated VBA code](writeup/decoded.PNG)
 
-We can see it's base64 encoded. We can decode it in CyberChef or any other favorite decoder. It is indeed an encoded powershell command. Looks like it contains another base64 encoded payload that it tries to install persistently in `"HKCU:\Software\$($regp)" -Name "$($regn)"` as a Scheduled Task. The payload itself connects to a different IP over port 4444 and tries to download and execute additional code.
+We can see it's base64 encoded. We can decode it in CyberChef or any other favorite decoder. It is indeed an encoded powershell command. Looks like it contains another base64 encoded payload that it tries to install persistently in `"HKCU:\Software\$($regp)" -Name "$($regn)"` as a Scheduled Task. The payload itself connects to a different IP over port 4444 and tries to download and execute additional code (Please see powershell.ps1 file to see entire payload).
 
 This part is not really important for the CTF challenge, and only shows typical Malware TTPs for educational purposes.
 
