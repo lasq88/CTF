@@ -1,4 +1,4 @@
-#HTB Cyber Apocalypse 2021
+# HTB Cyber Apocalypse 2021
 
 Very interesting challenge that took place for the entire working week of 19-23 of April 2021.
 
