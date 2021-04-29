@@ -58,7 +58,7 @@ I used this example from Microsoft to implement my decrypter: https://docs.micro
 
 In fact, I implemented both Crypter and Decrypter for testing purposes (a lot of debugging). Crypter was based on similar example: https://docs.microsoft.com/en-us/windows/win32/seccrypto/example-c-program-encrypting-a-file
 
-Working code can be found in DecryptFile.cpp (and Crypter code in EncryptFile.cpp)
+Working code can be found in [DecryptFile.cpp](DecryptFile.cpp) (and Crypter code in [EncryptFile.cpp](EncryptFile.cpp))
 
 ![Decrypter working](writeup/decrypter_working.PNG)
 
