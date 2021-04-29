@@ -28,11 +28,11 @@ Now we have 2 options, we can dump this binary from the memory (like I did durin
 
 ![external call](writeup/external_call.png)
 
-Now let's take a look at this library and it's exported function "encryptFiles". It iterates over files in C:\Users\%username%\Docs and encrypts them adding extension .alien
+Now let's take a look at this library and it's exported function "encryptFiles". It iterates over files in C:\Users\\%username%\Docs and encrypts them adding extension .alien
 
 ![encryptFiles](writeup/encryptFiles.png)
 
-We can actually create C:\Users\%username%\Docs folder, put there some random files and see they are encrypted after launching our binary.
+We can actually create C:\Users\\%username%\Docs folder, put there some random files and see they are encrypted after launching our binary.
 
 ![encrypted files](writeup/encryptedfiles.png)
 
@@ -40,13 +40,13 @@ The interesting part is our EncryptionRoutine and key that is passed there. Actu
 
 ![encryption key](writeup/encryptionKey.png)
 
-So how do we get the encryption key. Well, we could reverse and reimplement this big chunk of code (yep, sure) but it seems like a lot of work. Since we are lazy, we will just grab it from memory. 
+So how do we get the encryption key? Well, we could reverse and reimplement this big chunk of code but it seems like a lot of work. Since we are lazy, we will just grab it from memory. We set the breakpoint on encryptFiles call, and use "Follow [address] in dump" option to see what is being passed to the function. Then simply copy-paste first 16-bytes.
 
 ![get encryption key](writeup/getEncryptionKey1.PNG)
 
 ![get encryption key](writeup/getEncryptionKey2.PNG)
 
-So, we have an encryption key, how do we decrypt encrypted file? Unfortunately, it seems we need to implement decryption ourselves, since Alienware.exe do not have this option in the code. For this we need to take a deeper look at EncryptionRoutine in xuTaV.dll.
+So, we have an encryption key, how do we decrypt the encrypted file? Unfortunately, it seems we need to implement decryption ourselves since Alienware.exe do not have this option in the code (EDIT: as other write-ups pointed out, this is not entirely true, since this is a symmetric encryption algorithm, we could simply patch a call to CryptEncrypt and change it to the call to CryptDecrypt routine, and ransomware should decrypt itself). For this, we need to take a deeper look at EncryptionRoutine in xuTaV.dll.
 
 ![encryption routine](writeup/encryptionRoutine.png)
 
