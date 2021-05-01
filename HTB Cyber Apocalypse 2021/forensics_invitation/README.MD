@@ -3,7 +3,7 @@
 **Stars**: 1/5
 
 **Downloadable**:
-invite.docm - a macro-enabled word document
+invite.docm - a macro-enabled word document (EDIT: file is being removed by AV usually, I uploaded an invite.zip with password "infected" for your convenience)
 
 **Goal**: Given the invite.docx file, get the flag
 
