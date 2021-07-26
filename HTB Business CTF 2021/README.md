@@ -4,4 +4,4 @@ It started quite random, with me asking within the company if there are any peop
 
 In the end we managed to take 4th place, even being 2nd for some time during the competition. For me it's a great success and I am greatful to my teammates. In this repo you will find writeups, of challenges I've done (and one I didn't finish)
 
-![4th place](img\htb_ctf_business.png)
+![4th place](htb_ctf_business.png)
