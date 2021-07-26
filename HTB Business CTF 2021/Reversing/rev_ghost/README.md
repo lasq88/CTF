@@ -56,9 +56,9 @@ To do that we need to go back to the Golang binary. If you remember the strange 
 
 So far, so good, now we can run our binary, grab a decryption key and get a flag, right? Not so fast, remember this strange guid sent by client to C2? It is being used as a seed to derive a correct encryption key. It is being generated at line 25 of .NET binary, and then saved to registry in line 26.
 
-```cp
+```cs
 umj3VnYEF8fY3bkw.RegistryKeyValue = Guid.NewGuid().ToString();
-         umj3VnYEF8fY3bkw.RegistrySetValueW(umj3VnYEF8fY3bkw.RegistryKeyValue);
+umj3VnYEF8fY3bkw.RegistrySetValueW(umj3VnYEF8fY3bkw.RegistryKeyValue);
 ```
 
 So to get a correct encryption key we need to set a breakpoint at the beginning of DecryptString function, and change in memory a randomly generated GUID for the one we got from the network traffic.
@@ -69,7 +69,7 @@ With this done we can finally get a correct decryption key.
 ## Part 3 - Decrypting the file
 So now, there is nothing easier than to just write a simple decryptor in .NET and then decrypt the file and get our flag, right? Well in theory, yes. In practice I wasted 3 hours with different code samples from the internet, trying to make this decryptor work. I always ran into the `Padding is invalid and cannot be removed.` exception, which meant something is wrong either with the encrypted file or with my key, or with a decryption code. After many tries to unsuccessfully debug my code, I've ruan out of time, and the CTF finished. Only the next day, after looking at someone else working code, I realzied my mistake. When calling rfc2898DeriveBytes I set number of rounds to 5000 instead of 50000 as it was originally in the encryptor. This small mistake costed me few hours, a lot of frustration and unsolved challenge. Fortuantely id didn't cost our team a podium position, as even with it we would finished on 4th place.
 
-```cp
+```cs
 Rfc2898DeriveBytes rfc2898DeriveBytes = new Rfc2898DeriveBytes(bytes, array, 50000);
 ```
 One more remark regarding decryption code: Encryptor writes a salt into the first 32 bytes of the encrypted file. You need to read this value first and then decrypt reminder of the file. Other than that it is pretty straightforward, and many examples can be found in the internet. Just watch out for typos.
