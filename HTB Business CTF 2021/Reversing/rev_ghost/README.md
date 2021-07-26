@@ -14,37 +14,38 @@ Challenge consisted of 3 files:
 
 ## Part 1 - decrypting the traffic
 The initial strategy was to look at the binary, looking for a key to decrypt traffic from the pcap. As said before, binary turned out to be a compiled GoLang. I wasn't experienced with reversing golang binaries, so initially I spent a lot of time learning about golang (I will link few useful sources on the bottom). There were few issues I was dealing with:
-Golang compiler is passing all functions' arguments on the stack, while Ghidra insists since it is x64 binary it must follow an x64 callign convention. Due to this, arguments are all messed up in Ghidra both in disassembly and decompiler. I couldn't find easy and fast way to solve it during CTF so I was just making notes, what functions have what arguments.
-Golang has a huge concurrency focus, related to so called goroutines. Not sure if this is directly related, but my x64dbg loved to switch context, even during single-stepping, which was quite annoying. In the end, I learned to not use single-stepping and just put a lot of breakpoint whenever I saw an interesting code.
-On the bright side, Ghidra did well on recovering all function names and strings, which I read was an issue for some disassemblers in the past. So this at least made analyzis a little bit more convinent.
+ * Golang compiler is passing all functions' arguments on the stack, while Ghidra insists since it is x64 binary it must follow an x64 callign convention. Due to this, arguments are all messed up in Ghidra both in disassembly and decompiler. I couldn't find easy and fast way to solve it during CTF so I was just making notes, what functions have what arguments.
+ * Golang has a huge concurrency focus, related to so called goroutines. Not sure if this is directly related, but my x64dbg loved to switch context, even during single-stepping, which was quite annoying. In the end, I learned to not use single-stepping and just put a lot of breakpoint whenever I saw an interesting code.
+ * On the bright side, Ghidra did well on recovering all function names and strings, which I read was an issue for some disassemblers in the past. So this at least made analyzis a little bit more convinent.
+
 Eventually, by running disassembler and debugger concurrently, I started to make some sense out of the binary. Initially the binary used net.Dial() function to connect to nonexistent domain wind0ws11.com on port 443, then it used crypto/cipher library to encrypt communcation with AES encryption in GCM mode. If you set the breakpoint at correct address, you can easily see AES key being passed to the function
 
-![AES key in memory](img\network_decryption_key.PNG)
+![AES key in memory](img/network_decryption_key.PNG)
 
 Having the key, we need to understand a network alorithm to fully decrypt the text. If we look into the pcap in the raw form in Wireshark (follow tcp stream -> show data as: raw) we will see that first packet is usually 4 bytes and then a longer string follows. If you areperienced with raw socket programming, you will know that for raw socket transission, it's always easy to first send information about the amount of data that needs is to be expected next, before sending actual data. This is exactly what happens here. So we have 4 bytes that are not encrypted and decypher to a number n, followed by an encrypteded string of data of lenght of exactly n bytes.
 With this information it's just a matter of writing a simple decryptor in our language of choice. Usually I chose the same language that was used in the original file, just to avoid some pottential issues related to cryptography implemantation. So I wrote one decryptor in go, but later I needed a decryption function in python, so I wrote that too. 
 You can find the correct script in the decrypt.py file.
 
-![Decrypted data](img\decrypted_data.PNG)
+![Decrypted data](img/decrypted_data.PNG)
 
 In the decrypted network traffic, we will find an interesting communication with the C2, but most importantly a long binary string, that decrypts to a .NET executable. Additionaly we will find some recon commands, some guid string sent from client to server (this will be important later) and a ransom note.
 Entire decrypted traffic can be found in decrypted.txt file.
 If we look more closely, we can also see that each command is preceded by a 2 letter message like "rc" or "la". These are C2 server commands that will tell the binary what function to execute next with parameters that follow after the command. If we will look closely at the diassembly, we will find a function that is responsible for parsing a reply from C2 and executing a particular action. It looks like this:
 
-![C2 command parsing routine](img\C2Comms.PNG)
+![C2 command parsing routine](img/C2Comms.PNG)
 
 What I did during the CTF to help me understand better the flow of the code and the functions is writing a tiny TCP server in python to serve as C2. With this I could debug specific functions and see what they are doing. You can find the script in c2_emulator.py file.
 
-![C2 emulator](img\c2_emulator.png)
+![C2 emulator](img/c2_emulator.png)
 
 Now we can tell from the decrypted pcap what exactly happended during the attack. There were some reconnasiance commands run at first, then some data was written to a RegistryKey "Service" (take note, this is important) and later a .NET binary was sent and executed and after that client some guid (stored also in registry key) to the server, and in the end a ransom note was written to the desktop.
 
 ## Part 2 - analyzing .NET binary and getting decryption key
 
 So now it is a good time to look at the .NET binary. It is not very obfuscated but function names are random and most of the strings are encrypted. After some deobfuscation and analysis, this is how the main function looks like:
-![.NET Binary main](img\dotnetmain.png)
+![.NET Binary main](img/dotnetmain.png)
 Unfortunately we soon realize, to decrypt any strings, we need to know what argument is passed to the program from the main Go binary (line 22), as it is later used in string decryption function:
-![String Decryption Function](img\decryptstring.png)
+![String Decryption Function](img/decryptstring.png)
 To do that we need to go back to the Golang binary. If you remember the strange string passed from C2 to the client to be saved in the registry key named "service" it is used as part of this decryption key, but it is later xored with some hardcoded hexstring in the binary. But I learned this only after CTF, during CTF I jsut ran my emulator, asked Go malwared to run a binary, and grabbed an argument from the memory. With this I could already run our .NET ransomware encryptor. To debug it, we also need to nop out a call to Process.EnterDebugMode() - otherwise it will crash our debugger.
 So far, so good, now we can run our binary, grab a decryption key and get a flag, right? Not so fast, remember this strange guid sent by client to C2? It is being used as a seed to derive a correct encryption key. It is being generated at line 25 of .NET binary, and then saved to registry in line 26.
 
@@ -54,9 +55,9 @@ umj3VnYEF8fY3bkw.RegistryKeyValue = Guid.NewGuid().ToString();
 ```
 
 So to get a correct encryption key we need to set a breakpoint at the beginning of DecryptString function, and change in memory a randomly generated GUID for the one we got from the network traffic.
-![Change GUID in memory](img\guid_memory.png)
+![Change GUID in memory](img/guid_memory.png)
 With this done we can finally get a correct decryption key.
-![Ransomware Decryption Key](img\file_decryption_key.png)
+![Ransomware Decryption Key](img/file_decryption_key.png)
 
 ## Part 3 - Decrypting the file
 So now, there is nothing easier than to just write a simple decryptor in .NET and then decrypt the file and get our flag, right? Well in theory, yes. In practice I wasted 3 hours with different code samples from the internet, trying to make this decryptor work. I always ran into the `Padding is invalid and cannot be removed.` exception, which meant something is wrong either with the encrypted file or with my key, or with a decryption code. After many tries to unsuccessfully debug my code, I've ruan out of time, and the CTF finished. Only the next day, after looking at someone else working code, I realzied my mistake. When calling rfc2898DeriveBytes I set number of rounds to 5000 instead of 50000 as it was originally in the encryptor. This small mistake costed me few hours, a lot of frustration and unsolved challenge. Fortuantely id didn't cost our team a podium position, as even with it we would finished on 4th place.
