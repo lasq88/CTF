@@ -6,7 +6,7 @@
 
 **Goal**: To reverse engineer the exploit in JScript and get a flag
 
-**Video Solution**: https://youtu.be/AB1JqnbG0b8
+**Video Solution**: https://youtu.be/dpAbAzO1he4
 
 # Solution
 
