@@ -3,8 +3,8 @@
 **Points**: 300
 
 **Downloadable**:
-ransomware.exe - Ransomware PE32 binary
-important.intent.enc - encrypted file
+* ransomware.exe - Ransomware PE32 binary
+* important.intent.enc - encrypted file
 
 **Goal**: This is a typical "decrypt my ransomware" challenge. We have an encrypted file and a binary encryptor. We must find vulnerability or weakness in encryption implementation, and decrypt the file containing the flag.
 
@@ -47,8 +47,8 @@ But how we can recover these values for the originally encrypted file with a fla
 
 ![Encrypted original file](writeup/encrypted_file_org.png)
 
-MAL_hex_value = 5642f126
-Size = 0x1a5d = 6749
+* MAL_hex_value = 5642f126
+* Size = 0x1a5d = 6749
 
 What about the last number?
 
