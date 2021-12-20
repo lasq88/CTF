@@ -1,0 +1,1597 @@
+[121, 123, 78, 27, 45]
+ping{<p4t_w4;Gtr1ck1G8c7d8q+3df90q}a7880{ b3bd5q~b7442-/19bd3x-2b846x)3afd9-z9bf24x/4}
+ping{<s4t_w4;Dtr1ck1D8c7d8q(3df90q~a7880{#b3bd5q}b7442-,19bd3x.2b846x*3afd9-y9bf24x,4}
+ping{<t4t_w4;Ctr1ck1C8c7d8q/3df90qya7880{$b3bd5qzb7442-+19bd3x)2b846x-3afd9-~9bf24x+4}
+ping{<w4t_w4;@tr1ck1@8c7d8q,3df90qza7880{'b3bd5qyb7442-(19bd3x*2b846x.3afd9-}9bf24x(4}
+ping{<v4t_w4;Atr1ck1A8c7d8q-3df90q{a7880{&b3bd5qxb7442-)19bd3x+2b846x/3afd9-|9bf24x)4}
+ping{<y4t_w4;Ntr1ck1N8c7d8q"3df90qta7880{)b3bd5qwb7442-&19bd3x$2b846x 3afd9-s9bf24x&4}
+ping{<x4t_w4;Otr1ck1O8c7d8q#3df90qua7880{(b3bd5qvb7442-'19bd3x%2b846x!3afd9-r9bf24x'4}
+ping{<{4t_w4;Ltr1ck1L8c7d8q 3df90qva7880{+b3bd5qub7442-$19bd3x&2b846x"3afd9-q9bf24x$4}
+ping{<z4t_w4;Mtr1ck1M8c7d8q!3df90qwa7880{*b3bd5qtb7442-%19bd3x'2b846x#3afd9-p9bf24x%4}
+ping{<}4t_w4;Jtr1ck1J8c7d8q&3df90qpa7880{-b3bd5qsb7442-"19bd3x 2b846x$3afd9-w9bf24x"4}
+ping{<|4t_w4;Ktr1ck1K8c7d8q'3df90qqa7880{,b3bd5qrb7442-#19bd3x!2b846x%3afd9-v9bf24x#4}
+ping{<~4t_w4;Itr1ck1I8c7d8q%3df90qsa7880{.b3bd5qpb7442-!19bd3x#2b846x'3afd9-t9bf24x!4}
+ping{<a4t_w4;Vtr1ck1V8c7d8q:3df90qla7880{1b3bd5qob7442->19bd3x<2b846x83afd9-k9bf24x>4}
+ping{<`4t_w4;Wtr1ck1W8c7d8q;3df90qma7880{0b3bd5qnb7442-?19bd3x=2b846x93afd9-j9bf24x?4}
+ping{<c4t_w4;Ttr1ck1T8c7d8q83df90qna7880{3b3bd5qmb7442-<19bd3x>2b846x:3afd9-i9bf24x<4}
+ping{<b4t_w4;Utr1ck1U8c7d8q93df90qoa7880{2b3bd5qlb7442-=19bd3x?2b846x;3afd9-h9bf24x=4}
+ping{<e4t_w4;Rtr1ck1R8c7d8q>3df90qha7880{5b3bd5qkb7442-:19bd3x82b846x<3afd9-o9bf24x:4}
+ping{<d4t_w4;Str1ck1S8c7d8q?3df90qia7880{4b3bd5qjb7442-;19bd3x92b846x=3afd9-n9bf24x;4}
+ping{<g4t_w4;Ptr1ck1P8c7d8q<3df90qja7880{7b3bd5qib7442-819bd3x:2b846x>3afd9-m9bf24x84}
+ping{<f4t_w4;Qtr1ck1Q8c7d8q=3df90qka7880{6b3bd5qhb7442-919bd3x;2b846x?3afd9-l9bf24x94}
+ping{<i4t_w4;^tr1ck1^8c7d8q23df90qda7880{9b3bd5qgb7442-619bd3x42b846x03afd9-c9bf24x64}
+ping{<h4t_w4;_tr1ck1_8c7d8q33df90qea7880{8b3bd5qfb7442-719bd3x52b846x13afd9-b9bf24x74}
+ping{<k4t_w4;\tr1ck1\8c7d8q03df90qfa7880{;b3bd5qeb7442-419bd3x62b846x23afd9-a9bf24x44}
+ping{<j4t_w4;]tr1ck1]8c7d8q13df90qga7880{:b3bd5qdb7442-519bd3x72b846x33afd9-`9bf24x54}
+ping{<m4t_w4;Ztr1ck1Z8c7d8q63df90q`a7880{=b3bd5qcb7442-219bd3x02b846x43afd9-g9bf24x24}
+ping{<l4t_w4;[tr1ck1[8c7d8q73df90qaa7880{<b3bd5qbb7442-319bd3x12b846x53afd9-f9bf24x34}
+ping{<o4t_w4;Xtr1ck1X8c7d8q43df90qba7880{?b3bd5qab7442-019bd3x22b846x63afd9-e9bf24x04}
+ping{<n4t_w4;Ytr1ck1Y8c7d8q53df90qca7880{>b3bd5q`b7442-119bd3x32b846x73afd9-d9bf24x14}
+ping{=p4t_w4:Gtr1ck0G8c7d8p+3df90p}a7880z b3bd5p~b7442,/19bd3y-2b846y)3afd9,z9bf24y/4}
+ping{=s4t_w4:Dtr1ck0D8c7d8p(3df90p~a7880z#b3bd5p}b7442,,19bd3y.2b846y*3afd9,y9bf24y,4}
+ping{=t4t_w4:Ctr1ck0C8c7d8p/3df90pya7880z$b3bd5pzb7442,+19bd3y)2b846y-3afd9,~9bf24y+4}
+ping{=w4t_w4:@tr1ck0@8c7d8p,3df90pza7880z'b3bd5pyb7442,(19bd3y*2b846y.3afd9,}9bf24y(4}
+ping{=v4t_w4:Atr1ck0A8c7d8p-3df90p{a7880z&b3bd5pxb7442,)19bd3y+2b846y/3afd9,|9bf24y)4}
+ping{=y4t_w4:Ntr1ck0N8c7d8p"3df90pta7880z)b3bd5pwb7442,&19bd3y$2b846y 3afd9,s9bf24y&4}
+ping{=x4t_w4:Otr1ck0O8c7d8p#3df90pua7880z(b3bd5pvb7442,'19bd3y%2b846y!3afd9,r9bf24y'4}
+ping{={4t_w4:Ltr1ck0L8c7d8p 3df90pva7880z+b3bd5pub7442,$19bd3y&2b846y"3afd9,q9bf24y$4}
+ping{=z4t_w4:Mtr1ck0M8c7d8p!3df90pwa7880z*b3bd5ptb7442,%19bd3y'2b846y#3afd9,p9bf24y%4}
+ping{=}4t_w4:Jtr1ck0J8c7d8p&3df90ppa7880z-b3bd5psb7442,"19bd3y 2b846y$3afd9,w9bf24y"4}
+ping{=|4t_w4:Ktr1ck0K8c7d8p'3df90pqa7880z,b3bd5prb7442,#19bd3y!2b846y%3afd9,v9bf24y#4}
+ping{=~4t_w4:Itr1ck0I8c7d8p%3df90psa7880z.b3bd5ppb7442,!19bd3y#2b846y'3afd9,t9bf24y!4}
+ping{=a4t_w4:Vtr1ck0V8c7d8p:3df90pla7880z1b3bd5pob7442,>19bd3y<2b846y83afd9,k9bf24y>4}
+ping{=`4t_w4:Wtr1ck0W8c7d8p;3df90pma7880z0b3bd5pnb7442,?19bd3y=2b846y93afd9,j9bf24y?4}
+ping{=c4t_w4:Ttr1ck0T8c7d8p83df90pna7880z3b3bd5pmb7442,<19bd3y>2b846y:3afd9,i9bf24y<4}
+ping{=b4t_w4:Utr1ck0U8c7d8p93df90poa7880z2b3bd5plb7442,=19bd3y?2b846y;3afd9,h9bf24y=4}
+ping{=e4t_w4:Rtr1ck0R8c7d8p>3df90pha7880z5b3bd5pkb7442,:19bd3y82b846y<3afd9,o9bf24y:4}
+ping{=d4t_w4:Str1ck0S8c7d8p?3df90pia7880z4b3bd5pjb7442,;19bd3y92b846y=3afd9,n9bf24y;4}
+ping{=g4t_w4:Ptr1ck0P8c7d8p<3df90pja7880z7b3bd5pib7442,819bd3y:2b846y>3afd9,m9bf24y84}
+ping{=f4t_w4:Qtr1ck0Q8c7d8p=3df90pka7880z6b3bd5phb7442,919bd3y;2b846y?3afd9,l9bf24y94}
+ping{=i4t_w4:^tr1ck0^8c7d8p23df90pda7880z9b3bd5pgb7442,619bd3y42b846y03afd9,c9bf24y64}
+ping{=h4t_w4:_tr1ck0_8c7d8p33df90pea7880z8b3bd5pfb7442,719bd3y52b846y13afd9,b9bf24y74}
+ping{=k4t_w4:\tr1ck0\8c7d8p03df90pfa7880z;b3bd5peb7442,419bd3y62b846y23afd9,a9bf24y44}
+ping{=j4t_w4:]tr1ck0]8c7d8p13df90pga7880z:b3bd5pdb7442,519bd3y72b846y33afd9,`9bf24y54}
+ping{=m4t_w4:Ztr1ck0Z8c7d8p63df90p`a7880z=b3bd5pcb7442,219bd3y02b846y43afd9,g9bf24y24}
+ping{=l4t_w4:[tr1ck0[8c7d8p73df90paa7880z<b3bd5pbb7442,319bd3y12b846y53afd9,f9bf24y34}
+ping{=o4t_w4:Xtr1ck0X8c7d8p43df90pba7880z?b3bd5pab7442,019bd3y22b846y63afd9,e9bf24y04}
+ping{=n4t_w4:Ytr1ck0Y8c7d8p53df90pca7880z>b3bd5p`b7442,119bd3y32b846y73afd9,d9bf24y14}
+ping{>p4t_w49Gtr1ck3G8c7d8s+3df90s}a7880y b3bd5s~b7442//19bd3z-2b846z)3afd9/z9bf24z/4}
+ping{>s4t_w49Dtr1ck3D8c7d8s(3df90s~a7880y#b3bd5s}b7442/,19bd3z.2b846z*3afd9/y9bf24z,4}
+ping{>t4t_w49Ctr1ck3C8c7d8s/3df90sya7880y$b3bd5szb7442/+19bd3z)2b846z-3afd9/~9bf24z+4}
+ping{>w4t_w49@tr1ck3@8c7d8s,3df90sza7880y'b3bd5syb7442/(19bd3z*2b846z.3afd9/}9bf24z(4}
+ping{>v4t_w49Atr1ck3A8c7d8s-3df90s{a7880y&b3bd5sxb7442/)19bd3z+2b846z/3afd9/|9bf24z)4}
+ping{>y4t_w49Ntr1ck3N8c7d8s"3df90sta7880y)b3bd5swb7442/&19bd3z$2b846z 3afd9/s9bf24z&4}
+ping{>x4t_w49Otr1ck3O8c7d8s#3df90sua7880y(b3bd5svb7442/'19bd3z%2b846z!3afd9/r9bf24z'4}
+ping{>{4t_w49Ltr1ck3L8c7d8s 3df90sva7880y+b3bd5sub7442/$19bd3z&2b846z"3afd9/q9bf24z$4}
+ping{>z4t_w49Mtr1ck3M8c7d8s!3df90swa7880y*b3bd5stb7442/%19bd3z'2b846z#3afd9/p9bf24z%4}
+ping{>}4t_w49Jtr1ck3J8c7d8s&3df90spa7880y-b3bd5ssb7442/"19bd3z 2b846z$3afd9/w9bf24z"4}
+ping{>|4t_w49Ktr1ck3K8c7d8s'3df90sqa7880y,b3bd5srb7442/#19bd3z!2b846z%3afd9/v9bf24z#4}
+ping{>~4t_w49Itr1ck3I8c7d8s%3df90ssa7880y.b3bd5spb7442/!19bd3z#2b846z'3afd9/t9bf24z!4}
+ping{>a4t_w49Vtr1ck3V8c7d8s:3df90sla7880y1b3bd5sob7442/>19bd3z<2b846z83afd9/k9bf24z>4}
+ping{>`4t_w49Wtr1ck3W8c7d8s;3df90sma7880y0b3bd5snb7442/?19bd3z=2b846z93afd9/j9bf24z?4}
+ping{>c4t_w49Ttr1ck3T8c7d8s83df90sna7880y3b3bd5smb7442/<19bd3z>2b846z:3afd9/i9bf24z<4}
+ping{>b4t_w49Utr1ck3U8c7d8s93df90soa7880y2b3bd5slb7442/=19bd3z?2b846z;3afd9/h9bf24z=4}
+ping{>e4t_w49Rtr1ck3R8c7d8s>3df90sha7880y5b3bd5skb7442/:19bd3z82b846z<3afd9/o9bf24z:4}
+ping{>d4t_w49Str1ck3S8c7d8s?3df90sia7880y4b3bd5sjb7442/;19bd3z92b846z=3afd9/n9bf24z;4}
+ping{>g4t_w49Ptr1ck3P8c7d8s<3df90sja7880y7b3bd5sib7442/819bd3z:2b846z>3afd9/m9bf24z84}
+ping{>f4t_w49Qtr1ck3Q8c7d8s=3df90ska7880y6b3bd5shb7442/919bd3z;2b846z?3afd9/l9bf24z94}
+ping{>i4t_w49^tr1ck3^8c7d8s23df90sda7880y9b3bd5sgb7442/619bd3z42b846z03afd9/c9bf24z64}
+ping{>h4t_w49_tr1ck3_8c7d8s33df90sea7880y8b3bd5sfb7442/719bd3z52b846z13afd9/b9bf24z74}
+ping{>k4t_w49\tr1ck3\8c7d8s03df90sfa7880y;b3bd5seb7442/419bd3z62b846z23afd9/a9bf24z44}
+ping{>j4t_w49]tr1ck3]8c7d8s13df90sga7880y:b3bd5sdb7442/519bd3z72b846z33afd9/`9bf24z54}
+ping{>m4t_w49Ztr1ck3Z8c7d8s63df90s`a7880y=b3bd5scb7442/219bd3z02b846z43afd9/g9bf24z24}
+ping{>l4t_w49[tr1ck3[8c7d8s73df90saa7880y<b3bd5sbb7442/319bd3z12b846z53afd9/f9bf24z34}
+ping{>o4t_w49Xtr1ck3X8c7d8s43df90sba7880y?b3bd5sab7442/019bd3z22b846z63afd9/e9bf24z04}
+ping{>n4t_w49Ytr1ck3Y8c7d8s53df90sca7880y>b3bd5s`b7442/119bd3z32b846z73afd9/d9bf24z14}
+ping{?p4t_w48Gtr1ck2G8c7d8r+3df90r}a7880x b3bd5r~b7442./19bd3{-2b846{)3afd9.z9bf24{/4}
+ping{?s4t_w48Dtr1ck2D8c7d8r(3df90r~a7880x#b3bd5r}b7442.,19bd3{.2b846{*3afd9.y9bf24{,4}
+ping{?t4t_w48Ctr1ck2C8c7d8r/3df90rya7880x$b3bd5rzb7442.+19bd3{)2b846{-3afd9.~9bf24{+4}
+ping{?w4t_w48@tr1ck2@8c7d8r,3df90rza7880x'b3bd5ryb7442.(19bd3{*2b846{.3afd9.}9bf24{(4}
+ping{?v4t_w48Atr1ck2A8c7d8r-3df90r{a7880x&b3bd5rxb7442.)19bd3{+2b846{/3afd9.|9bf24{)4}
+ping{?y4t_w48Ntr1ck2N8c7d8r"3df90rta7880x)b3bd5rwb7442.&19bd3{$2b846{ 3afd9.s9bf24{&4}
+ping{?x4t_w48Otr1ck2O8c7d8r#3df90rua7880x(b3bd5rvb7442.'19bd3{%2b846{!3afd9.r9bf24{'4}
+ping{?{4t_w48Ltr1ck2L8c7d8r 3df90rva7880x+b3bd5rub7442.$19bd3{&2b846{"3afd9.q9bf24{$4}
+ping{?z4t_w48Mtr1ck2M8c7d8r!3df90rwa7880x*b3bd5rtb7442.%19bd3{'2b846{#3afd9.p9bf24{%4}
+ping{?}4t_w48Jtr1ck2J8c7d8r&3df90rpa7880x-b3bd5rsb7442."19bd3{ 2b846{$3afd9.w9bf24{"4}
+ping{?|4t_w48Ktr1ck2K8c7d8r'3df90rqa7880x,b3bd5rrb7442.#19bd3{!2b846{%3afd9.v9bf24{#4}
+ping{?~4t_w48Itr1ck2I8c7d8r%3df90rsa7880x.b3bd5rpb7442.!19bd3{#2b846{'3afd9.t9bf24{!4}
+ping{?a4t_w48Vtr1ck2V8c7d8r:3df90rla7880x1b3bd5rob7442.>19bd3{<2b846{83afd9.k9bf24{>4}
+ping{?`4t_w48Wtr1ck2W8c7d8r;3df90rma7880x0b3bd5rnb7442.?19bd3{=2b846{93afd9.j9bf24{?4}
+ping{?c4t_w48Ttr1ck2T8c7d8r83df90rna7880x3b3bd5rmb7442.<19bd3{>2b846{:3afd9.i9bf24{<4}
+ping{?b4t_w48Utr1ck2U8c7d8r93df90roa7880x2b3bd5rlb7442.=19bd3{?2b846{;3afd9.h9bf24{=4}
+ping{?e4t_w48Rtr1ck2R8c7d8r>3df90rha7880x5b3bd5rkb7442.:19bd3{82b846{<3afd9.o9bf24{:4}
+ping{?d4t_w48Str1ck2S8c7d8r?3df90ria7880x4b3bd5rjb7442.;19bd3{92b846{=3afd9.n9bf24{;4}
+ping{?g4t_w48Ptr1ck2P8c7d8r<3df90rja7880x7b3bd5rib7442.819bd3{:2b846{>3afd9.m9bf24{84}
+ping{?f4t_w48Qtr1ck2Q8c7d8r=3df90rka7880x6b3bd5rhb7442.919bd3{;2b846{?3afd9.l9bf24{94}
+ping{?i4t_w48^tr1ck2^8c7d8r23df90rda7880x9b3bd5rgb7442.619bd3{42b846{03afd9.c9bf24{64}
+ping{?h4t_w48_tr1ck2_8c7d8r33df90rea7880x8b3bd5rfb7442.719bd3{52b846{13afd9.b9bf24{74}
+ping{?k4t_w48\tr1ck2\8c7d8r03df90rfa7880x;b3bd5reb7442.419bd3{62b846{23afd9.a9bf24{44}
+ping{?j4t_w48]tr1ck2]8c7d8r13df90rga7880x:b3bd5rdb7442.519bd3{72b846{33afd9.`9bf24{54}
+ping{?m4t_w48Ztr1ck2Z8c7d8r63df90r`a7880x=b3bd5rcb7442.219bd3{02b846{43afd9.g9bf24{24}
+ping{?l4t_w48[tr1ck2[8c7d8r73df90raa7880x<b3bd5rbb7442.319bd3{12b846{53afd9.f9bf24{34}
+ping{?o4t_w48Xtr1ck2X8c7d8r43df90rba7880x?b3bd5rab7442.019bd3{22b846{63afd9.e9bf24{04}
+ping{?n4t_w48Ytr1ck2Y8c7d8r53df90rca7880x>b3bd5r`b7442.119bd3{32b846{73afd9.d9bf24{14}
+ping{9p4t_w4>Gtr1ck4G8c7d8t+3df90t}a7880~ b3bd5t~b7442(/19bd3}-2b846})3afd9(z9bf24}/4}
+ping{9s4t_w4>Dtr1ck4D8c7d8t(3df90t~a7880~#b3bd5t}b7442(,19bd3}.2b846}*3afd9(y9bf24},4}
+ping{9t4t_w4>Ctr1ck4C8c7d8t/3df90tya7880~$b3bd5tzb7442(+19bd3})2b846}-3afd9(~9bf24}+4}
+ping{9w4t_w4>@tr1ck4@8c7d8t,3df90tza7880~'b3bd5tyb7442((19bd3}*2b846}.3afd9(}9bf24}(4}
+ping{9v4t_w4>Atr1ck4A8c7d8t-3df90t{a7880~&b3bd5txb7442()19bd3}+2b846}/3afd9(|9bf24})4}
+ping{9y4t_w4>Ntr1ck4N8c7d8t"3df90tta7880~)b3bd5twb7442(&19bd3}$2b846} 3afd9(s9bf24}&4}
+ping{9x4t_w4>Otr1ck4O8c7d8t#3df90tua7880~(b3bd5tvb7442('19bd3}%2b846}!3afd9(r9bf24}'4}
+ping{9{4t_w4>Ltr1ck4L8c7d8t 3df90tva7880~+b3bd5tub7442($19bd3}&2b846}"3afd9(q9bf24}$4}
+ping{9z4t_w4>Mtr1ck4M8c7d8t!3df90twa7880~*b3bd5ttb7442(%19bd3}'2b846}#3afd9(p9bf24}%4}
+ping{9}4t_w4>Jtr1ck4J8c7d8t&3df90tpa7880~-b3bd5tsb7442("19bd3} 2b846}$3afd9(w9bf24}"4}
+ping{9|4t_w4>Ktr1ck4K8c7d8t'3df90tqa7880~,b3bd5trb7442(#19bd3}!2b846}%3afd9(v9bf24}#4}
+ping{9~4t_w4>Itr1ck4I8c7d8t%3df90tsa7880~.b3bd5tpb7442(!19bd3}#2b846}'3afd9(t9bf24}!4}
+ping{9a4t_w4>Vtr1ck4V8c7d8t:3df90tla7880~1b3bd5tob7442(>19bd3}<2b846}83afd9(k9bf24}>4}
+ping{9`4t_w4>Wtr1ck4W8c7d8t;3df90tma7880~0b3bd5tnb7442(?19bd3}=2b846}93afd9(j9bf24}?4}
+ping{9c4t_w4>Ttr1ck4T8c7d8t83df90tna7880~3b3bd5tmb7442(<19bd3}>2b846}:3afd9(i9bf24}<4}
+ping{9b4t_w4>Utr1ck4U8c7d8t93df90toa7880~2b3bd5tlb7442(=19bd3}?2b846};3afd9(h9bf24}=4}
+ping{9e4t_w4>Rtr1ck4R8c7d8t>3df90tha7880~5b3bd5tkb7442(:19bd3}82b846}<3afd9(o9bf24}:4}
+ping{9d4t_w4>Str1ck4S8c7d8t?3df90tia7880~4b3bd5tjb7442(;19bd3}92b846}=3afd9(n9bf24};4}
+ping{9g4t_w4>Ptr1ck4P8c7d8t<3df90tja7880~7b3bd5tib7442(819bd3}:2b846}>3afd9(m9bf24}84}
+ping{9f4t_w4>Qtr1ck4Q8c7d8t=3df90tka7880~6b3bd5thb7442(919bd3};2b846}?3afd9(l9bf24}94}
+ping{9i4t_w4>^tr1ck4^8c7d8t23df90tda7880~9b3bd5tgb7442(619bd3}42b846}03afd9(c9bf24}64}
+ping{9h4t_w4>_tr1ck4_8c7d8t33df90tea7880~8b3bd5tfb7442(719bd3}52b846}13afd9(b9bf24}74}
+ping{9k4t_w4>\tr1ck4\8c7d8t03df90tfa7880~;b3bd5teb7442(419bd3}62b846}23afd9(a9bf24}44}
+ping{9j4t_w4>]tr1ck4]8c7d8t13df90tga7880~:b3bd5tdb7442(519bd3}72b846}33afd9(`9bf24}54}
+ping{9m4t_w4>Ztr1ck4Z8c7d8t63df90t`a7880~=b3bd5tcb7442(219bd3}02b846}43afd9(g9bf24}24}
+ping{9l4t_w4>[tr1ck4[8c7d8t73df90taa7880~<b3bd5tbb7442(319bd3}12b846}53afd9(f9bf24}34}
+ping{9o4t_w4>Xtr1ck4X8c7d8t43df90tba7880~?b3bd5tab7442(019bd3}22b846}63afd9(e9bf24}04}
+ping{9n4t_w4>Ytr1ck4Y8c7d8t53df90tca7880~>b3bd5t`b7442(119bd3}32b846}73afd9(d9bf24}14}
+ping{:p4t_w4=Gtr1ck7G8c7d8w+3df90w}a7880} b3bd5w~b7442+/19bd3~-2b846~)3afd9+z9bf24~/4}
+ping{:s4t_w4=Dtr1ck7D8c7d8w(3df90w~a7880}#b3bd5w}b7442+,19bd3~.2b846~*3afd9+y9bf24~,4}
+ping{:t4t_w4=Ctr1ck7C8c7d8w/3df90wya7880}$b3bd5wzb7442++19bd3~)2b846~-3afd9+~9bf24~+4}
+ping{:w4t_w4=@tr1ck7@8c7d8w,3df90wza7880}'b3bd5wyb7442+(19bd3~*2b846~.3afd9+}9bf24~(4}
+ping{:v4t_w4=Atr1ck7A8c7d8w-3df90w{a7880}&b3bd5wxb7442+)19bd3~+2b846~/3afd9+|9bf24~)4}
+ping{:y4t_w4=Ntr1ck7N8c7d8w"3df90wta7880})b3bd5wwb7442+&19bd3~$2b846~ 3afd9+s9bf24~&4}
+ping{:x4t_w4=Otr1ck7O8c7d8w#3df90wua7880}(b3bd5wvb7442+'19bd3~%2b846~!3afd9+r9bf24~'4}
+ping{:{4t_w4=Ltr1ck7L8c7d8w 3df90wva7880}+b3bd5wub7442+$19bd3~&2b846~"3afd9+q9bf24~$4}
+ping{:z4t_w4=Mtr1ck7M8c7d8w!3df90wwa7880}*b3bd5wtb7442+%19bd3~'2b846~#3afd9+p9bf24~%4}
+ping{:}4t_w4=Jtr1ck7J8c7d8w&3df90wpa7880}-b3bd5wsb7442+"19bd3~ 2b846~$3afd9+w9bf24~"4}
+ping{:|4t_w4=Ktr1ck7K8c7d8w'3df90wqa7880},b3bd5wrb7442+#19bd3~!2b846~%3afd9+v9bf24~#4}
+ping{:~4t_w4=Itr1ck7I8c7d8w%3df90wsa7880}.b3bd5wpb7442+!19bd3~#2b846~'3afd9+t9bf24~!4}
+ping{:a4t_w4=Vtr1ck7V8c7d8w:3df90wla7880}1b3bd5wob7442+>19bd3~<2b846~83afd9+k9bf24~>4}
+ping{:`4t_w4=Wtr1ck7W8c7d8w;3df90wma7880}0b3bd5wnb7442+?19bd3~=2b846~93afd9+j9bf24~?4}
+ping{:c4t_w4=Ttr1ck7T8c7d8w83df90wna7880}3b3bd5wmb7442+<19bd3~>2b846~:3afd9+i9bf24~<4}
+ping{:b4t_w4=Utr1ck7U8c7d8w93df90woa7880}2b3bd5wlb7442+=19bd3~?2b846~;3afd9+h9bf24~=4}
+ping{:e4t_w4=Rtr1ck7R8c7d8w>3df90wha7880}5b3bd5wkb7442+:19bd3~82b846~<3afd9+o9bf24~:4}
+ping{:d4t_w4=Str1ck7S8c7d8w?3df90wia7880}4b3bd5wjb7442+;19bd3~92b846~=3afd9+n9bf24~;4}
+ping{:g4t_w4=Ptr1ck7P8c7d8w<3df90wja7880}7b3bd5wib7442+819bd3~:2b846~>3afd9+m9bf24~84}
+ping{:f4t_w4=Qtr1ck7Q8c7d8w=3df90wka7880}6b3bd5whb7442+919bd3~;2b846~?3afd9+l9bf24~94}
+ping{:i4t_w4=^tr1ck7^8c7d8w23df90wda7880}9b3bd5wgb7442+619bd3~42b846~03afd9+c9bf24~64}
+ping{:h4t_w4=_tr1ck7_8c7d8w33df90wea7880}8b3bd5wfb7442+719bd3~52b846~13afd9+b9bf24~74}
+ping{:k4t_w4=\tr1ck7\8c7d8w03df90wfa7880};b3bd5web7442+419bd3~62b846~23afd9+a9bf24~44}
+ping{:j4t_w4=]tr1ck7]8c7d8w13df90wga7880}:b3bd5wdb7442+519bd3~72b846~33afd9+`9bf24~54}
+ping{:m4t_w4=Ztr1ck7Z8c7d8w63df90w`a7880}=b3bd5wcb7442+219bd3~02b846~43afd9+g9bf24~24}
+ping{:l4t_w4=[tr1ck7[8c7d8w73df90waa7880}<b3bd5wbb7442+319bd3~12b846~53afd9+f9bf24~34}
+ping{:o4t_w4=Xtr1ck7X8c7d8w43df90wba7880}?b3bd5wab7442+019bd3~22b846~63afd9+e9bf24~04}
+ping{:n4t_w4=Ytr1ck7Y8c7d8w53df90wca7880}>b3bd5w`b7442+119bd3~32b846~73afd9+d9bf24~14}
+ping{4p4t_w43Gtr1ck9G8c7d8y+3df90y}a7880s b3bd5y~b7442%/19bd3p-2b846p)3afd9%z9bf24p/4}
+ping{4s4t_w43Dtr1ck9D8c7d8y(3df90y~a7880s#b3bd5y}b7442%,19bd3p.2b846p*3afd9%y9bf24p,4}
+ping{4t4t_w43Ctr1ck9C8c7d8y/3df90yya7880s$b3bd5yzb7442%+19bd3p)2b846p-3afd9%~9bf24p+4}
+ping{4w4t_w43@tr1ck9@8c7d8y,3df90yza7880s'b3bd5yyb7442%(19bd3p*2b846p.3afd9%}9bf24p(4}
+ping{4v4t_w43Atr1ck9A8c7d8y-3df90y{a7880s&b3bd5yxb7442%)19bd3p+2b846p/3afd9%|9bf24p)4}
+ping{4y4t_w43Ntr1ck9N8c7d8y"3df90yta7880s)b3bd5ywb7442%&19bd3p$2b846p 3afd9%s9bf24p&4}
+ping{4x4t_w43Otr1ck9O8c7d8y#3df90yua7880s(b3bd5yvb7442%'19bd3p%2b846p!3afd9%r9bf24p'4}
+ping{4{4t_w43Ltr1ck9L8c7d8y 3df90yva7880s+b3bd5yub7442%$19bd3p&2b846p"3afd9%q9bf24p$4}
+ping{4z4t_w43Mtr1ck9M8c7d8y!3df90ywa7880s*b3bd5ytb7442%%19bd3p'2b846p#3afd9%p9bf24p%4}
+ping{4}4t_w43Jtr1ck9J8c7d8y&3df90ypa7880s-b3bd5ysb7442%"19bd3p 2b846p$3afd9%w9bf24p"4}
+ping{4|4t_w43Ktr1ck9K8c7d8y'3df90yqa7880s,b3bd5yrb7442%#19bd3p!2b846p%3afd9%v9bf24p#4}
+ping{4~4t_w43Itr1ck9I8c7d8y%3df90ysa7880s.b3bd5ypb7442%!19bd3p#2b846p'3afd9%t9bf24p!4}
+ping{4a4t_w43Vtr1ck9V8c7d8y:3df90yla7880s1b3bd5yob7442%>19bd3p<2b846p83afd9%k9bf24p>4}
+ping{4`4t_w43Wtr1ck9W8c7d8y;3df90yma7880s0b3bd5ynb7442%?19bd3p=2b846p93afd9%j9bf24p?4}
+ping{4c4t_w43Ttr1ck9T8c7d8y83df90yna7880s3b3bd5ymb7442%<19bd3p>2b846p:3afd9%i9bf24p<4}
+ping{4b4t_w43Utr1ck9U8c7d8y93df90yoa7880s2b3bd5ylb7442%=19bd3p?2b846p;3afd9%h9bf24p=4}
+ping{4e4t_w43Rtr1ck9R8c7d8y>3df90yha7880s5b3bd5ykb7442%:19bd3p82b846p<3afd9%o9bf24p:4}
+ping{4d4t_w43Str1ck9S8c7d8y?3df90yia7880s4b3bd5yjb7442%;19bd3p92b846p=3afd9%n9bf24p;4}
+ping{4g4t_w43Ptr1ck9P8c7d8y<3df90yja7880s7b3bd5yib7442%819bd3p:2b846p>3afd9%m9bf24p84}
+ping{4f4t_w43Qtr1ck9Q8c7d8y=3df90yka7880s6b3bd5yhb7442%919bd3p;2b846p?3afd9%l9bf24p94}
+ping{4i4t_w43^tr1ck9^8c7d8y23df90yda7880s9b3bd5ygb7442%619bd3p42b846p03afd9%c9bf24p64}
+ping{4h4t_w43_tr1ck9_8c7d8y33df90yea7880s8b3bd5yfb7442%719bd3p52b846p13afd9%b9bf24p74}
+ping{4k4t_w43\tr1ck9\8c7d8y03df90yfa7880s;b3bd5yeb7442%419bd3p62b846p23afd9%a9bf24p44}
+ping{4j4t_w43]tr1ck9]8c7d8y13df90yga7880s:b3bd5ydb7442%519bd3p72b846p33afd9%`9bf24p54}
+ping{4m4t_w43Ztr1ck9Z8c7d8y63df90y`a7880s=b3bd5ycb7442%219bd3p02b846p43afd9%g9bf24p24}
+ping{4l4t_w43[tr1ck9[8c7d8y73df90yaa7880s<b3bd5ybb7442%319bd3p12b846p53afd9%f9bf24p34}
+ping{4o4t_w43Xtr1ck9X8c7d8y43df90yba7880s?b3bd5yab7442%019bd3p22b846p63afd9%e9bf24p04}
+ping{4n4t_w43Ytr1ck9Y8c7d8y53df90yca7880s>b3bd5y`b7442%119bd3p32b846p73afd9%d9bf24p14}
+ping{5p4t_w42Gtr1ck8G8c7d8x+3df90x}a7880r b3bd5x~b7442$/19bd3q-2b846q)3afd9$z9bf24q/4}
+ping{5s4t_w42Dtr1ck8D8c7d8x(3df90x~a7880r#b3bd5x}b7442$,19bd3q.2b846q*3afd9$y9bf24q,4}
+ping{5t4t_w42Ctr1ck8C8c7d8x/3df90xya7880r$b3bd5xzb7442$+19bd3q)2b846q-3afd9$~9bf24q+4}
+ping{5w4t_w42@tr1ck8@8c7d8x,3df90xza7880r'b3bd5xyb7442$(19bd3q*2b846q.3afd9$}9bf24q(4}
+ping{5v4t_w42Atr1ck8A8c7d8x-3df90x{a7880r&b3bd5xxb7442$)19bd3q+2b846q/3afd9$|9bf24q)4}
+ping{5y4t_w42Ntr1ck8N8c7d8x"3df90xta7880r)b3bd5xwb7442$&19bd3q$2b846q 3afd9$s9bf24q&4}
+ping{5x4t_w42Otr1ck8O8c7d8x#3df90xua7880r(b3bd5xvb7442$'19bd3q%2b846q!3afd9$r9bf24q'4}
+ping{5{4t_w42Ltr1ck8L8c7d8x 3df90xva7880r+b3bd5xub7442$$19bd3q&2b846q"3afd9$q9bf24q$4}
+ping{5z4t_w42Mtr1ck8M8c7d8x!3df90xwa7880r*b3bd5xtb7442$%19bd3q'2b846q#3afd9$p9bf24q%4}
+ping{5}4t_w42Jtr1ck8J8c7d8x&3df90xpa7880r-b3bd5xsb7442$"19bd3q 2b846q$3afd9$w9bf24q"4}
+ping{5|4t_w42Ktr1ck8K8c7d8x'3df90xqa7880r,b3bd5xrb7442$#19bd3q!2b846q%3afd9$v9bf24q#4}
+ping{5~4t_w42Itr1ck8I8c7d8x%3df90xsa7880r.b3bd5xpb7442$!19bd3q#2b846q'3afd9$t9bf24q!4}
+ping{5a4t_w42Vtr1ck8V8c7d8x:3df90xla7880r1b3bd5xob7442$>19bd3q<2b846q83afd9$k9bf24q>4}
+ping{5`4t_w42Wtr1ck8W8c7d8x;3df90xma7880r0b3bd5xnb7442$?19bd3q=2b846q93afd9$j9bf24q?4}
+ping{5c4t_w42Ttr1ck8T8c7d8x83df90xna7880r3b3bd5xmb7442$<19bd3q>2b846q:3afd9$i9bf24q<4}
+ping{5b4t_w42Utr1ck8U8c7d8x93df90xoa7880r2b3bd5xlb7442$=19bd3q?2b846q;3afd9$h9bf24q=4}
+ping{5e4t_w42Rtr1ck8R8c7d8x>3df90xha7880r5b3bd5xkb7442$:19bd3q82b846q<3afd9$o9bf24q:4}
+ping{5d4t_w42Str1ck8S8c7d8x?3df90xia7880r4b3bd5xjb7442$;19bd3q92b846q=3afd9$n9bf24q;4}
+ping{5g4t_w42Ptr1ck8P8c7d8x<3df90xja7880r7b3bd5xib7442$819bd3q:2b846q>3afd9$m9bf24q84}
+ping{5f4t_w42Qtr1ck8Q8c7d8x=3df90xka7880r6b3bd5xhb7442$919bd3q;2b846q?3afd9$l9bf24q94}
+ping{5i4t_w42^tr1ck8^8c7d8x23df90xda7880r9b3bd5xgb7442$619bd3q42b846q03afd9$c9bf24q64}
+ping{5h4t_w42_tr1ck8_8c7d8x33df90xea7880r8b3bd5xfb7442$719bd3q52b846q13afd9$b9bf24q74}
+ping{5k4t_w42\tr1ck8\8c7d8x03df90xfa7880r;b3bd5xeb7442$419bd3q62b846q23afd9$a9bf24q44}
+ping{5j4t_w42]tr1ck8]8c7d8x13df90xga7880r:b3bd5xdb7442$519bd3q72b846q33afd9$`9bf24q54}
+ping{5m4t_w42Ztr1ck8Z8c7d8x63df90x`a7880r=b3bd5xcb7442$219bd3q02b846q43afd9$g9bf24q24}
+ping{5l4t_w42[tr1ck8[8c7d8x73df90xaa7880r<b3bd5xbb7442$319bd3q12b846q53afd9$f9bf24q34}
+ping{5o4t_w42Xtr1ck8X8c7d8x43df90xba7880r?b3bd5xab7442$019bd3q22b846q63afd9$e9bf24q04}
+ping{5n4t_w42Ytr1ck8Y8c7d8x53df90xca7880r>b3bd5x`b7442$119bd3q32b846q73afd9$d9bf24q14}
+ping{6p4t_w41Gtr1ck;G8c7d8{+3df90{}a7880q b3bd5{~b7442'/19bd3r-2b846r)3afd9'z9bf24r/4}
+ping{6s4t_w41Dtr1ck;D8c7d8{(3df90{~a7880q#b3bd5{}b7442',19bd3r.2b846r*3afd9'y9bf24r,4}
+ping{6t4t_w41Ctr1ck;C8c7d8{/3df90{ya7880q$b3bd5{zb7442'+19bd3r)2b846r-3afd9'~9bf24r+4}
+ping{6w4t_w41@tr1ck;@8c7d8{,3df90{za7880q'b3bd5{yb7442'(19bd3r*2b846r.3afd9'}9bf24r(4}
+ping{6v4t_w41Atr1ck;A8c7d8{-3df90{{a7880q&b3bd5{xb7442')19bd3r+2b846r/3afd9'|9bf24r)4}
+ping{6y4t_w41Ntr1ck;N8c7d8{"3df90{ta7880q)b3bd5{wb7442'&19bd3r$2b846r 3afd9's9bf24r&4}
+ping{6x4t_w41Otr1ck;O8c7d8{#3df90{ua7880q(b3bd5{vb7442''19bd3r%2b846r!3afd9'r9bf24r'4}
+ping{6{4t_w41Ltr1ck;L8c7d8{ 3df90{va7880q+b3bd5{ub7442'$19bd3r&2b846r"3afd9'q9bf24r$4}
+ping{6z4t_w41Mtr1ck;M8c7d8{!3df90{wa7880q*b3bd5{tb7442'%19bd3r'2b846r#3afd9'p9bf24r%4}
+ping{6}4t_w41Jtr1ck;J8c7d8{&3df90{pa7880q-b3bd5{sb7442'"19bd3r 2b846r$3afd9'w9bf24r"4}
+ping{6|4t_w41Ktr1ck;K8c7d8{'3df90{qa7880q,b3bd5{rb7442'#19bd3r!2b846r%3afd9'v9bf24r#4}
+ping{6~4t_w41Itr1ck;I8c7d8{%3df90{sa7880q.b3bd5{pb7442'!19bd3r#2b846r'3afd9't9bf24r!4}
+ping{6a4t_w41Vtr1ck;V8c7d8{:3df90{la7880q1b3bd5{ob7442'>19bd3r<2b846r83afd9'k9bf24r>4}
+ping{6`4t_w41Wtr1ck;W8c7d8{;3df90{ma7880q0b3bd5{nb7442'?19bd3r=2b846r93afd9'j9bf24r?4}
+ping{6c4t_w41Ttr1ck;T8c7d8{83df90{na7880q3b3bd5{mb7442'<19bd3r>2b846r:3afd9'i9bf24r<4}
+ping{6b4t_w41Utr1ck;U8c7d8{93df90{oa7880q2b3bd5{lb7442'=19bd3r?2b846r;3afd9'h9bf24r=4}
+ping{6e4t_w41Rtr1ck;R8c7d8{>3df90{ha7880q5b3bd5{kb7442':19bd3r82b846r<3afd9'o9bf24r:4}
+ping{6d4t_w41Str1ck;S8c7d8{?3df90{ia7880q4b3bd5{jb7442';19bd3r92b846r=3afd9'n9bf24r;4}
+ping{6g4t_w41Ptr1ck;P8c7d8{<3df90{ja7880q7b3bd5{ib7442'819bd3r:2b846r>3afd9'm9bf24r84}
+ping{6f4t_w41Qtr1ck;Q8c7d8{=3df90{ka7880q6b3bd5{hb7442'919bd3r;2b846r?3afd9'l9bf24r94}
+ping{6i4t_w41^tr1ck;^8c7d8{23df90{da7880q9b3bd5{gb7442'619bd3r42b846r03afd9'c9bf24r64}
+ping{6h4t_w41_tr1ck;_8c7d8{33df90{ea7880q8b3bd5{fb7442'719bd3r52b846r13afd9'b9bf24r74}
+ping{6k4t_w41\tr1ck;\8c7d8{03df90{fa7880q;b3bd5{eb7442'419bd3r62b846r23afd9'a9bf24r44}
+ping{6j4t_w41]tr1ck;]8c7d8{13df90{ga7880q:b3bd5{db7442'519bd3r72b846r33afd9'`9bf24r54}
+ping{6m4t_w41Ztr1ck;Z8c7d8{63df90{`a7880q=b3bd5{cb7442'219bd3r02b846r43afd9'g9bf24r24}
+ping{6l4t_w41[tr1ck;[8c7d8{73df90{aa7880q<b3bd5{bb7442'319bd3r12b846r53afd9'f9bf24r34}
+ping{6o4t_w41Xtr1ck;X8c7d8{43df90{ba7880q?b3bd5{ab7442'019bd3r22b846r63afd9'e9bf24r04}
+ping{6n4t_w41Ytr1ck;Y8c7d8{53df90{ca7880q>b3bd5{`b7442'119bd3r32b846r73afd9'd9bf24r14}
+ping{7p4t_w40Gtr1ck:G8c7d8z+3df90z}a7880p b3bd5z~b7442&/19bd3s-2b846s)3afd9&z9bf24s/4}
+ping{7s4t_w40Dtr1ck:D8c7d8z(3df90z~a7880p#b3bd5z}b7442&,19bd3s.2b846s*3afd9&y9bf24s,4}
+ping{7t4t_w40Ctr1ck:C8c7d8z/3df90zya7880p$b3bd5zzb7442&+19bd3s)2b846s-3afd9&~9bf24s+4}
+ping{7w4t_w40@tr1ck:@8c7d8z,3df90zza7880p'b3bd5zyb7442&(19bd3s*2b846s.3afd9&}9bf24s(4}
+ping{7v4t_w40Atr1ck:A8c7d8z-3df90z{a7880p&b3bd5zxb7442&)19bd3s+2b846s/3afd9&|9bf24s)4}
+ping{7y4t_w40Ntr1ck:N8c7d8z"3df90zta7880p)b3bd5zwb7442&&19bd3s$2b846s 3afd9&s9bf24s&4}
+ping{7x4t_w40Otr1ck:O8c7d8z#3df90zua7880p(b3bd5zvb7442&'19bd3s%2b846s!3afd9&r9bf24s'4}
+ping{7{4t_w40Ltr1ck:L8c7d8z 3df90zva7880p+b3bd5zub7442&$19bd3s&2b846s"3afd9&q9bf24s$4}
+ping{7z4t_w40Mtr1ck:M8c7d8z!3df90zwa7880p*b3bd5ztb7442&%19bd3s'2b846s#3afd9&p9bf24s%4}
+ping{7}4t_w40Jtr1ck:J8c7d8z&3df90zpa7880p-b3bd5zsb7442&"19bd3s 2b846s$3afd9&w9bf24s"4}
+ping{7|4t_w40Ktr1ck:K8c7d8z'3df90zqa7880p,b3bd5zrb7442&#19bd3s!2b846s%3afd9&v9bf24s#4}
+ping{7~4t_w40Itr1ck:I8c7d8z%3df90zsa7880p.b3bd5zpb7442&!19bd3s#2b846s'3afd9&t9bf24s!4}
+ping{7a4t_w40Vtr1ck:V8c7d8z:3df90zla7880p1b3bd5zob7442&>19bd3s<2b846s83afd9&k9bf24s>4}
+ping{7`4t_w40Wtr1ck:W8c7d8z;3df90zma7880p0b3bd5znb7442&?19bd3s=2b846s93afd9&j9bf24s?4}
+ping{7c4t_w40Ttr1ck:T8c7d8z83df90zna7880p3b3bd5zmb7442&<19bd3s>2b846s:3afd9&i9bf24s<4}
+ping{7b4t_w40Utr1ck:U8c7d8z93df90zoa7880p2b3bd5zlb7442&=19bd3s?2b846s;3afd9&h9bf24s=4}
+ping{7e4t_w40Rtr1ck:R8c7d8z>3df90zha7880p5b3bd5zkb7442&:19bd3s82b846s<3afd9&o9bf24s:4}
+ping{7d4t_w40Str1ck:S8c7d8z?3df90zia7880p4b3bd5zjb7442&;19bd3s92b846s=3afd9&n9bf24s;4}
+ping{7g4t_w40Ptr1ck:P8c7d8z<3df90zja7880p7b3bd5zib7442&819bd3s:2b846s>3afd9&m9bf24s84}
+ping{7f4t_w40Qtr1ck:Q8c7d8z=3df90zka7880p6b3bd5zhb7442&919bd3s;2b846s?3afd9&l9bf24s94}
+ping{7i4t_w40^tr1ck:^8c7d8z23df90zda7880p9b3bd5zgb7442&619bd3s42b846s03afd9&c9bf24s64}
+ping{7h4t_w40_tr1ck:_8c7d8z33df90zea7880p8b3bd5zfb7442&719bd3s52b846s13afd9&b9bf24s74}
+ping{7k4t_w40\tr1ck:\8c7d8z03df90zfa7880p;b3bd5zeb7442&419bd3s62b846s23afd9&a9bf24s44}
+ping{7j4t_w40]tr1ck:]8c7d8z13df90zga7880p:b3bd5zdb7442&519bd3s72b846s33afd9&`9bf24s54}
+ping{7m4t_w40Ztr1ck:Z8c7d8z63df90z`a7880p=b3bd5zcb7442&219bd3s02b846s43afd9&g9bf24s24}
+ping{7l4t_w40[tr1ck:[8c7d8z73df90zaa7880p<b3bd5zbb7442&319bd3s12b846s53afd9&f9bf24s34}
+ping{7o4t_w40Xtr1ck:X8c7d8z43df90zba7880p?b3bd5zab7442&019bd3s22b846s63afd9&e9bf24s04}
+ping{7n4t_w40Ytr1ck:Y8c7d8z53df90zca7880p>b3bd5z`b7442&119bd3s32b846s73afd9&d9bf24s14}
+ping{0p4t_w47Gtr1ck=G8c7d8}+3df90}}a7880w b3bd5}~b7442!/19bd3t-2b846t)3afd9!z9bf24t/4}
+ping{0s4t_w47Dtr1ck=D8c7d8}(3df90}~a7880w#b3bd5}}b7442!,19bd3t.2b846t*3afd9!y9bf24t,4}
+ping{0t4t_w47Ctr1ck=C8c7d8}/3df90}ya7880w$b3bd5}zb7442!+19bd3t)2b846t-3afd9!~9bf24t+4}
+ping{0w4t_w47@tr1ck=@8c7d8},3df90}za7880w'b3bd5}yb7442!(19bd3t*2b846t.3afd9!}9bf24t(4}
+ping{0v4t_w47Atr1ck=A8c7d8}-3df90}{a7880w&b3bd5}xb7442!)19bd3t+2b846t/3afd9!|9bf24t)4}
+ping{0y4t_w47Ntr1ck=N8c7d8}"3df90}ta7880w)b3bd5}wb7442!&19bd3t$2b846t 3afd9!s9bf24t&4}
+ping{0x4t_w47Otr1ck=O8c7d8}#3df90}ua7880w(b3bd5}vb7442!'19bd3t%2b846t!3afd9!r9bf24t'4}
+ping{0{4t_w47Ltr1ck=L8c7d8} 3df90}va7880w+b3bd5}ub7442!$19bd3t&2b846t"3afd9!q9bf24t$4}
+ping{0z4t_w47Mtr1ck=M8c7d8}!3df90}wa7880w*b3bd5}tb7442!%19bd3t'2b846t#3afd9!p9bf24t%4}
+ping{0}4t_w47Jtr1ck=J8c7d8}&3df90}pa7880w-b3bd5}sb7442!"19bd3t 2b846t$3afd9!w9bf24t"4}
+ping{0|4t_w47Ktr1ck=K8c7d8}'3df90}qa7880w,b3bd5}rb7442!#19bd3t!2b846t%3afd9!v9bf24t#4}
+ping{0~4t_w47Itr1ck=I8c7d8}%3df90}sa7880w.b3bd5}pb7442!!19bd3t#2b846t'3afd9!t9bf24t!4}
+ping{0a4t_w47Vtr1ck=V8c7d8}:3df90}la7880w1b3bd5}ob7442!>19bd3t<2b846t83afd9!k9bf24t>4}
+ping{0`4t_w47Wtr1ck=W8c7d8};3df90}ma7880w0b3bd5}nb7442!?19bd3t=2b846t93afd9!j9bf24t?4}
+ping{0c4t_w47Ttr1ck=T8c7d8}83df90}na7880w3b3bd5}mb7442!<19bd3t>2b846t:3afd9!i9bf24t<4}
+ping{0b4t_w47Utr1ck=U8c7d8}93df90}oa7880w2b3bd5}lb7442!=19bd3t?2b846t;3afd9!h9bf24t=4}
+ping{0e4t_w47Rtr1ck=R8c7d8}>3df90}ha7880w5b3bd5}kb7442!:19bd3t82b846t<3afd9!o9bf24t:4}
+ping{0d4t_w47Str1ck=S8c7d8}?3df90}ia7880w4b3bd5}jb7442!;19bd3t92b846t=3afd9!n9bf24t;4}
+ping{0g4t_w47Ptr1ck=P8c7d8}<3df90}ja7880w7b3bd5}ib7442!819bd3t:2b846t>3afd9!m9bf24t84}
+ping{0f4t_w47Qtr1ck=Q8c7d8}=3df90}ka7880w6b3bd5}hb7442!919bd3t;2b846t?3afd9!l9bf24t94}
+ping{0i4t_w47^tr1ck=^8c7d8}23df90}da7880w9b3bd5}gb7442!619bd3t42b846t03afd9!c9bf24t64}
+ping{0h4t_w47_tr1ck=_8c7d8}33df90}ea7880w8b3bd5}fb7442!719bd3t52b846t13afd9!b9bf24t74}
+ping{0k4t_w47\tr1ck=\8c7d8}03df90}fa7880w;b3bd5}eb7442!419bd3t62b846t23afd9!a9bf24t44}
+ping{0j4t_w47]tr1ck=]8c7d8}13df90}ga7880w:b3bd5}db7442!519bd3t72b846t33afd9!`9bf24t54}
+ping{0m4t_w47Ztr1ck=Z8c7d8}63df90}`a7880w=b3bd5}cb7442!219bd3t02b846t43afd9!g9bf24t24}
+ping{0l4t_w47[tr1ck=[8c7d8}73df90}aa7880w<b3bd5}bb7442!319bd3t12b846t53afd9!f9bf24t34}
+ping{0o4t_w47Xtr1ck=X8c7d8}43df90}ba7880w?b3bd5}ab7442!019bd3t22b846t63afd9!e9bf24t04}
+ping{0n4t_w47Ytr1ck=Y8c7d8}53df90}ca7880w>b3bd5}`b7442!119bd3t32b846t73afd9!d9bf24t14}
+ping{1p4t_w46Gtr1ck<G8c7d8|+3df90|}a7880v b3bd5|~b7442 /19bd3u-2b846u)3afd9 z9bf24u/4}
+ping{1s4t_w46Dtr1ck<D8c7d8|(3df90|~a7880v#b3bd5|}b7442 ,19bd3u.2b846u*3afd9 y9bf24u,4}
+ping{1t4t_w46Ctr1ck<C8c7d8|/3df90|ya7880v$b3bd5|zb7442 +19bd3u)2b846u-3afd9 ~9bf24u+4}
+ping{1w4t_w46@tr1ck<@8c7d8|,3df90|za7880v'b3bd5|yb7442 (19bd3u*2b846u.3afd9 }9bf24u(4}
+ping{1v4t_w46Atr1ck<A8c7d8|-3df90|{a7880v&b3bd5|xb7442 )19bd3u+2b846u/3afd9 |9bf24u)4}
+ping{1y4t_w46Ntr1ck<N8c7d8|"3df90|ta7880v)b3bd5|wb7442 &19bd3u$2b846u 3afd9 s9bf24u&4}
+ping{1x4t_w46Otr1ck<O8c7d8|#3df90|ua7880v(b3bd5|vb7442 '19bd3u%2b846u!3afd9 r9bf24u'4}
+ping{1{4t_w46Ltr1ck<L8c7d8| 3df90|va7880v+b3bd5|ub7442 $19bd3u&2b846u"3afd9 q9bf24u$4}
+ping{1z4t_w46Mtr1ck<M8c7d8|!3df90|wa7880v*b3bd5|tb7442 %19bd3u'2b846u#3afd9 p9bf24u%4}
+ping{1}4t_w46Jtr1ck<J8c7d8|&3df90|pa7880v-b3bd5|sb7442 "19bd3u 2b846u$3afd9 w9bf24u"4}
+ping{1|4t_w46Ktr1ck<K8c7d8|'3df90|qa7880v,b3bd5|rb7442 #19bd3u!2b846u%3afd9 v9bf24u#4}
+ping{1~4t_w46Itr1ck<I8c7d8|%3df90|sa7880v.b3bd5|pb7442 !19bd3u#2b846u'3afd9 t9bf24u!4}
+ping{1a4t_w46Vtr1ck<V8c7d8|:3df90|la7880v1b3bd5|ob7442 >19bd3u<2b846u83afd9 k9bf24u>4}
+ping{1`4t_w46Wtr1ck<W8c7d8|;3df90|ma7880v0b3bd5|nb7442 ?19bd3u=2b846u93afd9 j9bf24u?4}
+ping{1c4t_w46Ttr1ck<T8c7d8|83df90|na7880v3b3bd5|mb7442 <19bd3u>2b846u:3afd9 i9bf24u<4}
+ping{1b4t_w46Utr1ck<U8c7d8|93df90|oa7880v2b3bd5|lb7442 =19bd3u?2b846u;3afd9 h9bf24u=4}
+ping{1e4t_w46Rtr1ck<R8c7d8|>3df90|ha7880v5b3bd5|kb7442 :19bd3u82b846u<3afd9 o9bf24u:4}
+ping{1d4t_w46Str1ck<S8c7d8|?3df90|ia7880v4b3bd5|jb7442 ;19bd3u92b846u=3afd9 n9bf24u;4}
+ping{1g4t_w46Ptr1ck<P8c7d8|<3df90|ja7880v7b3bd5|ib7442 819bd3u:2b846u>3afd9 m9bf24u84}
+ping{1f4t_w46Qtr1ck<Q8c7d8|=3df90|ka7880v6b3bd5|hb7442 919bd3u;2b846u?3afd9 l9bf24u94}
+ping{1i4t_w46^tr1ck<^8c7d8|23df90|da7880v9b3bd5|gb7442 619bd3u42b846u03afd9 c9bf24u64}
+ping{1h4t_w46_tr1ck<_8c7d8|33df90|ea7880v8b3bd5|fb7442 719bd3u52b846u13afd9 b9bf24u74}
+ping{1k4t_w46\tr1ck<\8c7d8|03df90|fa7880v;b3bd5|eb7442 419bd3u62b846u23afd9 a9bf24u44}
+ping{1j4t_w46]tr1ck<]8c7d8|13df90|ga7880v:b3bd5|db7442 519bd3u72b846u33afd9 `9bf24u54}
+ping{1m4t_w46Ztr1ck<Z8c7d8|63df90|`a7880v=b3bd5|cb7442 219bd3u02b846u43afd9 g9bf24u24}
+ping{1l4t_w46[tr1ck<[8c7d8|73df90|aa7880v<b3bd5|bb7442 319bd3u12b846u53afd9 f9bf24u34}
+ping{1o4t_w46Xtr1ck<X8c7d8|43df90|ba7880v?b3bd5|ab7442 019bd3u22b846u63afd9 e9bf24u04}
+ping{1n4t_w46Ytr1ck<Y8c7d8|53df90|ca7880v>b3bd5|`b7442 119bd3u32b846u73afd9 d9bf24u14}
+ping{3p4t_w44Gtr1ck>G8c7d8~+3df90~}a7880t b3bd5~~b7442"/19bd3w-2b846w)3afd9"z9bf24w/4}
+ping{3s4t_w44Dtr1ck>D8c7d8~(3df90~~a7880t#b3bd5~}b7442",19bd3w.2b846w*3afd9"y9bf24w,4}
+ping{3t4t_w44Ctr1ck>C8c7d8~/3df90~ya7880t$b3bd5~zb7442"+19bd3w)2b846w-3afd9"~9bf24w+4}
+ping{3w4t_w44@tr1ck>@8c7d8~,3df90~za7880t'b3bd5~yb7442"(19bd3w*2b846w.3afd9"}9bf24w(4}
+ping{3v4t_w44Atr1ck>A8c7d8~-3df90~{a7880t&b3bd5~xb7442")19bd3w+2b846w/3afd9"|9bf24w)4}
+ping{3y4t_w44Ntr1ck>N8c7d8~"3df90~ta7880t)b3bd5~wb7442"&19bd3w$2b846w 3afd9"s9bf24w&4}
+ping{3x4t_w44Otr1ck>O8c7d8~#3df90~ua7880t(b3bd5~vb7442"'19bd3w%2b846w!3afd9"r9bf24w'4}
+ping{3{4t_w44Ltr1ck>L8c7d8~ 3df90~va7880t+b3bd5~ub7442"$19bd3w&2b846w"3afd9"q9bf24w$4}
+ping{3z4t_w44Mtr1ck>M8c7d8~!3df90~wa7880t*b3bd5~tb7442"%19bd3w'2b846w#3afd9"p9bf24w%4}
+ping{3}4t_w44Jtr1ck>J8c7d8~&3df90~pa7880t-b3bd5~sb7442""19bd3w 2b846w$3afd9"w9bf24w"4}
+ping{3|4t_w44Ktr1ck>K8c7d8~'3df90~qa7880t,b3bd5~rb7442"#19bd3w!2b846w%3afd9"v9bf24w#4}
+ping{3~4t_w44Itr1ck>I8c7d8~%3df90~sa7880t.b3bd5~pb7442"!19bd3w#2b846w'3afd9"t9bf24w!4}
+ping{3a4t_w44Vtr1ck>V8c7d8~:3df90~la7880t1b3bd5~ob7442">19bd3w<2b846w83afd9"k9bf24w>4}
+ping{3`4t_w44Wtr1ck>W8c7d8~;3df90~ma7880t0b3bd5~nb7442"?19bd3w=2b846w93afd9"j9bf24w?4}
+ping{3c4t_w44Ttr1ck>T8c7d8~83df90~na7880t3b3bd5~mb7442"<19bd3w>2b846w:3afd9"i9bf24w<4}
+ping{3b4t_w44Utr1ck>U8c7d8~93df90~oa7880t2b3bd5~lb7442"=19bd3w?2b846w;3afd9"h9bf24w=4}
+ping{3e4t_w44Rtr1ck>R8c7d8~>3df90~ha7880t5b3bd5~kb7442":19bd3w82b846w<3afd9"o9bf24w:4}
+ping{3d4t_w44Str1ck>S8c7d8~?3df90~ia7880t4b3bd5~jb7442";19bd3w92b846w=3afd9"n9bf24w;4}
+ping{3g4t_w44Ptr1ck>P8c7d8~<3df90~ja7880t7b3bd5~ib7442"819bd3w:2b846w>3afd9"m9bf24w84}
+ping{3f4t_w44Qtr1ck>Q8c7d8~=3df90~ka7880t6b3bd5~hb7442"919bd3w;2b846w?3afd9"l9bf24w94}
+ping{3i4t_w44^tr1ck>^8c7d8~23df90~da7880t9b3bd5~gb7442"619bd3w42b846w03afd9"c9bf24w64}
+ping{3h4t_w44_tr1ck>_8c7d8~33df90~ea7880t8b3bd5~fb7442"719bd3w52b846w13afd9"b9bf24w74}
+ping{3k4t_w44\tr1ck>\8c7d8~03df90~fa7880t;b3bd5~eb7442"419bd3w62b846w23afd9"a9bf24w44}
+ping{3j4t_w44]tr1ck>]8c7d8~13df90~ga7880t:b3bd5~db7442"519bd3w72b846w33afd9"`9bf24w54}
+ping{3m4t_w44Ztr1ck>Z8c7d8~63df90~`a7880t=b3bd5~cb7442"219bd3w02b846w43afd9"g9bf24w24}
+ping{3l4t_w44[tr1ck>[8c7d8~73df90~aa7880t<b3bd5~bb7442"319bd3w12b846w53afd9"f9bf24w34}
+ping{3o4t_w44Xtr1ck>X8c7d8~43df90~ba7880t?b3bd5~ab7442"019bd3w22b846w63afd9"e9bf24w04}
+ping{3n4t_w44Ytr1ck>Y8c7d8~53df90~ca7880t>b3bd5~`b7442"119bd3w32b846w73afd9"d9bf24w14}
+ping{,p4t_w4+Gtr1ck!G8c7d8a+3df90a}a7880k b3bd5a~b7442=/19bd3h-2b846h)3afd9=z9bf24h/4}
+ping{,s4t_w4+Dtr1ck!D8c7d8a(3df90a~a7880k#b3bd5a}b7442=,19bd3h.2b846h*3afd9=y9bf24h,4}
+ping{,t4t_w4+Ctr1ck!C8c7d8a/3df90aya7880k$b3bd5azb7442=+19bd3h)2b846h-3afd9=~9bf24h+4}
+ping{,w4t_w4+@tr1ck!@8c7d8a,3df90aza7880k'b3bd5ayb7442=(19bd3h*2b846h.3afd9=}9bf24h(4}
+ping{,v4t_w4+Atr1ck!A8c7d8a-3df90a{a7880k&b3bd5axb7442=)19bd3h+2b846h/3afd9=|9bf24h)4}
+ping{,y4t_w4+Ntr1ck!N8c7d8a"3df90ata7880k)b3bd5awb7442=&19bd3h$2b846h 3afd9=s9bf24h&4}
+ping{,x4t_w4+Otr1ck!O8c7d8a#3df90aua7880k(b3bd5avb7442='19bd3h%2b846h!3afd9=r9bf24h'4}
+ping{,{4t_w4+Ltr1ck!L8c7d8a 3df90ava7880k+b3bd5aub7442=$19bd3h&2b846h"3afd9=q9bf24h$4}
+ping{,z4t_w4+Mtr1ck!M8c7d8a!3df90awa7880k*b3bd5atb7442=%19bd3h'2b846h#3afd9=p9bf24h%4}
+ping{,}4t_w4+Jtr1ck!J8c7d8a&3df90apa7880k-b3bd5asb7442="19bd3h 2b846h$3afd9=w9bf24h"4}
+ping{,|4t_w4+Ktr1ck!K8c7d8a'3df90aqa7880k,b3bd5arb7442=#19bd3h!2b846h%3afd9=v9bf24h#4}
+ping{,~4t_w4+Itr1ck!I8c7d8a%3df90asa7880k.b3bd5apb7442=!19bd3h#2b846h'3afd9=t9bf24h!4}
+ping{,a4t_w4+Vtr1ck!V8c7d8a:3df90ala7880k1b3bd5aob7442=>19bd3h<2b846h83afd9=k9bf24h>4}
+ping{,`4t_w4+Wtr1ck!W8c7d8a;3df90ama7880k0b3bd5anb7442=?19bd3h=2b846h93afd9=j9bf24h?4}
+ping{,c4t_w4+Ttr1ck!T8c7d8a83df90ana7880k3b3bd5amb7442=<19bd3h>2b846h:3afd9=i9bf24h<4}
+ping{,b4t_w4+Utr1ck!U8c7d8a93df90aoa7880k2b3bd5alb7442==19bd3h?2b846h;3afd9=h9bf24h=4}
+ping{,e4t_w4+Rtr1ck!R8c7d8a>3df90aha7880k5b3bd5akb7442=:19bd3h82b846h<3afd9=o9bf24h:4}
+ping{,d4t_w4+Str1ck!S8c7d8a?3df90aia7880k4b3bd5ajb7442=;19bd3h92b846h=3afd9=n9bf24h;4}
+ping{,g4t_w4+Ptr1ck!P8c7d8a<3df90aja7880k7b3bd5aib7442=819bd3h:2b846h>3afd9=m9bf24h84}
+ping{,f4t_w4+Qtr1ck!Q8c7d8a=3df90aka7880k6b3bd5ahb7442=919bd3h;2b846h?3afd9=l9bf24h94}
+ping{,i4t_w4+^tr1ck!^8c7d8a23df90ada7880k9b3bd5agb7442=619bd3h42b846h03afd9=c9bf24h64}
+ping{,h4t_w4+_tr1ck!_8c7d8a33df90aea7880k8b3bd5afb7442=719bd3h52b846h13afd9=b9bf24h74}
+ping{,k4t_w4+\tr1ck!\8c7d8a03df90afa7880k;b3bd5aeb7442=419bd3h62b846h23afd9=a9bf24h44}
+ping{,j4t_w4+]tr1ck!]8c7d8a13df90aga7880k:b3bd5adb7442=519bd3h72b846h33afd9=`9bf24h54}
+ping{,m4t_w4+Ztr1ck!Z8c7d8a63df90a`a7880k=b3bd5acb7442=219bd3h02b846h43afd9=g9bf24h24}
+ping{,l4t_w4+[tr1ck![8c7d8a73df90aaa7880k<b3bd5abb7442=319bd3h12b846h53afd9=f9bf24h34}
+ping{,o4t_w4+Xtr1ck!X8c7d8a43df90aba7880k?b3bd5aab7442=019bd3h22b846h63afd9=e9bf24h04}
+ping{,n4t_w4+Ytr1ck!Y8c7d8a53df90aca7880k>b3bd5a`b7442=119bd3h32b846h73afd9=d9bf24h14}
+ping{-p4t_w4*Gtr1ck G8c7d8`+3df90`}a7880j b3bd5`~b7442</19bd3i-2b846i)3afd9<z9bf24i/4}
+ping{-s4t_w4*Dtr1ck D8c7d8`(3df90`~a7880j#b3bd5`}b7442<,19bd3i.2b846i*3afd9<y9bf24i,4}
+ping{-t4t_w4*Ctr1ck C8c7d8`/3df90`ya7880j$b3bd5`zb7442<+19bd3i)2b846i-3afd9<~9bf24i+4}
+ping{-w4t_w4*@tr1ck @8c7d8`,3df90`za7880j'b3bd5`yb7442<(19bd3i*2b846i.3afd9<}9bf24i(4}
+ping{-v4t_w4*Atr1ck A8c7d8`-3df90`{a7880j&b3bd5`xb7442<)19bd3i+2b846i/3afd9<|9bf24i)4}
+ping{-y4t_w4*Ntr1ck N8c7d8`"3df90`ta7880j)b3bd5`wb7442<&19bd3i$2b846i 3afd9<s9bf24i&4}
+ping{-x4t_w4*Otr1ck O8c7d8`#3df90`ua7880j(b3bd5`vb7442<'19bd3i%2b846i!3afd9<r9bf24i'4}
+ping{-{4t_w4*Ltr1ck L8c7d8` 3df90`va7880j+b3bd5`ub7442<$19bd3i&2b846i"3afd9<q9bf24i$4}
+ping{-z4t_w4*Mtr1ck M8c7d8`!3df90`wa7880j*b3bd5`tb7442<%19bd3i'2b846i#3afd9<p9bf24i%4}
+ping{-}4t_w4*Jtr1ck J8c7d8`&3df90`pa7880j-b3bd5`sb7442<"19bd3i 2b846i$3afd9<w9bf24i"4}
+ping{-|4t_w4*Ktr1ck K8c7d8`'3df90`qa7880j,b3bd5`rb7442<#19bd3i!2b846i%3afd9<v9bf24i#4}
+ping{-~4t_w4*Itr1ck I8c7d8`%3df90`sa7880j.b3bd5`pb7442<!19bd3i#2b846i'3afd9<t9bf24i!4}
+ping{-a4t_w4*Vtr1ck V8c7d8`:3df90`la7880j1b3bd5`ob7442<>19bd3i<2b846i83afd9<k9bf24i>4}
+ping{-`4t_w4*Wtr1ck W8c7d8`;3df90`ma7880j0b3bd5`nb7442<?19bd3i=2b846i93afd9<j9bf24i?4}
+ping{-c4t_w4*Ttr1ck T8c7d8`83df90`na7880j3b3bd5`mb7442<<19bd3i>2b846i:3afd9<i9bf24i<4}
+ping{-b4t_w4*Utr1ck U8c7d8`93df90`oa7880j2b3bd5`lb7442<=19bd3i?2b846i;3afd9<h9bf24i=4}
+ping{-e4t_w4*Rtr1ck R8c7d8`>3df90`ha7880j5b3bd5`kb7442<:19bd3i82b846i<3afd9<o9bf24i:4}
+ping{-d4t_w4*Str1ck S8c7d8`?3df90`ia7880j4b3bd5`jb7442<;19bd3i92b846i=3afd9<n9bf24i;4}
+ping{-g4t_w4*Ptr1ck P8c7d8`<3df90`ja7880j7b3bd5`ib7442<819bd3i:2b846i>3afd9<m9bf24i84}
+ping{-f4t_w4*Qtr1ck Q8c7d8`=3df90`ka7880j6b3bd5`hb7442<919bd3i;2b846i?3afd9<l9bf24i94}
+ping{-i4t_w4*^tr1ck ^8c7d8`23df90`da7880j9b3bd5`gb7442<619bd3i42b846i03afd9<c9bf24i64}
+ping{-h4t_w4*_tr1ck _8c7d8`33df90`ea7880j8b3bd5`fb7442<719bd3i52b846i13afd9<b9bf24i74}
+ping{-k4t_w4*\tr1ck \8c7d8`03df90`fa7880j;b3bd5`eb7442<419bd3i62b846i23afd9<a9bf24i44}
+ping{-j4t_w4*]tr1ck ]8c7d8`13df90`ga7880j:b3bd5`db7442<519bd3i72b846i33afd9<`9bf24i54}
+ping{-m4t_w4*Ztr1ck Z8c7d8`63df90``a7880j=b3bd5`cb7442<219bd3i02b846i43afd9<g9bf24i24}
+ping{-l4t_w4*[tr1ck [8c7d8`73df90`aa7880j<b3bd5`bb7442<319bd3i12b846i53afd9<f9bf24i34}
+ping{-o4t_w4*Xtr1ck X8c7d8`43df90`ba7880j?b3bd5`ab7442<019bd3i22b846i63afd9<e9bf24i04}
+ping{-n4t_w4*Ytr1ck Y8c7d8`53df90`ca7880j>b3bd5``b7442<119bd3i32b846i73afd9<d9bf24i14}
+ping{.p4t_w4)Gtr1ck#G8c7d8c+3df90c}a7880i b3bd5c~b7442?/19bd3j-2b846j)3afd9?z9bf24j/4}
+ping{.s4t_w4)Dtr1ck#D8c7d8c(3df90c~a7880i#b3bd5c}b7442?,19bd3j.2b846j*3afd9?y9bf24j,4}
+ping{.t4t_w4)Ctr1ck#C8c7d8c/3df90cya7880i$b3bd5czb7442?+19bd3j)2b846j-3afd9?~9bf24j+4}
+ping{.w4t_w4)@tr1ck#@8c7d8c,3df90cza7880i'b3bd5cyb7442?(19bd3j*2b846j.3afd9?}9bf24j(4}
+ping{.v4t_w4)Atr1ck#A8c7d8c-3df90c{a7880i&b3bd5cxb7442?)19bd3j+2b846j/3afd9?|9bf24j)4}
+ping{.y4t_w4)Ntr1ck#N8c7d8c"3df90cta7880i)b3bd5cwb7442?&19bd3j$2b846j 3afd9?s9bf24j&4}
+ping{.x4t_w4)Otr1ck#O8c7d8c#3df90cua7880i(b3bd5cvb7442?'19bd3j%2b846j!3afd9?r9bf24j'4}
+ping{.{4t_w4)Ltr1ck#L8c7d8c 3df90cva7880i+b3bd5cub7442?$19bd3j&2b846j"3afd9?q9bf24j$4}
+ping{.z4t_w4)Mtr1ck#M8c7d8c!3df90cwa7880i*b3bd5ctb7442?%19bd3j'2b846j#3afd9?p9bf24j%4}
+ping{.}4t_w4)Jtr1ck#J8c7d8c&3df90cpa7880i-b3bd5csb7442?"19bd3j 2b846j$3afd9?w9bf24j"4}
+ping{.|4t_w4)Ktr1ck#K8c7d8c'3df90cqa7880i,b3bd5crb7442?#19bd3j!2b846j%3afd9?v9bf24j#4}
+ping{.~4t_w4)Itr1ck#I8c7d8c%3df90csa7880i.b3bd5cpb7442?!19bd3j#2b846j'3afd9?t9bf24j!4}
+ping{.a4t_w4)Vtr1ck#V8c7d8c:3df90cla7880i1b3bd5cob7442?>19bd3j<2b846j83afd9?k9bf24j>4}
+ping{.`4t_w4)Wtr1ck#W8c7d8c;3df90cma7880i0b3bd5cnb7442??19bd3j=2b846j93afd9?j9bf24j?4}
+ping{.c4t_w4)Ttr1ck#T8c7d8c83df90cna7880i3b3bd5cmb7442?<19bd3j>2b846j:3afd9?i9bf24j<4}
+ping{.b4t_w4)Utr1ck#U8c7d8c93df90coa7880i2b3bd5clb7442?=19bd3j?2b846j;3afd9?h9bf24j=4}
+ping{.e4t_w4)Rtr1ck#R8c7d8c>3df90cha7880i5b3bd5ckb7442?:19bd3j82b846j<3afd9?o9bf24j:4}
+ping{.d4t_w4)Str1ck#S8c7d8c?3df90cia7880i4b3bd5cjb7442?;19bd3j92b846j=3afd9?n9bf24j;4}
+ping{.g4t_w4)Ptr1ck#P8c7d8c<3df90cja7880i7b3bd5cib7442?819bd3j:2b846j>3afd9?m9bf24j84}
+ping{.f4t_w4)Qtr1ck#Q8c7d8c=3df90cka7880i6b3bd5chb7442?919bd3j;2b846j?3afd9?l9bf24j94}
+ping{.i4t_w4)^tr1ck#^8c7d8c23df90cda7880i9b3bd5cgb7442?619bd3j42b846j03afd9?c9bf24j64}
+ping{.h4t_w4)_tr1ck#_8c7d8c33df90cea7880i8b3bd5cfb7442?719bd3j52b846j13afd9?b9bf24j74}
+ping{.k4t_w4)\tr1ck#\8c7d8c03df90cfa7880i;b3bd5ceb7442?419bd3j62b846j23afd9?a9bf24j44}
+ping{.j4t_w4)]tr1ck#]8c7d8c13df90cga7880i:b3bd5cdb7442?519bd3j72b846j33afd9?`9bf24j54}
+ping{.m4t_w4)Ztr1ck#Z8c7d8c63df90c`a7880i=b3bd5ccb7442?219bd3j02b846j43afd9?g9bf24j24}
+ping{.l4t_w4)[tr1ck#[8c7d8c73df90caa7880i<b3bd5cbb7442?319bd3j12b846j53afd9?f9bf24j34}
+ping{.o4t_w4)Xtr1ck#X8c7d8c43df90cba7880i?b3bd5cab7442?019bd3j22b846j63afd9?e9bf24j04}
+ping{.n4t_w4)Ytr1ck#Y8c7d8c53df90cca7880i>b3bd5c`b7442?119bd3j32b846j73afd9?d9bf24j14}
+ping{/p4t_w4(Gtr1ck"G8c7d8b+3df90b}a7880h b3bd5b~b7442>/19bd3k-2b846k)3afd9>z9bf24k/4}
+ping{/s4t_w4(Dtr1ck"D8c7d8b(3df90b~a7880h#b3bd5b}b7442>,19bd3k.2b846k*3afd9>y9bf24k,4}
+ping{/t4t_w4(Ctr1ck"C8c7d8b/3df90bya7880h$b3bd5bzb7442>+19bd3k)2b846k-3afd9>~9bf24k+4}
+ping{/w4t_w4(@tr1ck"@8c7d8b,3df90bza7880h'b3bd5byb7442>(19bd3k*2b846k.3afd9>}9bf24k(4}
+ping{/v4t_w4(Atr1ck"A8c7d8b-3df90b{a7880h&b3bd5bxb7442>)19bd3k+2b846k/3afd9>|9bf24k)4}
+ping{/y4t_w4(Ntr1ck"N8c7d8b"3df90bta7880h)b3bd5bwb7442>&19bd3k$2b846k 3afd9>s9bf24k&4}
+ping{/x4t_w4(Otr1ck"O8c7d8b#3df90bua7880h(b3bd5bvb7442>'19bd3k%2b846k!3afd9>r9bf24k'4}
+ping{/{4t_w4(Ltr1ck"L8c7d8b 3df90bva7880h+b3bd5bub7442>$19bd3k&2b846k"3afd9>q9bf24k$4}
+ping{/z4t_w4(Mtr1ck"M8c7d8b!3df90bwa7880h*b3bd5btb7442>%19bd3k'2b846k#3afd9>p9bf24k%4}
+ping{/}4t_w4(Jtr1ck"J8c7d8b&3df90bpa7880h-b3bd5bsb7442>"19bd3k 2b846k$3afd9>w9bf24k"4}
+ping{/|4t_w4(Ktr1ck"K8c7d8b'3df90bqa7880h,b3bd5brb7442>#19bd3k!2b846k%3afd9>v9bf24k#4}
+ping{/~4t_w4(Itr1ck"I8c7d8b%3df90bsa7880h.b3bd5bpb7442>!19bd3k#2b846k'3afd9>t9bf24k!4}
+ping{/a4t_w4(Vtr1ck"V8c7d8b:3df90bla7880h1b3bd5bob7442>>19bd3k<2b846k83afd9>k9bf24k>4}
+ping{/`4t_w4(Wtr1ck"W8c7d8b;3df90bma7880h0b3bd5bnb7442>?19bd3k=2b846k93afd9>j9bf24k?4}
+ping{/c4t_w4(Ttr1ck"T8c7d8b83df90bna7880h3b3bd5bmb7442><19bd3k>2b846k:3afd9>i9bf24k<4}
+ping{/b4t_w4(Utr1ck"U8c7d8b93df90boa7880h2b3bd5blb7442>=19bd3k?2b846k;3afd9>h9bf24k=4}
+ping{/e4t_w4(Rtr1ck"R8c7d8b>3df90bha7880h5b3bd5bkb7442>:19bd3k82b846k<3afd9>o9bf24k:4}
+ping{/d4t_w4(Str1ck"S8c7d8b?3df90bia7880h4b3bd5bjb7442>;19bd3k92b846k=3afd9>n9bf24k;4}
+ping{/g4t_w4(Ptr1ck"P8c7d8b<3df90bja7880h7b3bd5bib7442>819bd3k:2b846k>3afd9>m9bf24k84}
+ping{/f4t_w4(Qtr1ck"Q8c7d8b=3df90bka7880h6b3bd5bhb7442>919bd3k;2b846k?3afd9>l9bf24k94}
+ping{/i4t_w4(^tr1ck"^8c7d8b23df90bda7880h9b3bd5bgb7442>619bd3k42b846k03afd9>c9bf24k64}
+ping{/h4t_w4(_tr1ck"_8c7d8b33df90bea7880h8b3bd5bfb7442>719bd3k52b846k13afd9>b9bf24k74}
+ping{/k4t_w4(\tr1ck"\8c7d8b03df90bfa7880h;b3bd5beb7442>419bd3k62b846k23afd9>a9bf24k44}
+ping{/j4t_w4(]tr1ck"]8c7d8b13df90bga7880h:b3bd5bdb7442>519bd3k72b846k33afd9>`9bf24k54}
+ping{/m4t_w4(Ztr1ck"Z8c7d8b63df90b`a7880h=b3bd5bcb7442>219bd3k02b846k43afd9>g9bf24k24}
+ping{/l4t_w4([tr1ck"[8c7d8b73df90baa7880h<b3bd5bbb7442>319bd3k12b846k53afd9>f9bf24k34}
+ping{/o4t_w4(Xtr1ck"X8c7d8b43df90bba7880h?b3bd5bab7442>019bd3k22b846k63afd9>e9bf24k04}
+ping{/n4t_w4(Ytr1ck"Y8c7d8b53df90bca7880h>b3bd5b`b7442>119bd3k32b846k73afd9>d9bf24k14}
+ping{(p4t_w4/Gtr1ck%G8c7d8e+3df90e}a7880o b3bd5e~b74429/19bd3l-2b846l)3afd99z9bf24l/4}
+ping{(s4t_w4/Dtr1ck%D8c7d8e(3df90e~a7880o#b3bd5e}b74429,19bd3l.2b846l*3afd99y9bf24l,4}
+ping{(t4t_w4/Ctr1ck%C8c7d8e/3df90eya7880o$b3bd5ezb74429+19bd3l)2b846l-3afd99~9bf24l+4}
+ping{(w4t_w4/@tr1ck%@8c7d8e,3df90eza7880o'b3bd5eyb74429(19bd3l*2b846l.3afd99}9bf24l(4}
+ping{(v4t_w4/Atr1ck%A8c7d8e-3df90e{a7880o&b3bd5exb74429)19bd3l+2b846l/3afd99|9bf24l)4}
+ping{(y4t_w4/Ntr1ck%N8c7d8e"3df90eta7880o)b3bd5ewb74429&19bd3l$2b846l 3afd99s9bf24l&4}
+ping{(x4t_w4/Otr1ck%O8c7d8e#3df90eua7880o(b3bd5evb74429'19bd3l%2b846l!3afd99r9bf24l'4}
+ping{({4t_w4/Ltr1ck%L8c7d8e 3df90eva7880o+b3bd5eub74429$19bd3l&2b846l"3afd99q9bf24l$4}
+ping{(z4t_w4/Mtr1ck%M8c7d8e!3df90ewa7880o*b3bd5etb74429%19bd3l'2b846l#3afd99p9bf24l%4}
+ping{(}4t_w4/Jtr1ck%J8c7d8e&3df90epa7880o-b3bd5esb74429"19bd3l 2b846l$3afd99w9bf24l"4}
+ping{(|4t_w4/Ktr1ck%K8c7d8e'3df90eqa7880o,b3bd5erb74429#19bd3l!2b846l%3afd99v9bf24l#4}
+ping{(~4t_w4/Itr1ck%I8c7d8e%3df90esa7880o.b3bd5epb74429!19bd3l#2b846l'3afd99t9bf24l!4}
+ping{(a4t_w4/Vtr1ck%V8c7d8e:3df90ela7880o1b3bd5eob74429>19bd3l<2b846l83afd99k9bf24l>4}
+ping{(`4t_w4/Wtr1ck%W8c7d8e;3df90ema7880o0b3bd5enb74429?19bd3l=2b846l93afd99j9bf24l?4}
+ping{(c4t_w4/Ttr1ck%T8c7d8e83df90ena7880o3b3bd5emb74429<19bd3l>2b846l:3afd99i9bf24l<4}
+ping{(b4t_w4/Utr1ck%U8c7d8e93df90eoa7880o2b3bd5elb74429=19bd3l?2b846l;3afd99h9bf24l=4}
+ping{(e4t_w4/Rtr1ck%R8c7d8e>3df90eha7880o5b3bd5ekb74429:19bd3l82b846l<3afd99o9bf24l:4}
+ping{(d4t_w4/Str1ck%S8c7d8e?3df90eia7880o4b3bd5ejb74429;19bd3l92b846l=3afd99n9bf24l;4}
+ping{(g4t_w4/Ptr1ck%P8c7d8e<3df90eja7880o7b3bd5eib74429819bd3l:2b846l>3afd99m9bf24l84}
+ping{(f4t_w4/Qtr1ck%Q8c7d8e=3df90eka7880o6b3bd5ehb74429919bd3l;2b846l?3afd99l9bf24l94}
+ping{(i4t_w4/^tr1ck%^8c7d8e23df90eda7880o9b3bd5egb74429619bd3l42b846l03afd99c9bf24l64}
+ping{(h4t_w4/_tr1ck%_8c7d8e33df90eea7880o8b3bd5efb74429719bd3l52b846l13afd99b9bf24l74}
+ping{(k4t_w4/\tr1ck%\8c7d8e03df90efa7880o;b3bd5eeb74429419bd3l62b846l23afd99a9bf24l44}
+ping{(j4t_w4/]tr1ck%]8c7d8e13df90ega7880o:b3bd5edb74429519bd3l72b846l33afd99`9bf24l54}
+ping{(m4t_w4/Ztr1ck%Z8c7d8e63df90e`a7880o=b3bd5ecb74429219bd3l02b846l43afd99g9bf24l24}
+ping{(l4t_w4/[tr1ck%[8c7d8e73df90eaa7880o<b3bd5ebb74429319bd3l12b846l53afd99f9bf24l34}
+ping{(o4t_w4/Xtr1ck%X8c7d8e43df90eba7880o?b3bd5eab74429019bd3l22b846l63afd99e9bf24l04}
+ping{(n4t_w4/Ytr1ck%Y8c7d8e53df90eca7880o>b3bd5e`b74429119bd3l32b846l73afd99d9bf24l14}
+ping{)p4t_w4.Gtr1ck$G8c7d8d+3df90d}a7880n b3bd5d~b74428/19bd3m-2b846m)3afd98z9bf24m/4}
+ping{)s4t_w4.Dtr1ck$D8c7d8d(3df90d~a7880n#b3bd5d}b74428,19bd3m.2b846m*3afd98y9bf24m,4}
+ping{)t4t_w4.Ctr1ck$C8c7d8d/3df90dya7880n$b3bd5dzb74428+19bd3m)2b846m-3afd98~9bf24m+4}
+ping{)w4t_w4.@tr1ck$@8c7d8d,3df90dza7880n'b3bd5dyb74428(19bd3m*2b846m.3afd98}9bf24m(4}
+ping{)v4t_w4.Atr1ck$A8c7d8d-3df90d{a7880n&b3bd5dxb74428)19bd3m+2b846m/3afd98|9bf24m)4}
+ping{)y4t_w4.Ntr1ck$N8c7d8d"3df90dta7880n)b3bd5dwb74428&19bd3m$2b846m 3afd98s9bf24m&4}
+ping{)x4t_w4.Otr1ck$O8c7d8d#3df90dua7880n(b3bd5dvb74428'19bd3m%2b846m!3afd98r9bf24m'4}
+ping{){4t_w4.Ltr1ck$L8c7d8d 3df90dva7880n+b3bd5dub74428$19bd3m&2b846m"3afd98q9bf24m$4}
+ping{)z4t_w4.Mtr1ck$M8c7d8d!3df90dwa7880n*b3bd5dtb74428%19bd3m'2b846m#3afd98p9bf24m%4}
+ping{)}4t_w4.Jtr1ck$J8c7d8d&3df90dpa7880n-b3bd5dsb74428"19bd3m 2b846m$3afd98w9bf24m"4}
+ping{)|4t_w4.Ktr1ck$K8c7d8d'3df90dqa7880n,b3bd5drb74428#19bd3m!2b846m%3afd98v9bf24m#4}
+ping{)~4t_w4.Itr1ck$I8c7d8d%3df90dsa7880n.b3bd5dpb74428!19bd3m#2b846m'3afd98t9bf24m!4}
+ping{)a4t_w4.Vtr1ck$V8c7d8d:3df90dla7880n1b3bd5dob74428>19bd3m<2b846m83afd98k9bf24m>4}
+ping{)`4t_w4.Wtr1ck$W8c7d8d;3df90dma7880n0b3bd5dnb74428?19bd3m=2b846m93afd98j9bf24m?4}
+ping{)c4t_w4.Ttr1ck$T8c7d8d83df90dna7880n3b3bd5dmb74428<19bd3m>2b846m:3afd98i9bf24m<4}
+ping{)b4t_w4.Utr1ck$U8c7d8d93df90doa7880n2b3bd5dlb74428=19bd3m?2b846m;3afd98h9bf24m=4}
+ping{)e4t_w4.Rtr1ck$R8c7d8d>3df90dha7880n5b3bd5dkb74428:19bd3m82b846m<3afd98o9bf24m:4}
+ping{)d4t_w4.Str1ck$S8c7d8d?3df90dia7880n4b3bd5djb74428;19bd3m92b846m=3afd98n9bf24m;4}
+ping{)g4t_w4.Ptr1ck$P8c7d8d<3df90dja7880n7b3bd5dib74428819bd3m:2b846m>3afd98m9bf24m84}
+ping{)f4t_w4.Qtr1ck$Q8c7d8d=3df90dka7880n6b3bd5dhb74428919bd3m;2b846m?3afd98l9bf24m94}
+ping{)i4t_w4.^tr1ck$^8c7d8d23df90dda7880n9b3bd5dgb74428619bd3m42b846m03afd98c9bf24m64}
+ping{)h4t_w4._tr1ck$_8c7d8d33df90dea7880n8b3bd5dfb74428719bd3m52b846m13afd98b9bf24m74}
+ping{)k4t_w4.\tr1ck$\8c7d8d03df90dfa7880n;b3bd5deb74428419bd3m62b846m23afd98a9bf24m44}
+ping{)j4t_w4.]tr1ck$]8c7d8d13df90dga7880n:b3bd5ddb74428519bd3m72b846m33afd98`9bf24m54}
+ping{)m4t_w4.Ztr1ck$Z8c7d8d63df90d`a7880n=b3bd5dcb74428219bd3m02b846m43afd98g9bf24m24}
+ping{)l4t_w4.[tr1ck$[8c7d8d73df90daa7880n<b3bd5dbb74428319bd3m12b846m53afd98f9bf24m34}
+ping{)o4t_w4.Xtr1ck$X8c7d8d43df90dba7880n?b3bd5dab74428019bd3m22b846m63afd98e9bf24m04}
+ping{)n4t_w4.Ytr1ck$Y8c7d8d53df90dca7880n>b3bd5d`b74428119bd3m32b846m73afd98d9bf24m14}
+ping{*p4t_w4-Gtr1ck'G8c7d8g+3df90g}a7880m b3bd5g~b7442;/19bd3n-2b846n)3afd9;z9bf24n/4}
+ping{*s4t_w4-Dtr1ck'D8c7d8g(3df90g~a7880m#b3bd5g}b7442;,19bd3n.2b846n*3afd9;y9bf24n,4}
+ping{*t4t_w4-Ctr1ck'C8c7d8g/3df90gya7880m$b3bd5gzb7442;+19bd3n)2b846n-3afd9;~9bf24n+4}
+ping{*w4t_w4-@tr1ck'@8c7d8g,3df90gza7880m'b3bd5gyb7442;(19bd3n*2b846n.3afd9;}9bf24n(4}
+ping{*v4t_w4-Atr1ck'A8c7d8g-3df90g{a7880m&b3bd5gxb7442;)19bd3n+2b846n/3afd9;|9bf24n)4}
+ping{*y4t_w4-Ntr1ck'N8c7d8g"3df90gta7880m)b3bd5gwb7442;&19bd3n$2b846n 3afd9;s9bf24n&4}
+ping{*x4t_w4-Otr1ck'O8c7d8g#3df90gua7880m(b3bd5gvb7442;'19bd3n%2b846n!3afd9;r9bf24n'4}
+ping{*{4t_w4-Ltr1ck'L8c7d8g 3df90gva7880m+b3bd5gub7442;$19bd3n&2b846n"3afd9;q9bf24n$4}
+ping{*z4t_w4-Mtr1ck'M8c7d8g!3df90gwa7880m*b3bd5gtb7442;%19bd3n'2b846n#3afd9;p9bf24n%4}
+ping{*}4t_w4-Jtr1ck'J8c7d8g&3df90gpa7880m-b3bd5gsb7442;"19bd3n 2b846n$3afd9;w9bf24n"4}
+ping{*|4t_w4-Ktr1ck'K8c7d8g'3df90gqa7880m,b3bd5grb7442;#19bd3n!2b846n%3afd9;v9bf24n#4}
+ping{*~4t_w4-Itr1ck'I8c7d8g%3df90gsa7880m.b3bd5gpb7442;!19bd3n#2b846n'3afd9;t9bf24n!4}
+ping{*a4t_w4-Vtr1ck'V8c7d8g:3df90gla7880m1b3bd5gob7442;>19bd3n<2b846n83afd9;k9bf24n>4}
+ping{*`4t_w4-Wtr1ck'W8c7d8g;3df90gma7880m0b3bd5gnb7442;?19bd3n=2b846n93afd9;j9bf24n?4}
+ping{*c4t_w4-Ttr1ck'T8c7d8g83df90gna7880m3b3bd5gmb7442;<19bd3n>2b846n:3afd9;i9bf24n<4}
+ping{*b4t_w4-Utr1ck'U8c7d8g93df90goa7880m2b3bd5glb7442;=19bd3n?2b846n;3afd9;h9bf24n=4}
+ping{*e4t_w4-Rtr1ck'R8c7d8g>3df90gha7880m5b3bd5gkb7442;:19bd3n82b846n<3afd9;o9bf24n:4}
+ping{*d4t_w4-Str1ck'S8c7d8g?3df90gia7880m4b3bd5gjb7442;;19bd3n92b846n=3afd9;n9bf24n;4}
+ping{*g4t_w4-Ptr1ck'P8c7d8g<3df90gja7880m7b3bd5gib7442;819bd3n:2b846n>3afd9;m9bf24n84}
+ping{*f4t_w4-Qtr1ck'Q8c7d8g=3df90gka7880m6b3bd5ghb7442;919bd3n;2b846n?3afd9;l9bf24n94}
+ping{*i4t_w4-^tr1ck'^8c7d8g23df90gda7880m9b3bd5ggb7442;619bd3n42b846n03afd9;c9bf24n64}
+ping{*h4t_w4-_tr1ck'_8c7d8g33df90gea7880m8b3bd5gfb7442;719bd3n52b846n13afd9;b9bf24n74}
+ping{*k4t_w4-\tr1ck'\8c7d8g03df90gfa7880m;b3bd5geb7442;419bd3n62b846n23afd9;a9bf24n44}
+ping{*j4t_w4-]tr1ck']8c7d8g13df90gga7880m:b3bd5gdb7442;519bd3n72b846n33afd9;`9bf24n54}
+ping{*m4t_w4-Ztr1ck'Z8c7d8g63df90g`a7880m=b3bd5gcb7442;219bd3n02b846n43afd9;g9bf24n24}
+ping{*l4t_w4-[tr1ck'[8c7d8g73df90gaa7880m<b3bd5gbb7442;319bd3n12b846n53afd9;f9bf24n34}
+ping{*o4t_w4-Xtr1ck'X8c7d8g43df90gba7880m?b3bd5gab7442;019bd3n22b846n63afd9;e9bf24n04}
+ping{*n4t_w4-Ytr1ck'Y8c7d8g53df90gca7880m>b3bd5g`b7442;119bd3n32b846n73afd9;d9bf24n14}
+ping{+p4t_w4,Gtr1ck&G8c7d8f+3df90f}a7880l b3bd5f~b7442:/19bd3o-2b846o)3afd9:z9bf24o/4}
+ping{+s4t_w4,Dtr1ck&D8c7d8f(3df90f~a7880l#b3bd5f}b7442:,19bd3o.2b846o*3afd9:y9bf24o,4}
+ping{+t4t_w4,Ctr1ck&C8c7d8f/3df90fya7880l$b3bd5fzb7442:+19bd3o)2b846o-3afd9:~9bf24o+4}
+ping{+w4t_w4,@tr1ck&@8c7d8f,3df90fza7880l'b3bd5fyb7442:(19bd3o*2b846o.3afd9:}9bf24o(4}
+ping{+v4t_w4,Atr1ck&A8c7d8f-3df90f{a7880l&b3bd5fxb7442:)19bd3o+2b846o/3afd9:|9bf24o)4}
+ping{+y4t_w4,Ntr1ck&N8c7d8f"3df90fta7880l)b3bd5fwb7442:&19bd3o$2b846o 3afd9:s9bf24o&4}
+ping{+x4t_w4,Otr1ck&O8c7d8f#3df90fua7880l(b3bd5fvb7442:'19bd3o%2b846o!3afd9:r9bf24o'4}
+ping{+{4t_w4,Ltr1ck&L8c7d8f 3df90fva7880l+b3bd5fub7442:$19bd3o&2b846o"3afd9:q9bf24o$4}
+ping{+z4t_w4,Mtr1ck&M8c7d8f!3df90fwa7880l*b3bd5ftb7442:%19bd3o'2b846o#3afd9:p9bf24o%4}
+ping{+}4t_w4,Jtr1ck&J8c7d8f&3df90fpa7880l-b3bd5fsb7442:"19bd3o 2b846o$3afd9:w9bf24o"4}
+ping{+|4t_w4,Ktr1ck&K8c7d8f'3df90fqa7880l,b3bd5frb7442:#19bd3o!2b846o%3afd9:v9bf24o#4}
+ping{+~4t_w4,Itr1ck&I8c7d8f%3df90fsa7880l.b3bd5fpb7442:!19bd3o#2b846o'3afd9:t9bf24o!4}
+ping{+a4t_w4,Vtr1ck&V8c7d8f:3df90fla7880l1b3bd5fob7442:>19bd3o<2b846o83afd9:k9bf24o>4}
+ping{+`4t_w4,Wtr1ck&W8c7d8f;3df90fma7880l0b3bd5fnb7442:?19bd3o=2b846o93afd9:j9bf24o?4}
+ping{+c4t_w4,Ttr1ck&T8c7d8f83df90fna7880l3b3bd5fmb7442:<19bd3o>2b846o:3afd9:i9bf24o<4}
+ping{+b4t_w4,Utr1ck&U8c7d8f93df90foa7880l2b3bd5flb7442:=19bd3o?2b846o;3afd9:h9bf24o=4}
+ping{+e4t_w4,Rtr1ck&R8c7d8f>3df90fha7880l5b3bd5fkb7442::19bd3o82b846o<3afd9:o9bf24o:4}
+ping{+d4t_w4,Str1ck&S8c7d8f?3df90fia7880l4b3bd5fjb7442:;19bd3o92b846o=3afd9:n9bf24o;4}
+ping{+g4t_w4,Ptr1ck&P8c7d8f<3df90fja7880l7b3bd5fib7442:819bd3o:2b846o>3afd9:m9bf24o84}
+ping{+f4t_w4,Qtr1ck&Q8c7d8f=3df90fka7880l6b3bd5fhb7442:919bd3o;2b846o?3afd9:l9bf24o94}
+ping{+i4t_w4,^tr1ck&^8c7d8f23df90fda7880l9b3bd5fgb7442:619bd3o42b846o03afd9:c9bf24o64}
+ping{+h4t_w4,_tr1ck&_8c7d8f33df90fea7880l8b3bd5ffb7442:719bd3o52b846o13afd9:b9bf24o74}
+ping{+k4t_w4,\tr1ck&\8c7d8f03df90ffa7880l;b3bd5feb7442:419bd3o62b846o23afd9:a9bf24o44}
+ping{+j4t_w4,]tr1ck&]8c7d8f13df90fga7880l:b3bd5fdb7442:519bd3o72b846o33afd9:`9bf24o54}
+ping{+m4t_w4,Ztr1ck&Z8c7d8f63df90f`a7880l=b3bd5fcb7442:219bd3o02b846o43afd9:g9bf24o24}
+ping{+l4t_w4,[tr1ck&[8c7d8f73df90faa7880l<b3bd5fbb7442:319bd3o12b846o53afd9:f9bf24o34}
+ping{+o4t_w4,Xtr1ck&X8c7d8f43df90fba7880l?b3bd5fab7442:019bd3o22b846o63afd9:e9bf24o04}
+ping{+n4t_w4,Ytr1ck&Y8c7d8f53df90fca7880l>b3bd5f`b7442:119bd3o32b846o73afd9:d9bf24o14}
+ping{$p4t_w4#Gtr1ck)G8c7d8i+3df90i}a7880c b3bd5i~b74425/19bd3`-2b846`)3afd95z9bf24`/4}
+ping{$s4t_w4#Dtr1ck)D8c7d8i(3df90i~a7880c#b3bd5i}b74425,19bd3`.2b846`*3afd95y9bf24`,4}
+ping{$t4t_w4#Ctr1ck)C8c7d8i/3df90iya7880c$b3bd5izb74425+19bd3`)2b846`-3afd95~9bf24`+4}
+ping{$w4t_w4#@tr1ck)@8c7d8i,3df90iza7880c'b3bd5iyb74425(19bd3`*2b846`.3afd95}9bf24`(4}
+ping{$v4t_w4#Atr1ck)A8c7d8i-3df90i{a7880c&b3bd5ixb74425)19bd3`+2b846`/3afd95|9bf24`)4}
+ping{$y4t_w4#Ntr1ck)N8c7d8i"3df90ita7880c)b3bd5iwb74425&19bd3`$2b846` 3afd95s9bf24`&4}
+ping{$x4t_w4#Otr1ck)O8c7d8i#3df90iua7880c(b3bd5ivb74425'19bd3`%2b846`!3afd95r9bf24`'4}
+ping{${4t_w4#Ltr1ck)L8c7d8i 3df90iva7880c+b3bd5iub74425$19bd3`&2b846`"3afd95q9bf24`$4}
+ping{$z4t_w4#Mtr1ck)M8c7d8i!3df90iwa7880c*b3bd5itb74425%19bd3`'2b846`#3afd95p9bf24`%4}
+ping{$}4t_w4#Jtr1ck)J8c7d8i&3df90ipa7880c-b3bd5isb74425"19bd3` 2b846`$3afd95w9bf24`"4}
+ping{$|4t_w4#Ktr1ck)K8c7d8i'3df90iqa7880c,b3bd5irb74425#19bd3`!2b846`%3afd95v9bf24`#4}
+ping{$~4t_w4#Itr1ck)I8c7d8i%3df90isa7880c.b3bd5ipb74425!19bd3`#2b846`'3afd95t9bf24`!4}
+ping{$a4t_w4#Vtr1ck)V8c7d8i:3df90ila7880c1b3bd5iob74425>19bd3`<2b846`83afd95k9bf24`>4}
+ping{$`4t_w4#Wtr1ck)W8c7d8i;3df90ima7880c0b3bd5inb74425?19bd3`=2b846`93afd95j9bf24`?4}
+ping{$c4t_w4#Ttr1ck)T8c7d8i83df90ina7880c3b3bd5imb74425<19bd3`>2b846`:3afd95i9bf24`<4}
+ping{$b4t_w4#Utr1ck)U8c7d8i93df90ioa7880c2b3bd5ilb74425=19bd3`?2b846`;3afd95h9bf24`=4}
+ping{$e4t_w4#Rtr1ck)R8c7d8i>3df90iha7880c5b3bd5ikb74425:19bd3`82b846`<3afd95o9bf24`:4}
+ping{$d4t_w4#Str1ck)S8c7d8i?3df90iia7880c4b3bd5ijb74425;19bd3`92b846`=3afd95n9bf24`;4}
+ping{$g4t_w4#Ptr1ck)P8c7d8i<3df90ija7880c7b3bd5iib74425819bd3`:2b846`>3afd95m9bf24`84}
+ping{$f4t_w4#Qtr1ck)Q8c7d8i=3df90ika7880c6b3bd5ihb74425919bd3`;2b846`?3afd95l9bf24`94}
+ping{$i4t_w4#^tr1ck)^8c7d8i23df90ida7880c9b3bd5igb74425619bd3`42b846`03afd95c9bf24`64}
+ping{$h4t_w4#_tr1ck)_8c7d8i33df90iea7880c8b3bd5ifb74425719bd3`52b846`13afd95b9bf24`74}
+ping{$k4t_w4#\tr1ck)\8c7d8i03df90ifa7880c;b3bd5ieb74425419bd3`62b846`23afd95a9bf24`44}
+ping{$j4t_w4#]tr1ck)]8c7d8i13df90iga7880c:b3bd5idb74425519bd3`72b846`33afd95`9bf24`54}
+ping{$m4t_w4#Ztr1ck)Z8c7d8i63df90i`a7880c=b3bd5icb74425219bd3`02b846`43afd95g9bf24`24}
+ping{$l4t_w4#[tr1ck)[8c7d8i73df90iaa7880c<b3bd5ibb74425319bd3`12b846`53afd95f9bf24`34}
+ping{$o4t_w4#Xtr1ck)X8c7d8i43df90iba7880c?b3bd5iab74425019bd3`22b846`63afd95e9bf24`04}
+ping{$n4t_w4#Ytr1ck)Y8c7d8i53df90ica7880c>b3bd5i`b74425119bd3`32b846`73afd95d9bf24`14}
+ping{%p4t_w4"Gtr1ck(G8c7d8h+3df90h}a7880b b3bd5h~b74424/19bd3a-2b846a)3afd94z9bf24a/4}
+ping{%s4t_w4"Dtr1ck(D8c7d8h(3df90h~a7880b#b3bd5h}b74424,19bd3a.2b846a*3afd94y9bf24a,4}
+ping{%t4t_w4"Ctr1ck(C8c7d8h/3df90hya7880b$b3bd5hzb74424+19bd3a)2b846a-3afd94~9bf24a+4}
+ping{%w4t_w4"@tr1ck(@8c7d8h,3df90hza7880b'b3bd5hyb74424(19bd3a*2b846a.3afd94}9bf24a(4}
+ping{%v4t_w4"Atr1ck(A8c7d8h-3df90h{a7880b&b3bd5hxb74424)19bd3a+2b846a/3afd94|9bf24a)4}
+ping{%y4t_w4"Ntr1ck(N8c7d8h"3df90hta7880b)b3bd5hwb74424&19bd3a$2b846a 3afd94s9bf24a&4}
+ping{%x4t_w4"Otr1ck(O8c7d8h#3df90hua7880b(b3bd5hvb74424'19bd3a%2b846a!3afd94r9bf24a'4}
+ping{%{4t_w4"Ltr1ck(L8c7d8h 3df90hva7880b+b3bd5hub74424$19bd3a&2b846a"3afd94q9bf24a$4}
+ping{%z4t_w4"Mtr1ck(M8c7d8h!3df90hwa7880b*b3bd5htb74424%19bd3a'2b846a#3afd94p9bf24a%4}
+ping{%}4t_w4"Jtr1ck(J8c7d8h&3df90hpa7880b-b3bd5hsb74424"19bd3a 2b846a$3afd94w9bf24a"4}
+ping{%|4t_w4"Ktr1ck(K8c7d8h'3df90hqa7880b,b3bd5hrb74424#19bd3a!2b846a%3afd94v9bf24a#4}
+ping{%~4t_w4"Itr1ck(I8c7d8h%3df90hsa7880b.b3bd5hpb74424!19bd3a#2b846a'3afd94t9bf24a!4}
+ping{%a4t_w4"Vtr1ck(V8c7d8h:3df90hla7880b1b3bd5hob74424>19bd3a<2b846a83afd94k9bf24a>4}
+ping{%`4t_w4"Wtr1ck(W8c7d8h;3df90hma7880b0b3bd5hnb74424?19bd3a=2b846a93afd94j9bf24a?4}
+ping{%c4t_w4"Ttr1ck(T8c7d8h83df90hna7880b3b3bd5hmb74424<19bd3a>2b846a:3afd94i9bf24a<4}
+ping{%b4t_w4"Utr1ck(U8c7d8h93df90hoa7880b2b3bd5hlb74424=19bd3a?2b846a;3afd94h9bf24a=4}
+ping{%e4t_w4"Rtr1ck(R8c7d8h>3df90hha7880b5b3bd5hkb74424:19bd3a82b846a<3afd94o9bf24a:4}
+ping{%d4t_w4"Str1ck(S8c7d8h?3df90hia7880b4b3bd5hjb74424;19bd3a92b846a=3afd94n9bf24a;4}
+ping{%g4t_w4"Ptr1ck(P8c7d8h<3df90hja7880b7b3bd5hib74424819bd3a:2b846a>3afd94m9bf24a84}
+ping{%f4t_w4"Qtr1ck(Q8c7d8h=3df90hka7880b6b3bd5hhb74424919bd3a;2b846a?3afd94l9bf24a94}
+ping{%i4t_w4"^tr1ck(^8c7d8h23df90hda7880b9b3bd5hgb74424619bd3a42b846a03afd94c9bf24a64}
+ping{%h4t_w4"_tr1ck(_8c7d8h33df90hea7880b8b3bd5hfb74424719bd3a52b846a13afd94b9bf24a74}
+ping{%k4t_w4"\tr1ck(\8c7d8h03df90hfa7880b;b3bd5heb74424419bd3a62b846a23afd94a9bf24a44}
+ping{%j4t_w4"]tr1ck(]8c7d8h13df90hga7880b:b3bd5hdb74424519bd3a72b846a33afd94`9bf24a54}
+ping{%m4t_w4"Ztr1ck(Z8c7d8h63df90h`a7880b=b3bd5hcb74424219bd3a02b846a43afd94g9bf24a24}
+ping{%l4t_w4"[tr1ck([8c7d8h73df90haa7880b<b3bd5hbb74424319bd3a12b846a53afd94f9bf24a34}
+ping{%o4t_w4"Xtr1ck(X8c7d8h43df90hba7880b?b3bd5hab74424019bd3a22b846a63afd94e9bf24a04}
+ping{%n4t_w4"Ytr1ck(Y8c7d8h53df90hca7880b>b3bd5h`b74424119bd3a32b846a73afd94d9bf24a14}
+ping{&p4t_w4!Gtr1ck+G8c7d8k+3df90k}a7880a b3bd5k~b74427/19bd3b-2b846b)3afd97z9bf24b/4}
+ping{&s4t_w4!Dtr1ck+D8c7d8k(3df90k~a7880a#b3bd5k}b74427,19bd3b.2b846b*3afd97y9bf24b,4}
+ping{&t4t_w4!Ctr1ck+C8c7d8k/3df90kya7880a$b3bd5kzb74427+19bd3b)2b846b-3afd97~9bf24b+4}
+ping{&w4t_w4!@tr1ck+@8c7d8k,3df90kza7880a'b3bd5kyb74427(19bd3b*2b846b.3afd97}9bf24b(4}
+ping{&v4t_w4!Atr1ck+A8c7d8k-3df90k{a7880a&b3bd5kxb74427)19bd3b+2b846b/3afd97|9bf24b)4}
+ping{&y4t_w4!Ntr1ck+N8c7d8k"3df90kta7880a)b3bd5kwb74427&19bd3b$2b846b 3afd97s9bf24b&4}
+ping{&x4t_w4!Otr1ck+O8c7d8k#3df90kua7880a(b3bd5kvb74427'19bd3b%2b846b!3afd97r9bf24b'4}
+ping{&{4t_w4!Ltr1ck+L8c7d8k 3df90kva7880a+b3bd5kub74427$19bd3b&2b846b"3afd97q9bf24b$4}
+ping{&z4t_w4!Mtr1ck+M8c7d8k!3df90kwa7880a*b3bd5ktb74427%19bd3b'2b846b#3afd97p9bf24b%4}
+ping{&}4t_w4!Jtr1ck+J8c7d8k&3df90kpa7880a-b3bd5ksb74427"19bd3b 2b846b$3afd97w9bf24b"4}
+ping{&|4t_w4!Ktr1ck+K8c7d8k'3df90kqa7880a,b3bd5krb74427#19bd3b!2b846b%3afd97v9bf24b#4}
+ping{&~4t_w4!Itr1ck+I8c7d8k%3df90ksa7880a.b3bd5kpb74427!19bd3b#2b846b'3afd97t9bf24b!4}
+ping{&a4t_w4!Vtr1ck+V8c7d8k:3df90kla7880a1b3bd5kob74427>19bd3b<2b846b83afd97k9bf24b>4}
+ping{&`4t_w4!Wtr1ck+W8c7d8k;3df90kma7880a0b3bd5knb74427?19bd3b=2b846b93afd97j9bf24b?4}
+ping{&c4t_w4!Ttr1ck+T8c7d8k83df90kna7880a3b3bd5kmb74427<19bd3b>2b846b:3afd97i9bf24b<4}
+ping{&b4t_w4!Utr1ck+U8c7d8k93df90koa7880a2b3bd5klb74427=19bd3b?2b846b;3afd97h9bf24b=4}
+ping{&e4t_w4!Rtr1ck+R8c7d8k>3df90kha7880a5b3bd5kkb74427:19bd3b82b846b<3afd97o9bf24b:4}
+ping{&d4t_w4!Str1ck+S8c7d8k?3df90kia7880a4b3bd5kjb74427;19bd3b92b846b=3afd97n9bf24b;4}
+ping{&g4t_w4!Ptr1ck+P8c7d8k<3df90kja7880a7b3bd5kib74427819bd3b:2b846b>3afd97m9bf24b84}
+ping{&f4t_w4!Qtr1ck+Q8c7d8k=3df90kka7880a6b3bd5khb74427919bd3b;2b846b?3afd97l9bf24b94}
+ping{&i4t_w4!^tr1ck+^8c7d8k23df90kda7880a9b3bd5kgb74427619bd3b42b846b03afd97c9bf24b64}
+ping{&h4t_w4!_tr1ck+_8c7d8k33df90kea7880a8b3bd5kfb74427719bd3b52b846b13afd97b9bf24b74}
+ping{&k4t_w4!\tr1ck+\8c7d8k03df90kfa7880a;b3bd5keb74427419bd3b62b846b23afd97a9bf24b44}
+ping{&j4t_w4!]tr1ck+]8c7d8k13df90kga7880a:b3bd5kdb74427519bd3b72b846b33afd97`9bf24b54}
+ping{&m4t_w4!Ztr1ck+Z8c7d8k63df90k`a7880a=b3bd5kcb74427219bd3b02b846b43afd97g9bf24b24}
+ping{&l4t_w4![tr1ck+[8c7d8k73df90kaa7880a<b3bd5kbb74427319bd3b12b846b53afd97f9bf24b34}
+ping{&o4t_w4!Xtr1ck+X8c7d8k43df90kba7880a?b3bd5kab74427019bd3b22b846b63afd97e9bf24b04}
+ping{&n4t_w4!Ytr1ck+Y8c7d8k53df90kca7880a>b3bd5k`b74427119bd3b32b846b73afd97d9bf24b14}
+ping{'p4t_w4 Gtr1ck*G8c7d8j+3df90j}a7880` b3bd5j~b74426/19bd3c-2b846c)3afd96z9bf24c/4}
+ping{'s4t_w4 Dtr1ck*D8c7d8j(3df90j~a7880`#b3bd5j}b74426,19bd3c.2b846c*3afd96y9bf24c,4}
+ping{'t4t_w4 Ctr1ck*C8c7d8j/3df90jya7880`$b3bd5jzb74426+19bd3c)2b846c-3afd96~9bf24c+4}
+ping{'w4t_w4 @tr1ck*@8c7d8j,3df90jza7880`'b3bd5jyb74426(19bd3c*2b846c.3afd96}9bf24c(4}
+ping{'v4t_w4 Atr1ck*A8c7d8j-3df90j{a7880`&b3bd5jxb74426)19bd3c+2b846c/3afd96|9bf24c)4}
+ping{'y4t_w4 Ntr1ck*N8c7d8j"3df90jta7880`)b3bd5jwb74426&19bd3c$2b846c 3afd96s9bf24c&4}
+ping{'x4t_w4 Otr1ck*O8c7d8j#3df90jua7880`(b3bd5jvb74426'19bd3c%2b846c!3afd96r9bf24c'4}
+ping{'{4t_w4 Ltr1ck*L8c7d8j 3df90jva7880`+b3bd5jub74426$19bd3c&2b846c"3afd96q9bf24c$4}
+ping{'z4t_w4 Mtr1ck*M8c7d8j!3df90jwa7880`*b3bd5jtb74426%19bd3c'2b846c#3afd96p9bf24c%4}
+ping{'}4t_w4 Jtr1ck*J8c7d8j&3df90jpa7880`-b3bd5jsb74426"19bd3c 2b846c$3afd96w9bf24c"4}
+ping{'|4t_w4 Ktr1ck*K8c7d8j'3df90jqa7880`,b3bd5jrb74426#19bd3c!2b846c%3afd96v9bf24c#4}
+ping{'~4t_w4 Itr1ck*I8c7d8j%3df90jsa7880`.b3bd5jpb74426!19bd3c#2b846c'3afd96t9bf24c!4}
+ping{'a4t_w4 Vtr1ck*V8c7d8j:3df90jla7880`1b3bd5job74426>19bd3c<2b846c83afd96k9bf24c>4}
+ping{'`4t_w4 Wtr1ck*W8c7d8j;3df90jma7880`0b3bd5jnb74426?19bd3c=2b846c93afd96j9bf24c?4}
+ping{'c4t_w4 Ttr1ck*T8c7d8j83df90jna7880`3b3bd5jmb74426<19bd3c>2b846c:3afd96i9bf24c<4}
+ping{'b4t_w4 Utr1ck*U8c7d8j93df90joa7880`2b3bd5jlb74426=19bd3c?2b846c;3afd96h9bf24c=4}
+ping{'e4t_w4 Rtr1ck*R8c7d8j>3df90jha7880`5b3bd5jkb74426:19bd3c82b846c<3afd96o9bf24c:4}
+ping{'d4t_w4 Str1ck*S8c7d8j?3df90jia7880`4b3bd5jjb74426;19bd3c92b846c=3afd96n9bf24c;4}
+ping{'g4t_w4 Ptr1ck*P8c7d8j<3df90jja7880`7b3bd5jib74426819bd3c:2b846c>3afd96m9bf24c84}
+ping{'f4t_w4 Qtr1ck*Q8c7d8j=3df90jka7880`6b3bd5jhb74426919bd3c;2b846c?3afd96l9bf24c94}
+ping{'i4t_w4 ^tr1ck*^8c7d8j23df90jda7880`9b3bd5jgb74426619bd3c42b846c03afd96c9bf24c64}
+ping{'h4t_w4 _tr1ck*_8c7d8j33df90jea7880`8b3bd5jfb74426719bd3c52b846c13afd96b9bf24c74}
+ping{'k4t_w4 \tr1ck*\8c7d8j03df90jfa7880`;b3bd5jeb74426419bd3c62b846c23afd96a9bf24c44}
+ping{'j4t_w4 ]tr1ck*]8c7d8j13df90jga7880`:b3bd5jdb74426519bd3c72b846c33afd96`9bf24c54}
+ping{'m4t_w4 Ztr1ck*Z8c7d8j63df90j`a7880`=b3bd5jcb74426219bd3c02b846c43afd96g9bf24c24}
+ping{'l4t_w4 [tr1ck*[8c7d8j73df90jaa7880`<b3bd5jbb74426319bd3c12b846c53afd96f9bf24c34}
+ping{'o4t_w4 Xtr1ck*X8c7d8j43df90jba7880`?b3bd5jab74426019bd3c22b846c63afd96e9bf24c04}
+ping{'n4t_w4 Ytr1ck*Y8c7d8j53df90jca7880`>b3bd5j`b74426119bd3c32b846c73afd96d9bf24c14}
+ping{ p4t_w4'Gtr1ck-G8c7d8m+3df90m}a7880g b3bd5m~b74421/19bd3d-2b846d)3afd91z9bf24d/4}
+ping{ s4t_w4'Dtr1ck-D8c7d8m(3df90m~a7880g#b3bd5m}b74421,19bd3d.2b846d*3afd91y9bf24d,4}
+ping{ t4t_w4'Ctr1ck-C8c7d8m/3df90mya7880g$b3bd5mzb74421+19bd3d)2b846d-3afd91~9bf24d+4}
+ping{ w4t_w4'@tr1ck-@8c7d8m,3df90mza7880g'b3bd5myb74421(19bd3d*2b846d.3afd91}9bf24d(4}
+ping{ v4t_w4'Atr1ck-A8c7d8m-3df90m{a7880g&b3bd5mxb74421)19bd3d+2b846d/3afd91|9bf24d)4}
+ping{ y4t_w4'Ntr1ck-N8c7d8m"3df90mta7880g)b3bd5mwb74421&19bd3d$2b846d 3afd91s9bf24d&4}
+ping{ x4t_w4'Otr1ck-O8c7d8m#3df90mua7880g(b3bd5mvb74421'19bd3d%2b846d!3afd91r9bf24d'4}
+ping{ {4t_w4'Ltr1ck-L8c7d8m 3df90mva7880g+b3bd5mub74421$19bd3d&2b846d"3afd91q9bf24d$4}
+ping{ z4t_w4'Mtr1ck-M8c7d8m!3df90mwa7880g*b3bd5mtb74421%19bd3d'2b846d#3afd91p9bf24d%4}
+ping{ }4t_w4'Jtr1ck-J8c7d8m&3df90mpa7880g-b3bd5msb74421"19bd3d 2b846d$3afd91w9bf24d"4}
+ping{ |4t_w4'Ktr1ck-K8c7d8m'3df90mqa7880g,b3bd5mrb74421#19bd3d!2b846d%3afd91v9bf24d#4}
+ping{ ~4t_w4'Itr1ck-I8c7d8m%3df90msa7880g.b3bd5mpb74421!19bd3d#2b846d'3afd91t9bf24d!4}
+ping{ a4t_w4'Vtr1ck-V8c7d8m:3df90mla7880g1b3bd5mob74421>19bd3d<2b846d83afd91k9bf24d>4}
+ping{ `4t_w4'Wtr1ck-W8c7d8m;3df90mma7880g0b3bd5mnb74421?19bd3d=2b846d93afd91j9bf24d?4}
+ping{ c4t_w4'Ttr1ck-T8c7d8m83df90mna7880g3b3bd5mmb74421<19bd3d>2b846d:3afd91i9bf24d<4}
+ping{ b4t_w4'Utr1ck-U8c7d8m93df90moa7880g2b3bd5mlb74421=19bd3d?2b846d;3afd91h9bf24d=4}
+ping{ e4t_w4'Rtr1ck-R8c7d8m>3df90mha7880g5b3bd5mkb74421:19bd3d82b846d<3afd91o9bf24d:4}
+ping{ d4t_w4'Str1ck-S8c7d8m?3df90mia7880g4b3bd5mjb74421;19bd3d92b846d=3afd91n9bf24d;4}
+ping{ g4t_w4'Ptr1ck-P8c7d8m<3df90mja7880g7b3bd5mib74421819bd3d:2b846d>3afd91m9bf24d84}
+ping{ f4t_w4'Qtr1ck-Q8c7d8m=3df90mka7880g6b3bd5mhb74421919bd3d;2b846d?3afd91l9bf24d94}
+ping{ i4t_w4'^tr1ck-^8c7d8m23df90mda7880g9b3bd5mgb74421619bd3d42b846d03afd91c9bf24d64}
+ping{ h4t_w4'_tr1ck-_8c7d8m33df90mea7880g8b3bd5mfb74421719bd3d52b846d13afd91b9bf24d74}
+ping{ k4t_w4'\tr1ck-\8c7d8m03df90mfa7880g;b3bd5meb74421419bd3d62b846d23afd91a9bf24d44}
+ping{ j4t_w4']tr1ck-]8c7d8m13df90mga7880g:b3bd5mdb74421519bd3d72b846d33afd91`9bf24d54}
+ping{ m4t_w4'Ztr1ck-Z8c7d8m63df90m`a7880g=b3bd5mcb74421219bd3d02b846d43afd91g9bf24d24}
+ping{ l4t_w4'[tr1ck-[8c7d8m73df90maa7880g<b3bd5mbb74421319bd3d12b846d53afd91f9bf24d34}
+ping{ o4t_w4'Xtr1ck-X8c7d8m43df90mba7880g?b3bd5mab74421019bd3d22b846d63afd91e9bf24d04}
+ping{ n4t_w4'Ytr1ck-Y8c7d8m53df90mca7880g>b3bd5m`b74421119bd3d32b846d73afd91d9bf24d14}
+ping{!p4t_w4&Gtr1ck,G8c7d8l+3df90l}a7880f b3bd5l~b74420/19bd3e-2b846e)3afd90z9bf24e/4}
+ping{!s4t_w4&Dtr1ck,D8c7d8l(3df90l~a7880f#b3bd5l}b74420,19bd3e.2b846e*3afd90y9bf24e,4}
+ping{!t4t_w4&Ctr1ck,C8c7d8l/3df90lya7880f$b3bd5lzb74420+19bd3e)2b846e-3afd90~9bf24e+4}
+ping{!w4t_w4&@tr1ck,@8c7d8l,3df90lza7880f'b3bd5lyb74420(19bd3e*2b846e.3afd90}9bf24e(4}
+ping{!v4t_w4&Atr1ck,A8c7d8l-3df90l{a7880f&b3bd5lxb74420)19bd3e+2b846e/3afd90|9bf24e)4}
+ping{!y4t_w4&Ntr1ck,N8c7d8l"3df90lta7880f)b3bd5lwb74420&19bd3e$2b846e 3afd90s9bf24e&4}
+ping{!x4t_w4&Otr1ck,O8c7d8l#3df90lua7880f(b3bd5lvb74420'19bd3e%2b846e!3afd90r9bf24e'4}
+ping{!{4t_w4&Ltr1ck,L8c7d8l 3df90lva7880f+b3bd5lub74420$19bd3e&2b846e"3afd90q9bf24e$4}
+ping{!z4t_w4&Mtr1ck,M8c7d8l!3df90lwa7880f*b3bd5ltb74420%19bd3e'2b846e#3afd90p9bf24e%4}
+ping{!}4t_w4&Jtr1ck,J8c7d8l&3df90lpa7880f-b3bd5lsb74420"19bd3e 2b846e$3afd90w9bf24e"4}
+ping{!|4t_w4&Ktr1ck,K8c7d8l'3df90lqa7880f,b3bd5lrb74420#19bd3e!2b846e%3afd90v9bf24e#4}
+ping{!~4t_w4&Itr1ck,I8c7d8l%3df90lsa7880f.b3bd5lpb74420!19bd3e#2b846e'3afd90t9bf24e!4}
+ping{!a4t_w4&Vtr1ck,V8c7d8l:3df90lla7880f1b3bd5lob74420>19bd3e<2b846e83afd90k9bf24e>4}
+ping{!`4t_w4&Wtr1ck,W8c7d8l;3df90lma7880f0b3bd5lnb74420?19bd3e=2b846e93afd90j9bf24e?4}
+ping{!c4t_w4&Ttr1ck,T8c7d8l83df90lna7880f3b3bd5lmb74420<19bd3e>2b846e:3afd90i9bf24e<4}
+ping{!b4t_w4&Utr1ck,U8c7d8l93df90loa7880f2b3bd5llb74420=19bd3e?2b846e;3afd90h9bf24e=4}
+ping{!e4t_w4&Rtr1ck,R8c7d8l>3df90lha7880f5b3bd5lkb74420:19bd3e82b846e<3afd90o9bf24e:4}
+ping{!d4t_w4&Str1ck,S8c7d8l?3df90lia7880f4b3bd5ljb74420;19bd3e92b846e=3afd90n9bf24e;4}
+ping{!g4t_w4&Ptr1ck,P8c7d8l<3df90lja7880f7b3bd5lib74420819bd3e:2b846e>3afd90m9bf24e84}
+ping{!f4t_w4&Qtr1ck,Q8c7d8l=3df90lka7880f6b3bd5lhb74420919bd3e;2b846e?3afd90l9bf24e94}
+ping{!i4t_w4&^tr1ck,^8c7d8l23df90lda7880f9b3bd5lgb74420619bd3e42b846e03afd90c9bf24e64}
+ping{!h4t_w4&_tr1ck,_8c7d8l33df90lea7880f8b3bd5lfb74420719bd3e52b846e13afd90b9bf24e74}
+ping{!k4t_w4&\tr1ck,\8c7d8l03df90lfa7880f;b3bd5leb74420419bd3e62b846e23afd90a9bf24e44}
+ping{!j4t_w4&]tr1ck,]8c7d8l13df90lga7880f:b3bd5ldb74420519bd3e72b846e33afd90`9bf24e54}
+ping{!m4t_w4&Ztr1ck,Z8c7d8l63df90l`a7880f=b3bd5lcb74420219bd3e02b846e43afd90g9bf24e24}
+ping{!l4t_w4&[tr1ck,[8c7d8l73df90laa7880f<b3bd5lbb74420319bd3e12b846e53afd90f9bf24e34}
+ping{!o4t_w4&Xtr1ck,X8c7d8l43df90lba7880f?b3bd5lab74420019bd3e22b846e63afd90e9bf24e04}
+ping{!n4t_w4&Ytr1ck,Y8c7d8l53df90lca7880f>b3bd5l`b74420119bd3e32b846e73afd90d9bf24e14}
+ping{"p4t_w4%Gtr1ck/G8c7d8o+3df90o}a7880e b3bd5o~b74423/19bd3f-2b846f)3afd93z9bf24f/4}
+ping{"s4t_w4%Dtr1ck/D8c7d8o(3df90o~a7880e#b3bd5o}b74423,19bd3f.2b846f*3afd93y9bf24f,4}
+ping{"t4t_w4%Ctr1ck/C8c7d8o/3df90oya7880e$b3bd5ozb74423+19bd3f)2b846f-3afd93~9bf24f+4}
+ping{"w4t_w4%@tr1ck/@8c7d8o,3df90oza7880e'b3bd5oyb74423(19bd3f*2b846f.3afd93}9bf24f(4}
+ping{"v4t_w4%Atr1ck/A8c7d8o-3df90o{a7880e&b3bd5oxb74423)19bd3f+2b846f/3afd93|9bf24f)4}
+ping{"y4t_w4%Ntr1ck/N8c7d8o"3df90ota7880e)b3bd5owb74423&19bd3f$2b846f 3afd93s9bf24f&4}
+ping{"x4t_w4%Otr1ck/O8c7d8o#3df90oua7880e(b3bd5ovb74423'19bd3f%2b846f!3afd93r9bf24f'4}
+ping{"{4t_w4%Ltr1ck/L8c7d8o 3df90ova7880e+b3bd5oub74423$19bd3f&2b846f"3afd93q9bf24f$4}
+ping{"z4t_w4%Mtr1ck/M8c7d8o!3df90owa7880e*b3bd5otb74423%19bd3f'2b846f#3afd93p9bf24f%4}
+ping{"}4t_w4%Jtr1ck/J8c7d8o&3df90opa7880e-b3bd5osb74423"19bd3f 2b846f$3afd93w9bf24f"4}
+ping{"|4t_w4%Ktr1ck/K8c7d8o'3df90oqa7880e,b3bd5orb74423#19bd3f!2b846f%3afd93v9bf24f#4}
+ping{"~4t_w4%Itr1ck/I8c7d8o%3df90osa7880e.b3bd5opb74423!19bd3f#2b846f'3afd93t9bf24f!4}
+ping{"a4t_w4%Vtr1ck/V8c7d8o:3df90ola7880e1b3bd5oob74423>19bd3f<2b846f83afd93k9bf24f>4}
+ping{"`4t_w4%Wtr1ck/W8c7d8o;3df90oma7880e0b3bd5onb74423?19bd3f=2b846f93afd93j9bf24f?4}
+ping{"c4t_w4%Ttr1ck/T8c7d8o83df90ona7880e3b3bd5omb74423<19bd3f>2b846f:3afd93i9bf24f<4}
+ping{"b4t_w4%Utr1ck/U8c7d8o93df90ooa7880e2b3bd5olb74423=19bd3f?2b846f;3afd93h9bf24f=4}
+ping{"e4t_w4%Rtr1ck/R8c7d8o>3df90oha7880e5b3bd5okb74423:19bd3f82b846f<3afd93o9bf24f:4}
+ping{"d4t_w4%Str1ck/S8c7d8o?3df90oia7880e4b3bd5ojb74423;19bd3f92b846f=3afd93n9bf24f;4}
+ping{"g4t_w4%Ptr1ck/P8c7d8o<3df90oja7880e7b3bd5oib74423819bd3f:2b846f>3afd93m9bf24f84}
+ping{"f4t_w4%Qtr1ck/Q8c7d8o=3df90oka7880e6b3bd5ohb74423919bd3f;2b846f?3afd93l9bf24f94}
+ping{"i4t_w4%^tr1ck/^8c7d8o23df90oda7880e9b3bd5ogb74423619bd3f42b846f03afd93c9bf24f64}
+ping{"h4t_w4%_tr1ck/_8c7d8o33df90oea7880e8b3bd5ofb74423719bd3f52b846f13afd93b9bf24f74}
+ping{"k4t_w4%\tr1ck/\8c7d8o03df90ofa7880e;b3bd5oeb74423419bd3f62b846f23afd93a9bf24f44}
+ping{"j4t_w4%]tr1ck/]8c7d8o13df90oga7880e:b3bd5odb74423519bd3f72b846f33afd93`9bf24f54}
+ping{"m4t_w4%Ztr1ck/Z8c7d8o63df90o`a7880e=b3bd5ocb74423219bd3f02b846f43afd93g9bf24f24}
+ping{"l4t_w4%[tr1ck/[8c7d8o73df90oaa7880e<b3bd5obb74423319bd3f12b846f53afd93f9bf24f34}
+ping{"o4t_w4%Xtr1ck/X8c7d8o43df90oba7880e?b3bd5oab74423019bd3f22b846f63afd93e9bf24f04}
+ping{"n4t_w4%Ytr1ck/Y8c7d8o53df90oca7880e>b3bd5o`b74423119bd3f32b846f73afd93d9bf24f14}
+ping{#p4t_w4$Gtr1ck.G8c7d8n+3df90n}a7880d b3bd5n~b74422/19bd3g-2b846g)3afd92z9bf24g/4}
+ping{#s4t_w4$Dtr1ck.D8c7d8n(3df90n~a7880d#b3bd5n}b74422,19bd3g.2b846g*3afd92y9bf24g,4}
+ping{#t4t_w4$Ctr1ck.C8c7d8n/3df90nya7880d$b3bd5nzb74422+19bd3g)2b846g-3afd92~9bf24g+4}
+ping{#w4t_w4$@tr1ck.@8c7d8n,3df90nza7880d'b3bd5nyb74422(19bd3g*2b846g.3afd92}9bf24g(4}
+ping{#v4t_w4$Atr1ck.A8c7d8n-3df90n{a7880d&b3bd5nxb74422)19bd3g+2b846g/3afd92|9bf24g)4}
+ping{#y4t_w4$Ntr1ck.N8c7d8n"3df90nta7880d)b3bd5nwb74422&19bd3g$2b846g 3afd92s9bf24g&4}
+ping{#x4t_w4$Otr1ck.O8c7d8n#3df90nua7880d(b3bd5nvb74422'19bd3g%2b846g!3afd92r9bf24g'4}
+ping{#{4t_w4$Ltr1ck.L8c7d8n 3df90nva7880d+b3bd5nub74422$19bd3g&2b846g"3afd92q9bf24g$4}
+ping{#z4t_w4$Mtr1ck.M8c7d8n!3df90nwa7880d*b3bd5ntb74422%19bd3g'2b846g#3afd92p9bf24g%4}
+ping{#}4t_w4$Jtr1ck.J8c7d8n&3df90npa7880d-b3bd5nsb74422"19bd3g 2b846g$3afd92w9bf24g"4}
+ping{#|4t_w4$Ktr1ck.K8c7d8n'3df90nqa7880d,b3bd5nrb74422#19bd3g!2b846g%3afd92v9bf24g#4}
+ping{#~4t_w4$Itr1ck.I8c7d8n%3df90nsa7880d.b3bd5npb74422!19bd3g#2b846g'3afd92t9bf24g!4}
+ping{#a4t_w4$Vtr1ck.V8c7d8n:3df90nla7880d1b3bd5nob74422>19bd3g<2b846g83afd92k9bf24g>4}
+ping{#`4t_w4$Wtr1ck.W8c7d8n;3df90nma7880d0b3bd5nnb74422?19bd3g=2b846g93afd92j9bf24g?4}
+ping{#c4t_w4$Ttr1ck.T8c7d8n83df90nna7880d3b3bd5nmb74422<19bd3g>2b846g:3afd92i9bf24g<4}
+ping{#b4t_w4$Utr1ck.U8c7d8n93df90noa7880d2b3bd5nlb74422=19bd3g?2b846g;3afd92h9bf24g=4}
+ping{#e4t_w4$Rtr1ck.R8c7d8n>3df90nha7880d5b3bd5nkb74422:19bd3g82b846g<3afd92o9bf24g:4}
+ping{#d4t_w4$Str1ck.S8c7d8n?3df90nia7880d4b3bd5njb74422;19bd3g92b846g=3afd92n9bf24g;4}
+ping{#g4t_w4$Ptr1ck.P8c7d8n<3df90nja7880d7b3bd5nib74422819bd3g:2b846g>3afd92m9bf24g84}
+ping{#f4t_w4$Qtr1ck.Q8c7d8n=3df90nka7880d6b3bd5nhb74422919bd3g;2b846g?3afd92l9bf24g94}
+ping{#i4t_w4$^tr1ck.^8c7d8n23df90nda7880d9b3bd5ngb74422619bd3g42b846g03afd92c9bf24g64}
+ping{#h4t_w4$_tr1ck._8c7d8n33df90nea7880d8b3bd5nfb74422719bd3g52b846g13afd92b9bf24g74}
+ping{#k4t_w4$\tr1ck.\8c7d8n03df90nfa7880d;b3bd5neb74422419bd3g62b846g23afd92a9bf24g44}
+ping{#j4t_w4$]tr1ck.]8c7d8n13df90nga7880d:b3bd5ndb74422519bd3g72b846g33afd92`9bf24g54}
+ping{#m4t_w4$Ztr1ck.Z8c7d8n63df90n`a7880d=b3bd5ncb74422219bd3g02b846g43afd92g9bf24g24}
+ping{#l4t_w4$[tr1ck.[8c7d8n73df90naa7880d<b3bd5nbb74422319bd3g12b846g53afd92f9bf24g34}
+ping{#o4t_w4$Xtr1ck.X8c7d8n43df90nba7880d?b3bd5nab74422019bd3g22b846g63afd92e9bf24g04}
+ping{#n4t_w4$Ytr1ck.Y8c7d8n53df90nca7880d>b3bd5n`b74422119bd3g32b846g73afd92d9bf24g14}
+ping{|p4t_w4{Gtr1ckqG8c7d81+3df901}a7880; b3bd51~b7442m/19bd38-2b8468)3afd9mz9bf248/4}
+ping{|s4t_w4{Dtr1ckqD8c7d81(3df901~a7880;#b3bd51}b7442m,19bd38.2b8468*3afd9my9bf248,4}
+ping{|t4t_w4{Ctr1ckqC8c7d81/3df901ya7880;$b3bd51zb7442m+19bd38)2b8468-3afd9m~9bf248+4}
+ping{|w4t_w4{@tr1ckq@8c7d81,3df901za7880;'b3bd51yb7442m(19bd38*2b8468.3afd9m}9bf248(4}
+ping{|v4t_w4{Atr1ckqA8c7d81-3df901{a7880;&b3bd51xb7442m)19bd38+2b8468/3afd9m|9bf248)4}
+ping{|y4t_w4{Ntr1ckqN8c7d81"3df901ta7880;)b3bd51wb7442m&19bd38$2b8468 3afd9ms9bf248&4}
+ping{|x4t_w4{Otr1ckqO8c7d81#3df901ua7880;(b3bd51vb7442m'19bd38%2b8468!3afd9mr9bf248'4}
+ping{|{4t_w4{Ltr1ckqL8c7d81 3df901va7880;+b3bd51ub7442m$19bd38&2b8468"3afd9mq9bf248$4}
+ping{|z4t_w4{Mtr1ckqM8c7d81!3df901wa7880;*b3bd51tb7442m%19bd38'2b8468#3afd9mp9bf248%4}
+ping{|}4t_w4{Jtr1ckqJ8c7d81&3df901pa7880;-b3bd51sb7442m"19bd38 2b8468$3afd9mw9bf248"4}
+ping{||4t_w4{Ktr1ckqK8c7d81'3df901qa7880;,b3bd51rb7442m#19bd38!2b8468%3afd9mv9bf248#4}
+ping{|~4t_w4{Itr1ckqI8c7d81%3df901sa7880;.b3bd51pb7442m!19bd38#2b8468'3afd9mt9bf248!4}
+ping{|a4t_w4{Vtr1ckqV8c7d81:3df901la7880;1b3bd51ob7442m>19bd38<2b846883afd9mk9bf248>4}
+ping{|`4t_w4{Wtr1ckqW8c7d81;3df901ma7880;0b3bd51nb7442m?19bd38=2b846893afd9mj9bf248?4}
+ping{|c4t_w4{Ttr1ckqT8c7d8183df901na7880;3b3bd51mb7442m<19bd38>2b8468:3afd9mi9bf248<4}
+ping{|b4t_w4{Utr1ckqU8c7d8193df901oa7880;2b3bd51lb7442m=19bd38?2b8468;3afd9mh9bf248=4}
+ping{|e4t_w4{Rtr1ckqR8c7d81>3df901ha7880;5b3bd51kb7442m:19bd3882b8468<3afd9mo9bf248:4}
+ping{|d4t_w4{Str1ckqS8c7d81?3df901ia7880;4b3bd51jb7442m;19bd3892b8468=3afd9mn9bf248;4}
+ping{|g4t_w4{Ptr1ckqP8c7d81<3df901ja7880;7b3bd51ib7442m819bd38:2b8468>3afd9mm9bf24884}
+ping{|f4t_w4{Qtr1ckqQ8c7d81=3df901ka7880;6b3bd51hb7442m919bd38;2b8468?3afd9ml9bf24894}
+ping{|i4t_w4{^tr1ckq^8c7d8123df901da7880;9b3bd51gb7442m619bd3842b846803afd9mc9bf24864}
+ping{|h4t_w4{_tr1ckq_8c7d8133df901ea7880;8b3bd51fb7442m719bd3852b846813afd9mb9bf24874}
+ping{|k4t_w4{\tr1ckq\8c7d8103df901fa7880;;b3bd51eb7442m419bd3862b846823afd9ma9bf24844}
+ping{|j4t_w4{]tr1ckq]8c7d8113df901ga7880;:b3bd51db7442m519bd3872b846833afd9m`9bf24854}
+ping{|m4t_w4{Ztr1ckqZ8c7d8163df901`a7880;=b3bd51cb7442m219bd3802b846843afd9mg9bf24824}
+ping{|l4t_w4{[tr1ckq[8c7d8173df901aa7880;<b3bd51bb7442m319bd3812b846853afd9mf9bf24834}
+ping{|o4t_w4{Xtr1ckqX8c7d8143df901ba7880;?b3bd51ab7442m019bd3822b846863afd9me9bf24804}
+ping{|n4t_w4{Ytr1ckqY8c7d8153df901ca7880;>b3bd51`b7442m119bd3832b846873afd9md9bf24814}
+ping{}p4t_w4zGtr1ckpG8c7d80+3df900}a7880: b3bd50~b7442l/19bd39-2b8469)3afd9lz9bf249/4}
+ping{}s4t_w4zDtr1ckpD8c7d80(3df900~a7880:#b3bd50}b7442l,19bd39.2b8469*3afd9ly9bf249,4}
+ping{}t4t_w4zCtr1ckpC8c7d80/3df900ya7880:$b3bd50zb7442l+19bd39)2b8469-3afd9l~9bf249+4}
+ping{}w4t_w4z@tr1ckp@8c7d80,3df900za7880:'b3bd50yb7442l(19bd39*2b8469.3afd9l}9bf249(4}
+ping{}v4t_w4zAtr1ckpA8c7d80-3df900{a7880:&b3bd50xb7442l)19bd39+2b8469/3afd9l|9bf249)4}
+ping{}y4t_w4zNtr1ckpN8c7d80"3df900ta7880:)b3bd50wb7442l&19bd39$2b8469 3afd9ls9bf249&4}
+ping{}x4t_w4zOtr1ckpO8c7d80#3df900ua7880:(b3bd50vb7442l'19bd39%2b8469!3afd9lr9bf249'4}
+ping{}{4t_w4zLtr1ckpL8c7d80 3df900va7880:+b3bd50ub7442l$19bd39&2b8469"3afd9lq9bf249$4}
+ping{}z4t_w4zMtr1ckpM8c7d80!3df900wa7880:*b3bd50tb7442l%19bd39'2b8469#3afd9lp9bf249%4}
+ping{}}4t_w4zJtr1ckpJ8c7d80&3df900pa7880:-b3bd50sb7442l"19bd39 2b8469$3afd9lw9bf249"4}
+ping{}|4t_w4zKtr1ckpK8c7d80'3df900qa7880:,b3bd50rb7442l#19bd39!2b8469%3afd9lv9bf249#4}
+ping{}~4t_w4zItr1ckpI8c7d80%3df900sa7880:.b3bd50pb7442l!19bd39#2b8469'3afd9lt9bf249!4}
+ping{}a4t_w4zVtr1ckpV8c7d80:3df900la7880:1b3bd50ob7442l>19bd39<2b846983afd9lk9bf249>4}
+ping{}`4t_w4zWtr1ckpW8c7d80;3df900ma7880:0b3bd50nb7442l?19bd39=2b846993afd9lj9bf249?4}
+ping{}c4t_w4zTtr1ckpT8c7d8083df900na7880:3b3bd50mb7442l<19bd39>2b8469:3afd9li9bf249<4}
+ping{}b4t_w4zUtr1ckpU8c7d8093df900oa7880:2b3bd50lb7442l=19bd39?2b8469;3afd9lh9bf249=4}
+ping{}e4t_w4zRtr1ckpR8c7d80>3df900ha7880:5b3bd50kb7442l:19bd3982b8469<3afd9lo9bf249:4}
+ping{}d4t_w4zStr1ckpS8c7d80?3df900ia7880:4b3bd50jb7442l;19bd3992b8469=3afd9ln9bf249;4}
+ping{}g4t_w4zPtr1ckpP8c7d80<3df900ja7880:7b3bd50ib7442l819bd39:2b8469>3afd9lm9bf24984}
+ping{}f4t_w4zQtr1ckpQ8c7d80=3df900ka7880:6b3bd50hb7442l919bd39;2b8469?3afd9ll9bf24994}
+ping{}i4t_w4z^tr1ckp^8c7d8023df900da7880:9b3bd50gb7442l619bd3942b846903afd9lc9bf24964}
+ping{}h4t_w4z_tr1ckp_8c7d8033df900ea7880:8b3bd50fb7442l719bd3952b846913afd9lb9bf24974}
+ping{}k4t_w4z\tr1ckp\8c7d8003df900fa7880:;b3bd50eb7442l419bd3962b846923afd9la9bf24944}
+ping{}j4t_w4z]tr1ckp]8c7d8013df900ga7880::b3bd50db7442l519bd3972b846933afd9l`9bf24954}
+ping{}m4t_w4zZtr1ckpZ8c7d8063df900`a7880:=b3bd50cb7442l219bd3902b846943afd9lg9bf24924}
+ping{}l4t_w4z[tr1ckp[8c7d8073df900aa7880:<b3bd50bb7442l319bd3912b846953afd9lf9bf24934}
+ping{}o4t_w4zXtr1ckpX8c7d8043df900ba7880:?b3bd50ab7442l019bd3922b846963afd9le9bf24904}
+ping{}n4t_w4zYtr1ckpY8c7d8053df900ca7880:>b3bd50`b7442l119bd3932b846973afd9ld9bf24914}
+ping{~p4t_w4yGtr1cksG8c7d83+3df903}a78809 b3bd53~b7442o/19bd3:-2b846:)3afd9oz9bf24:/4}
+ping{~s4t_w4yDtr1cksD8c7d83(3df903~a78809#b3bd53}b7442o,19bd3:.2b846:*3afd9oy9bf24:,4}
+ping{~t4t_w4yCtr1cksC8c7d83/3df903ya78809$b3bd53zb7442o+19bd3:)2b846:-3afd9o~9bf24:+4}
+ping{~w4t_w4y@tr1cks@8c7d83,3df903za78809'b3bd53yb7442o(19bd3:*2b846:.3afd9o}9bf24:(4}
+ping{~v4t_w4yAtr1cksA8c7d83-3df903{a78809&b3bd53xb7442o)19bd3:+2b846:/3afd9o|9bf24:)4}
+ping{~y4t_w4yNtr1cksN8c7d83"3df903ta78809)b3bd53wb7442o&19bd3:$2b846: 3afd9os9bf24:&4}
+ping{~x4t_w4yOtr1cksO8c7d83#3df903ua78809(b3bd53vb7442o'19bd3:%2b846:!3afd9or9bf24:'4}
+ping{~{4t_w4yLtr1cksL8c7d83 3df903va78809+b3bd53ub7442o$19bd3:&2b846:"3afd9oq9bf24:$4}
+ping{~z4t_w4yMtr1cksM8c7d83!3df903wa78809*b3bd53tb7442o%19bd3:'2b846:#3afd9op9bf24:%4}
+ping{~}4t_w4yJtr1cksJ8c7d83&3df903pa78809-b3bd53sb7442o"19bd3: 2b846:$3afd9ow9bf24:"4}
+ping{~|4t_w4yKtr1cksK8c7d83'3df903qa78809,b3bd53rb7442o#19bd3:!2b846:%3afd9ov9bf24:#4}
+ping{~~4t_w4yItr1cksI8c7d83%3df903sa78809.b3bd53pb7442o!19bd3:#2b846:'3afd9ot9bf24:!4}
+ping{~a4t_w4yVtr1cksV8c7d83:3df903la788091b3bd53ob7442o>19bd3:<2b846:83afd9ok9bf24:>4}
+ping{~`4t_w4yWtr1cksW8c7d83;3df903ma788090b3bd53nb7442o?19bd3:=2b846:93afd9oj9bf24:?4}
+ping{~c4t_w4yTtr1cksT8c7d8383df903na788093b3bd53mb7442o<19bd3:>2b846::3afd9oi9bf24:<4}
+ping{~b4t_w4yUtr1cksU8c7d8393df903oa788092b3bd53lb7442o=19bd3:?2b846:;3afd9oh9bf24:=4}
+ping{~e4t_w4yRtr1cksR8c7d83>3df903ha788095b3bd53kb7442o:19bd3:82b846:<3afd9oo9bf24::4}
+ping{~d4t_w4yStr1cksS8c7d83?3df903ia788094b3bd53jb7442o;19bd3:92b846:=3afd9on9bf24:;4}
+ping{~g4t_w4yPtr1cksP8c7d83<3df903ja788097b3bd53ib7442o819bd3::2b846:>3afd9om9bf24:84}
+ping{~f4t_w4yQtr1cksQ8c7d83=3df903ka788096b3bd53hb7442o919bd3:;2b846:?3afd9ol9bf24:94}
+ping{~i4t_w4y^tr1cks^8c7d8323df903da788099b3bd53gb7442o619bd3:42b846:03afd9oc9bf24:64}
+ping{~h4t_w4y_tr1cks_8c7d8333df903ea788098b3bd53fb7442o719bd3:52b846:13afd9ob9bf24:74}
+ping{~k4t_w4y\tr1cks\8c7d8303df903fa78809;b3bd53eb7442o419bd3:62b846:23afd9oa9bf24:44}
+ping{~j4t_w4y]tr1cks]8c7d8313df903ga78809:b3bd53db7442o519bd3:72b846:33afd9o`9bf24:54}
+ping{~m4t_w4yZtr1cksZ8c7d8363df903`a78809=b3bd53cb7442o219bd3:02b846:43afd9og9bf24:24}
+ping{~l4t_w4y[tr1cks[8c7d8373df903aa78809<b3bd53bb7442o319bd3:12b846:53afd9of9bf24:34}
+ping{~o4t_w4yXtr1cksX8c7d8343df903ba78809?b3bd53ab7442o019bd3:22b846:63afd9oe9bf24:04}
+ping{~n4t_w4yYtr1cksY8c7d8353df903ca78809>b3bd53`b7442o119bd3:32b846:73afd9od9bf24:14}
+ping{yp4t_w4~Gtr1cktG8c7d84+3df904}a7880> b3bd54~b7442h/19bd3=-2b846=)3afd9hz9bf24=/4}
+ping{ys4t_w4~Dtr1cktD8c7d84(3df904~a7880>#b3bd54}b7442h,19bd3=.2b846=*3afd9hy9bf24=,4}
+ping{yt4t_w4~Ctr1cktC8c7d84/3df904ya7880>$b3bd54zb7442h+19bd3=)2b846=-3afd9h~9bf24=+4}
+ping{yw4t_w4~@tr1ckt@8c7d84,3df904za7880>'b3bd54yb7442h(19bd3=*2b846=.3afd9h}9bf24=(4}
+ping{yv4t_w4~Atr1cktA8c7d84-3df904{a7880>&b3bd54xb7442h)19bd3=+2b846=/3afd9h|9bf24=)4}
+ping{yy4t_w4~Ntr1cktN8c7d84"3df904ta7880>)b3bd54wb7442h&19bd3=$2b846= 3afd9hs9bf24=&4}
+ping{yx4t_w4~Otr1cktO8c7d84#3df904ua7880>(b3bd54vb7442h'19bd3=%2b846=!3afd9hr9bf24='4}
+ping{y{4t_w4~Ltr1cktL8c7d84 3df904va7880>+b3bd54ub7442h$19bd3=&2b846="3afd9hq9bf24=$4}
+ping{yz4t_w4~Mtr1cktM8c7d84!3df904wa7880>*b3bd54tb7442h%19bd3='2b846=#3afd9hp9bf24=%4}
+ping{y}4t_w4~Jtr1cktJ8c7d84&3df904pa7880>-b3bd54sb7442h"19bd3= 2b846=$3afd9hw9bf24="4}
+ping{y|4t_w4~Ktr1cktK8c7d84'3df904qa7880>,b3bd54rb7442h#19bd3=!2b846=%3afd9hv9bf24=#4}
+ping{y~4t_w4~Itr1cktI8c7d84%3df904sa7880>.b3bd54pb7442h!19bd3=#2b846='3afd9ht9bf24=!4}
+ping{ya4t_w4~Vtr1cktV8c7d84:3df904la7880>1b3bd54ob7442h>19bd3=<2b846=83afd9hk9bf24=>4}
+ping{y`4t_w4~Wtr1cktW8c7d84;3df904ma7880>0b3bd54nb7442h?19bd3==2b846=93afd9hj9bf24=?4}
+ping{yc4t_w4~Ttr1cktT8c7d8483df904na7880>3b3bd54mb7442h<19bd3=>2b846=:3afd9hi9bf24=<4}
+ping{yb4t_w4~Utr1cktU8c7d8493df904oa7880>2b3bd54lb7442h=19bd3=?2b846=;3afd9hh9bf24==4}
+ping{ye4t_w4~Rtr1cktR8c7d84>3df904ha7880>5b3bd54kb7442h:19bd3=82b846=<3afd9ho9bf24=:4}
+ping{yd4t_w4~Str1cktS8c7d84?3df904ia7880>4b3bd54jb7442h;19bd3=92b846==3afd9hn9bf24=;4}
+ping{yg4t_w4~Ptr1cktP8c7d84<3df904ja7880>7b3bd54ib7442h819bd3=:2b846=>3afd9hm9bf24=84}
+ping{yf4t_w4~Qtr1cktQ8c7d84=3df904ka7880>6b3bd54hb7442h919bd3=;2b846=?3afd9hl9bf24=94}
+ping{yi4t_w4~^tr1ckt^8c7d8423df904da7880>9b3bd54gb7442h619bd3=42b846=03afd9hc9bf24=64}
+ping{yh4t_w4~_tr1ckt_8c7d8433df904ea7880>8b3bd54fb7442h719bd3=52b846=13afd9hb9bf24=74}
+ping{yk4t_w4~\tr1ckt\8c7d8403df904fa7880>;b3bd54eb7442h419bd3=62b846=23afd9ha9bf24=44}
+ping{yj4t_w4~]tr1ckt]8c7d8413df904ga7880>:b3bd54db7442h519bd3=72b846=33afd9h`9bf24=54}
+ping{ym4t_w4~Ztr1cktZ8c7d8463df904`a7880>=b3bd54cb7442h219bd3=02b846=43afd9hg9bf24=24}
+ping{yl4t_w4~[tr1ckt[8c7d8473df904aa7880><b3bd54bb7442h319bd3=12b846=53afd9hf9bf24=34}
+ping{yo4t_w4~Xtr1cktX8c7d8443df904ba7880>?b3bd54ab7442h019bd3=22b846=63afd9he9bf24=04}
+ping{yn4t_w4~Ytr1cktY8c7d8453df904ca7880>>b3bd54`b7442h119bd3=32b846=73afd9hd9bf24=14}
+ping{zp4t_w4}Gtr1ckwG8c7d87+3df907}a7880= b3bd57~b7442k/19bd3>-2b846>)3afd9kz9bf24>/4}
+ping{zs4t_w4}Dtr1ckwD8c7d87(3df907~a7880=#b3bd57}b7442k,19bd3>.2b846>*3afd9ky9bf24>,4}
+ping{zt4t_w4}Ctr1ckwC8c7d87/3df907ya7880=$b3bd57zb7442k+19bd3>)2b846>-3afd9k~9bf24>+4}
+ping{zw4t_w4}@tr1ckw@8c7d87,3df907za7880='b3bd57yb7442k(19bd3>*2b846>.3afd9k}9bf24>(4}
+ping{zv4t_w4}Atr1ckwA8c7d87-3df907{a7880=&b3bd57xb7442k)19bd3>+2b846>/3afd9k|9bf24>)4}
+ping{zy4t_w4}Ntr1ckwN8c7d87"3df907ta7880=)b3bd57wb7442k&19bd3>$2b846> 3afd9ks9bf24>&4}
+ping{zx4t_w4}Otr1ckwO8c7d87#3df907ua7880=(b3bd57vb7442k'19bd3>%2b846>!3afd9kr9bf24>'4}
+ping{z{4t_w4}Ltr1ckwL8c7d87 3df907va7880=+b3bd57ub7442k$19bd3>&2b846>"3afd9kq9bf24>$4}
+ping{zz4t_w4}Mtr1ckwM8c7d87!3df907wa7880=*b3bd57tb7442k%19bd3>'2b846>#3afd9kp9bf24>%4}
+ping{z}4t_w4}Jtr1ckwJ8c7d87&3df907pa7880=-b3bd57sb7442k"19bd3> 2b846>$3afd9kw9bf24>"4}
+ping{z|4t_w4}Ktr1ckwK8c7d87'3df907qa7880=,b3bd57rb7442k#19bd3>!2b846>%3afd9kv9bf24>#4}
+ping{z~4t_w4}Itr1ckwI8c7d87%3df907sa7880=.b3bd57pb7442k!19bd3>#2b846>'3afd9kt9bf24>!4}
+ping{za4t_w4}Vtr1ckwV8c7d87:3df907la7880=1b3bd57ob7442k>19bd3><2b846>83afd9kk9bf24>>4}
+ping{z`4t_w4}Wtr1ckwW8c7d87;3df907ma7880=0b3bd57nb7442k?19bd3>=2b846>93afd9kj9bf24>?4}
+ping{zc4t_w4}Ttr1ckwT8c7d8783df907na7880=3b3bd57mb7442k<19bd3>>2b846>:3afd9ki9bf24><4}
+ping{zb4t_w4}Utr1ckwU8c7d8793df907oa7880=2b3bd57lb7442k=19bd3>?2b846>;3afd9kh9bf24>=4}
+ping{ze4t_w4}Rtr1ckwR8c7d87>3df907ha7880=5b3bd57kb7442k:19bd3>82b846><3afd9ko9bf24>:4}
+ping{zd4t_w4}Str1ckwS8c7d87?3df907ia7880=4b3bd57jb7442k;19bd3>92b846>=3afd9kn9bf24>;4}
+ping{zg4t_w4}Ptr1ckwP8c7d87<3df907ja7880=7b3bd57ib7442k819bd3>:2b846>>3afd9km9bf24>84}
+ping{zf4t_w4}Qtr1ckwQ8c7d87=3df907ka7880=6b3bd57hb7442k919bd3>;2b846>?3afd9kl9bf24>94}
+ping{zi4t_w4}^tr1ckw^8c7d8723df907da7880=9b3bd57gb7442k619bd3>42b846>03afd9kc9bf24>64}
+ping{zh4t_w4}_tr1ckw_8c7d8733df907ea7880=8b3bd57fb7442k719bd3>52b846>13afd9kb9bf24>74}
+ping{zk4t_w4}\tr1ckw\8c7d8703df907fa7880=;b3bd57eb7442k419bd3>62b846>23afd9ka9bf24>44}
+ping{zj4t_w4}]tr1ckw]8c7d8713df907ga7880=:b3bd57db7442k519bd3>72b846>33afd9k`9bf24>54}
+ping{zm4t_w4}Ztr1ckwZ8c7d8763df907`a7880==b3bd57cb7442k219bd3>02b846>43afd9kg9bf24>24}
+ping{zl4t_w4}[tr1ckw[8c7d8773df907aa7880=<b3bd57bb7442k319bd3>12b846>53afd9kf9bf24>34}
+ping{zo4t_w4}Xtr1ckwX8c7d8743df907ba7880=?b3bd57ab7442k019bd3>22b846>63afd9ke9bf24>04}
+ping{zn4t_w4}Ytr1ckwY8c7d8753df907ca7880=>b3bd57`b7442k119bd3>32b846>73afd9kd9bf24>14}
+ping{{p4t_w4|Gtr1ckvG8c7d86+3df906}a7880< b3bd56~b7442j/19bd3?-2b846?)3afd9jz9bf24?/4}
+ping{{s4t_w4|Dtr1ckvD8c7d86(3df906~a7880<#b3bd56}b7442j,19bd3?.2b846?*3afd9jy9bf24?,4}
+ping{{t4t_w4|Ctr1ckvC8c7d86/3df906ya7880<$b3bd56zb7442j+19bd3?)2b846?-3afd9j~9bf24?+4}
+ping{{w4t_w4|@tr1ckv@8c7d86,3df906za7880<'b3bd56yb7442j(19bd3?*2b846?.3afd9j}9bf24?(4}
+ping{{v4t_w4|Atr1ckvA8c7d86-3df906{a7880<&b3bd56xb7442j)19bd3?+2b846?/3afd9j|9bf24?)4}
+ping{{y4t_w4|Ntr1ckvN8c7d86"3df906ta7880<)b3bd56wb7442j&19bd3?$2b846? 3afd9js9bf24?&4}
+ping{{x4t_w4|Otr1ckvO8c7d86#3df906ua7880<(b3bd56vb7442j'19bd3?%2b846?!3afd9jr9bf24?'4}
+ping{{{4t_w4|Ltr1ckvL8c7d86 3df906va7880<+b3bd56ub7442j$19bd3?&2b846?"3afd9jq9bf24?$4}
+ping{{z4t_w4|Mtr1ckvM8c7d86!3df906wa7880<*b3bd56tb7442j%19bd3?'2b846?#3afd9jp9bf24?%4}
+ping{{}4t_w4|Jtr1ckvJ8c7d86&3df906pa7880<-b3bd56sb7442j"19bd3? 2b846?$3afd9jw9bf24?"4}
+ping{{|4t_w4|Ktr1ckvK8c7d86'3df906qa7880<,b3bd56rb7442j#19bd3?!2b846?%3afd9jv9bf24?#4}
+ping{{~4t_w4|Itr1ckvI8c7d86%3df906sa7880<.b3bd56pb7442j!19bd3?#2b846?'3afd9jt9bf24?!4}
+ping{{a4t_w4|Vtr1ckvV8c7d86:3df906la7880<1b3bd56ob7442j>19bd3?<2b846?83afd9jk9bf24?>4}
+ping{{`4t_w4|Wtr1ckvW8c7d86;3df906ma7880<0b3bd56nb7442j?19bd3?=2b846?93afd9jj9bf24??4}
+ping{{c4t_w4|Ttr1ckvT8c7d8683df906na7880<3b3bd56mb7442j<19bd3?>2b846?:3afd9ji9bf24?<4}
+ping{{b4t_w4|Utr1ckvU8c7d8693df906oa7880<2b3bd56lb7442j=19bd3??2b846?;3afd9jh9bf24?=4}
+ping{{e4t_w4|Rtr1ckvR8c7d86>3df906ha7880<5b3bd56kb7442j:19bd3?82b846?<3afd9jo9bf24?:4}
+ping{{d4t_w4|Str1ckvS8c7d86?3df906ia7880<4b3bd56jb7442j;19bd3?92b846?=3afd9jn9bf24?;4}
+ping{{g4t_w4|Ptr1ckvP8c7d86<3df906ja7880<7b3bd56ib7442j819bd3?:2b846?>3afd9jm9bf24?84}
+ping{{f4t_w4|Qtr1ckvQ8c7d86=3df906ka7880<6b3bd56hb7442j919bd3?;2b846??3afd9jl9bf24?94}
+ping{{i4t_w4|^tr1ckv^8c7d8623df906da7880<9b3bd56gb7442j619bd3?42b846?03afd9jc9bf24?64}
+ping{{h4t_w4|_tr1ckv_8c7d8633df906ea7880<8b3bd56fb7442j719bd3?52b846?13afd9jb9bf24?74}
+ping{{k4t_w4|\tr1ckv\8c7d8603df906fa7880<;b3bd56eb7442j419bd3?62b846?23afd9ja9bf24?44}
+ping{{j4t_w4|]tr1ckv]8c7d8613df906ga7880<:b3bd56db7442j519bd3?72b846?33afd9j`9bf24?54}
+ping{{m4t_w4|Ztr1ckvZ8c7d8663df906`a7880<=b3bd56cb7442j219bd3?02b846?43afd9jg9bf24?24}
+ping{{l4t_w4|[tr1ckv[8c7d8673df906aa7880<<b3bd56bb7442j319bd3?12b846?53afd9jf9bf24?34}
+ping{{o4t_w4|Xtr1ckvX8c7d8643df906ba7880<?b3bd56ab7442j019bd3?22b846?63afd9je9bf24?04}
+ping{{n4t_w4|Ytr1ckvY8c7d8653df906ca7880<>b3bd56`b7442j119bd3?32b846?73afd9jd9bf24?14}
+ping{tp4t_w4sGtr1ckyG8c7d89+3df909}a78803 b3bd59~b7442e/19bd30-2b8460)3afd9ez9bf240/4}
+ping{ts4t_w4sDtr1ckyD8c7d89(3df909~a78803#b3bd59}b7442e,19bd30.2b8460*3afd9ey9bf240,4}
+ping{tt4t_w4sCtr1ckyC8c7d89/3df909ya78803$b3bd59zb7442e+19bd30)2b8460-3afd9e~9bf240+4}
+ping{tw4t_w4s@tr1cky@8c7d89,3df909za78803'b3bd59yb7442e(19bd30*2b8460.3afd9e}9bf240(4}
+ping{tv4t_w4sAtr1ckyA8c7d89-3df909{a78803&b3bd59xb7442e)19bd30+2b8460/3afd9e|9bf240)4}
+ping{ty4t_w4sNtr1ckyN8c7d89"3df909ta78803)b3bd59wb7442e&19bd30$2b8460 3afd9es9bf240&4}
+ping{tx4t_w4sOtr1ckyO8c7d89#3df909ua78803(b3bd59vb7442e'19bd30%2b8460!3afd9er9bf240'4}
+ping{t{4t_w4sLtr1ckyL8c7d89 3df909va78803+b3bd59ub7442e$19bd30&2b8460"3afd9eq9bf240$4}
+ping{tz4t_w4sMtr1ckyM8c7d89!3df909wa78803*b3bd59tb7442e%19bd30'2b8460#3afd9ep9bf240%4}
+ping{t}4t_w4sJtr1ckyJ8c7d89&3df909pa78803-b3bd59sb7442e"19bd30 2b8460$3afd9ew9bf240"4}
+ping{t|4t_w4sKtr1ckyK8c7d89'3df909qa78803,b3bd59rb7442e#19bd30!2b8460%3afd9ev9bf240#4}
+ping{t~4t_w4sItr1ckyI8c7d89%3df909sa78803.b3bd59pb7442e!19bd30#2b8460'3afd9et9bf240!4}
+ping{ta4t_w4sVtr1ckyV8c7d89:3df909la788031b3bd59ob7442e>19bd30<2b846083afd9ek9bf240>4}
+ping{t`4t_w4sWtr1ckyW8c7d89;3df909ma788030b3bd59nb7442e?19bd30=2b846093afd9ej9bf240?4}
+ping{tc4t_w4sTtr1ckyT8c7d8983df909na788033b3bd59mb7442e<19bd30>2b8460:3afd9ei9bf240<4}
+ping{tb4t_w4sUtr1ckyU8c7d8993df909oa788032b3bd59lb7442e=19bd30?2b8460;3afd9eh9bf240=4}
+ping{te4t_w4sRtr1ckyR8c7d89>3df909ha788035b3bd59kb7442e:19bd3082b8460<3afd9eo9bf240:4}
+ping{td4t_w4sStr1ckyS8c7d89?3df909ia788034b3bd59jb7442e;19bd3092b8460=3afd9en9bf240;4}
+ping{tg4t_w4sPtr1ckyP8c7d89<3df909ja788037b3bd59ib7442e819bd30:2b8460>3afd9em9bf24084}
+ping{tf4t_w4sQtr1ckyQ8c7d89=3df909ka788036b3bd59hb7442e919bd30;2b8460?3afd9el9bf24094}
+ping{ti4t_w4s^tr1cky^8c7d8923df909da788039b3bd59gb7442e619bd3042b846003afd9ec9bf24064}
+ping{th4t_w4s_tr1cky_8c7d8933df909ea788038b3bd59fb7442e719bd3052b846013afd9eb9bf24074}
+ping{tk4t_w4s\tr1cky\8c7d8903df909fa78803;b3bd59eb7442e419bd3062b846023afd9ea9bf24044}
+ping{tj4t_w4s]tr1cky]8c7d8913df909ga78803:b3bd59db7442e519bd3072b846033afd9e`9bf24054}
+ping{tm4t_w4sZtr1ckyZ8c7d8963df909`a78803=b3bd59cb7442e219bd3002b846043afd9eg9bf24024}
+ping{tl4t_w4s[tr1cky[8c7d8973df909aa78803<b3bd59bb7442e319bd3012b846053afd9ef9bf24034}
+ping{to4t_w4sXtr1ckyX8c7d8943df909ba78803?b3bd59ab7442e019bd3022b846063afd9ee9bf24004}
+ping{tn4t_w4sYtr1ckyY8c7d8953df909ca78803>b3bd59`b7442e119bd3032b846073afd9ed9bf24014}
+ping{up4t_w4rGtr1ckxG8c7d88+3df908}a78802 b3bd58~b7442d/19bd31-2b8461)3afd9dz9bf241/4}
+ping{us4t_w4rDtr1ckxD8c7d88(3df908~a78802#b3bd58}b7442d,19bd31.2b8461*3afd9dy9bf241,4}
+ping{ut4t_w4rCtr1ckxC8c7d88/3df908ya78802$b3bd58zb7442d+19bd31)2b8461-3afd9d~9bf241+4}
+ping{uw4t_w4r@tr1ckx@8c7d88,3df908za78802'b3bd58yb7442d(19bd31*2b8461.3afd9d}9bf241(4}
+ping{uv4t_w4rAtr1ckxA8c7d88-3df908{a78802&b3bd58xb7442d)19bd31+2b8461/3afd9d|9bf241)4}
+ping{uy4t_w4rNtr1ckxN8c7d88"3df908ta78802)b3bd58wb7442d&19bd31$2b8461 3afd9ds9bf241&4}
+ping{ux4t_w4rOtr1ckxO8c7d88#3df908ua78802(b3bd58vb7442d'19bd31%2b8461!3afd9dr9bf241'4}
+ping{u{4t_w4rLtr1ckxL8c7d88 3df908va78802+b3bd58ub7442d$19bd31&2b8461"3afd9dq9bf241$4}
+ping{uz4t_w4rMtr1ckxM8c7d88!3df908wa78802*b3bd58tb7442d%19bd31'2b8461#3afd9dp9bf241%4}
+ping{u}4t_w4rJtr1ckxJ8c7d88&3df908pa78802-b3bd58sb7442d"19bd31 2b8461$3afd9dw9bf241"4}
+ping{u|4t_w4rKtr1ckxK8c7d88'3df908qa78802,b3bd58rb7442d#19bd31!2b8461%3afd9dv9bf241#4}
+ping{u~4t_w4rItr1ckxI8c7d88%3df908sa78802.b3bd58pb7442d!19bd31#2b8461'3afd9dt9bf241!4}
+ping{ua4t_w4rVtr1ckxV8c7d88:3df908la788021b3bd58ob7442d>19bd31<2b846183afd9dk9bf241>4}
+ping{u`4t_w4rWtr1ckxW8c7d88;3df908ma788020b3bd58nb7442d?19bd31=2b846193afd9dj9bf241?4}
+ping{uc4t_w4rTtr1ckxT8c7d8883df908na788023b3bd58mb7442d<19bd31>2b8461:3afd9di9bf241<4}
+ping{ub4t_w4rUtr1ckxU8c7d8893df908oa788022b3bd58lb7442d=19bd31?2b8461;3afd9dh9bf241=4}
+ping{ue4t_w4rRtr1ckxR8c7d88>3df908ha788025b3bd58kb7442d:19bd3182b8461<3afd9do9bf241:4}
+ping{ud4t_w4rStr1ckxS8c7d88?3df908ia788024b3bd58jb7442d;19bd3192b8461=3afd9dn9bf241;4}
+ping{ug4t_w4rPtr1ckxP8c7d88<3df908ja788027b3bd58ib7442d819bd31:2b8461>3afd9dm9bf24184}
+ping{uf4t_w4rQtr1ckxQ8c7d88=3df908ka788026b3bd58hb7442d919bd31;2b8461?3afd9dl9bf24194}
+ping{ui4t_w4r^tr1ckx^8c7d8823df908da788029b3bd58gb7442d619bd3142b846103afd9dc9bf24164}
+ping{uh4t_w4r_tr1ckx_8c7d8833df908ea788028b3bd58fb7442d719bd3152b846113afd9db9bf24174}
+ping{uk4t_w4r\tr1ckx\8c7d8803df908fa78802;b3bd58eb7442d419bd3162b846123afd9da9bf24144}
+ping{uj4t_w4r]tr1ckx]8c7d8813df908ga78802:b3bd58db7442d519bd3172b846133afd9d`9bf24154}
+ping{um4t_w4rZtr1ckxZ8c7d8863df908`a78802=b3bd58cb7442d219bd3102b846143afd9dg9bf24124}
+ping{ul4t_w4r[tr1ckx[8c7d8873df908aa78802<b3bd58bb7442d319bd3112b846153afd9df9bf24134}
+ping{uo4t_w4rXtr1ckxX8c7d8843df908ba78802?b3bd58ab7442d019bd3122b846163afd9de9bf24104}
+ping{un4t_w4rYtr1ckxY8c7d8853df908ca78802>b3bd58`b7442d119bd3132b846173afd9dd9bf24114}
+ping{vp4t_w4qGtr1ck{G8c7d8;+3df90;}a78801 b3bd5;~b7442g/19bd32-2b8462)3afd9gz9bf242/4}
+ping{vs4t_w4qDtr1ck{D8c7d8;(3df90;~a78801#b3bd5;}b7442g,19bd32.2b8462*3afd9gy9bf242,4}
+ping{vt4t_w4qCtr1ck{C8c7d8;/3df90;ya78801$b3bd5;zb7442g+19bd32)2b8462-3afd9g~9bf242+4}
+ping{vw4t_w4q@tr1ck{@8c7d8;,3df90;za78801'b3bd5;yb7442g(19bd32*2b8462.3afd9g}9bf242(4}
+ping{vv4t_w4qAtr1ck{A8c7d8;-3df90;{a78801&b3bd5;xb7442g)19bd32+2b8462/3afd9g|9bf242)4}
+ping{vy4t_w4qNtr1ck{N8c7d8;"3df90;ta78801)b3bd5;wb7442g&19bd32$2b8462 3afd9gs9bf242&4}
+ping{vx4t_w4qOtr1ck{O8c7d8;#3df90;ua78801(b3bd5;vb7442g'19bd32%2b8462!3afd9gr9bf242'4}
+ping{v{4t_w4qLtr1ck{L8c7d8; 3df90;va78801+b3bd5;ub7442g$19bd32&2b8462"3afd9gq9bf242$4}
+ping{vz4t_w4qMtr1ck{M8c7d8;!3df90;wa78801*b3bd5;tb7442g%19bd32'2b8462#3afd9gp9bf242%4}
+ping{v}4t_w4qJtr1ck{J8c7d8;&3df90;pa78801-b3bd5;sb7442g"19bd32 2b8462$3afd9gw9bf242"4}
+ping{v|4t_w4qKtr1ck{K8c7d8;'3df90;qa78801,b3bd5;rb7442g#19bd32!2b8462%3afd9gv9bf242#4}
+ping{v~4t_w4qItr1ck{I8c7d8;%3df90;sa78801.b3bd5;pb7442g!19bd32#2b8462'3afd9gt9bf242!4}
+ping{va4t_w4qVtr1ck{V8c7d8;:3df90;la788011b3bd5;ob7442g>19bd32<2b846283afd9gk9bf242>4}
+ping{v`4t_w4qWtr1ck{W8c7d8;;3df90;ma788010b3bd5;nb7442g?19bd32=2b846293afd9gj9bf242?4}
+ping{vc4t_w4qTtr1ck{T8c7d8;83df90;na788013b3bd5;mb7442g<19bd32>2b8462:3afd9gi9bf242<4}
+ping{vb4t_w4qUtr1ck{U8c7d8;93df90;oa788012b3bd5;lb7442g=19bd32?2b8462;3afd9gh9bf242=4}
+ping{ve4t_w4qRtr1ck{R8c7d8;>3df90;ha788015b3bd5;kb7442g:19bd3282b8462<3afd9go9bf242:4}
+ping{vd4t_w4qStr1ck{S8c7d8;?3df90;ia788014b3bd5;jb7442g;19bd3292b8462=3afd9gn9bf242;4}
+ping{vg4t_w4qPtr1ck{P8c7d8;<3df90;ja788017b3bd5;ib7442g819bd32:2b8462>3afd9gm9bf24284}
+ping{vf4t_w4qQtr1ck{Q8c7d8;=3df90;ka788016b3bd5;hb7442g919bd32;2b8462?3afd9gl9bf24294}
+ping{vi4t_w4q^tr1ck{^8c7d8;23df90;da788019b3bd5;gb7442g619bd3242b846203afd9gc9bf24264}
+ping{vh4t_w4q_tr1ck{_8c7d8;33df90;ea788018b3bd5;fb7442g719bd3252b846213afd9gb9bf24274}
+ping{vk4t_w4q\tr1ck{\8c7d8;03df90;fa78801;b3bd5;eb7442g419bd3262b846223afd9ga9bf24244}
+ping{vj4t_w4q]tr1ck{]8c7d8;13df90;ga78801:b3bd5;db7442g519bd3272b846233afd9g`9bf24254}
+ping{vm4t_w4qZtr1ck{Z8c7d8;63df90;`a78801=b3bd5;cb7442g219bd3202b846243afd9gg9bf24224}
+ping{vl4t_w4q[tr1ck{[8c7d8;73df90;aa78801<b3bd5;bb7442g319bd3212b846253afd9gf9bf24234}
+ping{vo4t_w4qXtr1ck{X8c7d8;43df90;ba78801?b3bd5;ab7442g019bd3222b846263afd9ge9bf24204}
+ping{vn4t_w4qYtr1ck{Y8c7d8;53df90;ca78801>b3bd5;`b7442g119bd3232b846273afd9gd9bf24214}
+ping{wp4t_w4pGtr1ckzG8c7d8:+3df90:}a78800 b3bd5:~b7442f/19bd33-2b8463)3afd9fz9bf243/4}
+ping{ws4t_w4pDtr1ckzD8c7d8:(3df90:~a78800#b3bd5:}b7442f,19bd33.2b8463*3afd9fy9bf243,4}
+ping{wt4t_w4pCtr1ckzC8c7d8:/3df90:ya78800$b3bd5:zb7442f+19bd33)2b8463-3afd9f~9bf243+4}
+ping{ww4t_w4p@tr1ckz@8c7d8:,3df90:za78800'b3bd5:yb7442f(19bd33*2b8463.3afd9f}9bf243(4}
+ping{wv4t_w4pAtr1ckzA8c7d8:-3df90:{a78800&b3bd5:xb7442f)19bd33+2b8463/3afd9f|9bf243)4}
+ping{wy4t_w4pNtr1ckzN8c7d8:"3df90:ta78800)b3bd5:wb7442f&19bd33$2b8463 3afd9fs9bf243&4}
+ping{wx4t_w4pOtr1ckzO8c7d8:#3df90:ua78800(b3bd5:vb7442f'19bd33%2b8463!3afd9fr9bf243'4}
+ping{w{4t_w4pLtr1ckzL8c7d8: 3df90:va78800+b3bd5:ub7442f$19bd33&2b8463"3afd9fq9bf243$4}
+ping{wz4t_w4pMtr1ckzM8c7d8:!3df90:wa78800*b3bd5:tb7442f%19bd33'2b8463#3afd9fp9bf243%4}
+ping{w}4t_w4pJtr1ckzJ8c7d8:&3df90:pa78800-b3bd5:sb7442f"19bd33 2b8463$3afd9fw9bf243"4}
+ping{w|4t_w4pKtr1ckzK8c7d8:'3df90:qa78800,b3bd5:rb7442f#19bd33!2b8463%3afd9fv9bf243#4}
+ping{w~4t_w4pItr1ckzI8c7d8:%3df90:sa78800.b3bd5:pb7442f!19bd33#2b8463'3afd9ft9bf243!4}
+ping{wa4t_w4pVtr1ckzV8c7d8::3df90:la788001b3bd5:ob7442f>19bd33<2b846383afd9fk9bf243>4}
+ping{w`4t_w4pWtr1ckzW8c7d8:;3df90:ma788000b3bd5:nb7442f?19bd33=2b846393afd9fj9bf243?4}
+ping{wc4t_w4pTtr1ckzT8c7d8:83df90:na788003b3bd5:mb7442f<19bd33>2b8463:3afd9fi9bf243<4}
+ping{wb4t_w4pUtr1ckzU8c7d8:93df90:oa788002b3bd5:lb7442f=19bd33?2b8463;3afd9fh9bf243=4}
+ping{we4t_w4pRtr1ckzR8c7d8:>3df90:ha788005b3bd5:kb7442f:19bd3382b8463<3afd9fo9bf243:4}
+ping{wd4t_w4pStr1ckzS8c7d8:?3df90:ia788004b3bd5:jb7442f;19bd3392b8463=3afd9fn9bf243;4}
+ping{wg4t_w4pPtr1ckzP8c7d8:<3df90:ja788007b3bd5:ib7442f819bd33:2b8463>3afd9fm9bf24384}
+ping{wf4t_w4pQtr1ckzQ8c7d8:=3df90:ka788006b3bd5:hb7442f919bd33;2b8463?3afd9fl9bf24394}
+ping{wi4t_w4p^tr1ckz^8c7d8:23df90:da788009b3bd5:gb7442f619bd3342b846303afd9fc9bf24364}
+ping{wh4t_w4p_tr1ckz_8c7d8:33df90:ea788008b3bd5:fb7442f719bd3352b846313afd9fb9bf24374}
+ping{wk4t_w4p\tr1ckz\8c7d8:03df90:fa78800;b3bd5:eb7442f419bd3362b846323afd9fa9bf24344}
+ping{wj4t_w4p]tr1ckz]8c7d8:13df90:ga78800:b3bd5:db7442f519bd3372b846333afd9f`9bf24354}
+ping{wm4t_w4pZtr1ckzZ8c7d8:63df90:`a78800=b3bd5:cb7442f219bd3302b846343afd9fg9bf24324}
+ping{wl4t_w4p[tr1ckz[8c7d8:73df90:aa78800<b3bd5:bb7442f319bd3312b846353afd9ff9bf24334}
+ping{wo4t_w4pXtr1ckzX8c7d8:43df90:ba78800?b3bd5:ab7442f019bd3322b846363afd9fe9bf24304}
+ping{wn4t_w4pYtr1ckzY8c7d8:53df90:ca78800>b3bd5:`b7442f119bd3332b846373afd9fd9bf24314}
+ping{pp4t_w4wGtr1ck}G8c7d8=+3df90=}a78807 b3bd5=~b7442a/19bd34-2b8464)3afd9az9bf244/4}
+ping{ps4t_w4wDtr1ck}D8c7d8=(3df90=~a78807#b3bd5=}b7442a,19bd34.2b8464*3afd9ay9bf244,4}
+ping{pt4t_w4wCtr1ck}C8c7d8=/3df90=ya78807$b3bd5=zb7442a+19bd34)2b8464-3afd9a~9bf244+4}
+ping{pw4t_w4w@tr1ck}@8c7d8=,3df90=za78807'b3bd5=yb7442a(19bd34*2b8464.3afd9a}9bf244(4}
+ping{pv4t_w4wAtr1ck}A8c7d8=-3df90={a78807&b3bd5=xb7442a)19bd34+2b8464/3afd9a|9bf244)4}
+ping{py4t_w4wNtr1ck}N8c7d8="3df90=ta78807)b3bd5=wb7442a&19bd34$2b8464 3afd9as9bf244&4}
+ping{px4t_w4wOtr1ck}O8c7d8=#3df90=ua78807(b3bd5=vb7442a'19bd34%2b8464!3afd9ar9bf244'4}
+ping{p{4t_w4wLtr1ck}L8c7d8= 3df90=va78807+b3bd5=ub7442a$19bd34&2b8464"3afd9aq9bf244$4}
+ping{pz4t_w4wMtr1ck}M8c7d8=!3df90=wa78807*b3bd5=tb7442a%19bd34'2b8464#3afd9ap9bf244%4}
+ping{p}4t_w4wJtr1ck}J8c7d8=&3df90=pa78807-b3bd5=sb7442a"19bd34 2b8464$3afd9aw9bf244"4}
+ping{p|4t_w4wKtr1ck}K8c7d8='3df90=qa78807,b3bd5=rb7442a#19bd34!2b8464%3afd9av9bf244#4}
+ping{p~4t_w4wItr1ck}I8c7d8=%3df90=sa78807.b3bd5=pb7442a!19bd34#2b8464'3afd9at9bf244!4}
+ping{pa4t_w4wVtr1ck}V8c7d8=:3df90=la788071b3bd5=ob7442a>19bd34<2b846483afd9ak9bf244>4}
+ping{p`4t_w4wWtr1ck}W8c7d8=;3df90=ma788070b3bd5=nb7442a?19bd34=2b846493afd9aj9bf244?4}
+ping{pc4t_w4wTtr1ck}T8c7d8=83df90=na788073b3bd5=mb7442a<19bd34>2b8464:3afd9ai9bf244<4}
+ping{pb4t_w4wUtr1ck}U8c7d8=93df90=oa788072b3bd5=lb7442a=19bd34?2b8464;3afd9ah9bf244=4}
+ping{pe4t_w4wRtr1ck}R8c7d8=>3df90=ha788075b3bd5=kb7442a:19bd3482b8464<3afd9ao9bf244:4}
+ping{pd4t_w4wStr1ck}S8c7d8=?3df90=ia788074b3bd5=jb7442a;19bd3492b8464=3afd9an9bf244;4}
+ping{pg4t_w4wPtr1ck}P8c7d8=<3df90=ja788077b3bd5=ib7442a819bd34:2b8464>3afd9am9bf24484}
+ping{pf4t_w4wQtr1ck}Q8c7d8==3df90=ka788076b3bd5=hb7442a919bd34;2b8464?3afd9al9bf24494}
+ping{pi4t_w4w^tr1ck}^8c7d8=23df90=da788079b3bd5=gb7442a619bd3442b846403afd9ac9bf24464}
+ping{ph4t_w4w_tr1ck}_8c7d8=33df90=ea788078b3bd5=fb7442a719bd3452b846413afd9ab9bf24474}
+ping{pk4t_w4w\tr1ck}\8c7d8=03df90=fa78807;b3bd5=eb7442a419bd3462b846423afd9aa9bf24444}
+ping{pj4t_w4w]tr1ck}]8c7d8=13df90=ga78807:b3bd5=db7442a519bd3472b846433afd9a`9bf24454}
+ping{pm4t_w4wZtr1ck}Z8c7d8=63df90=`a78807=b3bd5=cb7442a219bd3402b846443afd9ag9bf24424}
+ping{pl4t_w4w[tr1ck}[8c7d8=73df90=aa78807<b3bd5=bb7442a319bd3412b846453afd9af9bf24434}
+ping{po4t_w4wXtr1ck}X8c7d8=43df90=ba78807?b3bd5=ab7442a019bd3422b846463afd9ae9bf24404}
+ping{pn4t_w4wYtr1ck}Y8c7d8=53df90=ca78807>b3bd5=`b7442a119bd3432b846473afd9ad9bf24414}
+ping{qp4t_w4vGtr1ck|G8c7d8<+3df90<}a78806 b3bd5<~b7442`/19bd35-2b8465)3afd9`z9bf245/4}
+ping{qs4t_w4vDtr1ck|D8c7d8<(3df90<~a78806#b3bd5<}b7442`,19bd35.2b8465*3afd9`y9bf245,4}
+ping{qt4t_w4vCtr1ck|C8c7d8</3df90<ya78806$b3bd5<zb7442`+19bd35)2b8465-3afd9`~9bf245+4}
+ping{qw4t_w4v@tr1ck|@8c7d8<,3df90<za78806'b3bd5<yb7442`(19bd35*2b8465.3afd9`}9bf245(4}
+ping{qv4t_w4vAtr1ck|A8c7d8<-3df90<{a78806&b3bd5<xb7442`)19bd35+2b8465/3afd9`|9bf245)4}
+ping{qy4t_w4vNtr1ck|N8c7d8<"3df90<ta78806)b3bd5<wb7442`&19bd35$2b8465 3afd9`s9bf245&4}
+ping{qx4t_w4vOtr1ck|O8c7d8<#3df90<ua78806(b3bd5<vb7442`'19bd35%2b8465!3afd9`r9bf245'4}
+ping{q{4t_w4vLtr1ck|L8c7d8< 3df90<va78806+b3bd5<ub7442`$19bd35&2b8465"3afd9`q9bf245$4}
+ping{qz4t_w4vMtr1ck|M8c7d8<!3df90<wa78806*b3bd5<tb7442`%19bd35'2b8465#3afd9`p9bf245%4}
+ping{q}4t_w4vJtr1ck|J8c7d8<&3df90<pa78806-b3bd5<sb7442`"19bd35 2b8465$3afd9`w9bf245"4}
+ping{q|4t_w4vKtr1ck|K8c7d8<'3df90<qa78806,b3bd5<rb7442`#19bd35!2b8465%3afd9`v9bf245#4}
+ping{q~4t_w4vItr1ck|I8c7d8<%3df90<sa78806.b3bd5<pb7442`!19bd35#2b8465'3afd9`t9bf245!4}
+ping{qa4t_w4vVtr1ck|V8c7d8<:3df90<la788061b3bd5<ob7442`>19bd35<2b846583afd9`k9bf245>4}
+ping{q`4t_w4vWtr1ck|W8c7d8<;3df90<ma788060b3bd5<nb7442`?19bd35=2b846593afd9`j9bf245?4}
+ping{qc4t_w4vTtr1ck|T8c7d8<83df90<na788063b3bd5<mb7442`<19bd35>2b8465:3afd9`i9bf245<4}
+ping{qb4t_w4vUtr1ck|U8c7d8<93df90<oa788062b3bd5<lb7442`=19bd35?2b8465;3afd9`h9bf245=4}
+ping{qe4t_w4vRtr1ck|R8c7d8<>3df90<ha788065b3bd5<kb7442`:19bd3582b8465<3afd9`o9bf245:4}
+ping{qd4t_w4vStr1ck|S8c7d8<?3df90<ia788064b3bd5<jb7442`;19bd3592b8465=3afd9`n9bf245;4}
+ping{qg4t_w4vPtr1ck|P8c7d8<<3df90<ja788067b3bd5<ib7442`819bd35:2b8465>3afd9`m9bf24584}
+ping{qf4t_w4vQtr1ck|Q8c7d8<=3df90<ka788066b3bd5<hb7442`919bd35;2b8465?3afd9`l9bf24594}
+ping{qi4t_w4v^tr1ck|^8c7d8<23df90<da788069b3bd5<gb7442`619bd3542b846503afd9`c9bf24564}
+ping{qh4t_w4v_tr1ck|_8c7d8<33df90<ea788068b3bd5<fb7442`719bd3552b846513afd9`b9bf24574}
+ping{qk4t_w4v\tr1ck|\8c7d8<03df90<fa78806;b3bd5<eb7442`419bd3562b846523afd9`a9bf24544}
+ping{qj4t_w4v]tr1ck|]8c7d8<13df90<ga78806:b3bd5<db7442`519bd3572b846533afd9``9bf24554}
+ping{qm4t_w4vZtr1ck|Z8c7d8<63df90<`a78806=b3bd5<cb7442`219bd3502b846543afd9`g9bf24524}
+ping{ql4t_w4v[tr1ck|[8c7d8<73df90<aa78806<b3bd5<bb7442`319bd3512b846553afd9`f9bf24534}
+ping{qo4t_w4vXtr1ck|X8c7d8<43df90<ba78806?b3bd5<ab7442`019bd3522b846563afd9`e9bf24504}
+ping{qn4t_w4vYtr1ck|Y8c7d8<53df90<ca78806>b3bd5<`b7442`119bd3532b846573afd9`d9bf24514}
+ping{sp4t_w4tGtr1ck~G8c7d8>+3df90>}a78804 b3bd5>~b7442b/19bd37-2b8467)3afd9bz9bf247/4}
+ping{ss4t_w4tDtr1ck~D8c7d8>(3df90>~a78804#b3bd5>}b7442b,19bd37.2b8467*3afd9by9bf247,4}
+ping{st4t_w4tCtr1ck~C8c7d8>/3df90>ya78804$b3bd5>zb7442b+19bd37)2b8467-3afd9b~9bf247+4}
+ping{sw4t_w4t@tr1ck~@8c7d8>,3df90>za78804'b3bd5>yb7442b(19bd37*2b8467.3afd9b}9bf247(4}
+ping{sv4t_w4tAtr1ck~A8c7d8>-3df90>{a78804&b3bd5>xb7442b)19bd37+2b8467/3afd9b|9bf247)4}
+ping{sy4t_w4tNtr1ck~N8c7d8>"3df90>ta78804)b3bd5>wb7442b&19bd37$2b8467 3afd9bs9bf247&4}
+ping{sx4t_w4tOtr1ck~O8c7d8>#3df90>ua78804(b3bd5>vb7442b'19bd37%2b8467!3afd9br9bf247'4}
+ping{s{4t_w4tLtr1ck~L8c7d8> 3df90>va78804+b3bd5>ub7442b$19bd37&2b8467"3afd9bq9bf247$4}
+ping{sz4t_w4tMtr1ck~M8c7d8>!3df90>wa78804*b3bd5>tb7442b%19bd37'2b8467#3afd9bp9bf247%4}
+ping{s}4t_w4tJtr1ck~J8c7d8>&3df90>pa78804-b3bd5>sb7442b"19bd37 2b8467$3afd9bw9bf247"4}
+ping{s|4t_w4tKtr1ck~K8c7d8>'3df90>qa78804,b3bd5>rb7442b#19bd37!2b8467%3afd9bv9bf247#4}
+ping{s~4t_w4tItr1ck~I8c7d8>%3df90>sa78804.b3bd5>pb7442b!19bd37#2b8467'3afd9bt9bf247!4}
+ping{sa4t_w4tVtr1ck~V8c7d8>:3df90>la788041b3bd5>ob7442b>19bd37<2b846783afd9bk9bf247>4}
+ping{s`4t_w4tWtr1ck~W8c7d8>;3df90>ma788040b3bd5>nb7442b?19bd37=2b846793afd9bj9bf247?4}
+ping{sc4t_w4tTtr1ck~T8c7d8>83df90>na788043b3bd5>mb7442b<19bd37>2b8467:3afd9bi9bf247<4}
+ping{sb4t_w4tUtr1ck~U8c7d8>93df90>oa788042b3bd5>lb7442b=19bd37?2b8467;3afd9bh9bf247=4}
+ping{se4t_w4tRtr1ck~R8c7d8>>3df90>ha788045b3bd5>kb7442b:19bd3782b8467<3afd9bo9bf247:4}
+ping{sd4t_w4tStr1ck~S8c7d8>?3df90>ia788044b3bd5>jb7442b;19bd3792b8467=3afd9bn9bf247;4}
+ping{sg4t_w4tPtr1ck~P8c7d8><3df90>ja788047b3bd5>ib7442b819bd37:2b8467>3afd9bm9bf24784}
+ping{sf4t_w4tQtr1ck~Q8c7d8>=3df90>ka788046b3bd5>hb7442b919bd37;2b8467?3afd9bl9bf24794}
+ping{si4t_w4t^tr1ck~^8c7d8>23df90>da788049b3bd5>gb7442b619bd3742b846703afd9bc9bf24764}
+ping{sh4t_w4t_tr1ck~_8c7d8>33df90>ea788048b3bd5>fb7442b719bd3752b846713afd9bb9bf24774}
+ping{sk4t_w4t\tr1ck~\8c7d8>03df90>fa78804;b3bd5>eb7442b419bd3762b846723afd9ba9bf24744}
+ping{sj4t_w4t]tr1ck~]8c7d8>13df90>ga78804:b3bd5>db7442b519bd3772b846733afd9b`9bf24754}
+ping{sm4t_w4tZtr1ck~Z8c7d8>63df90>`a78804=b3bd5>cb7442b219bd3702b846743afd9bg9bf24724}
+ping{sl4t_w4t[tr1ck~[8c7d8>73df90>aa78804<b3bd5>bb7442b319bd3712b846753afd9bf9bf24734}
+ping{so4t_w4tXtr1ck~X8c7d8>43df90>ba78804?b3bd5>ab7442b019bd3722b846763afd9be9bf24704}
+ping{sn4t_w4tYtr1ck~Y8c7d8>53df90>ca78804>b3bd5>`b7442b119bd3732b846773afd9bd9bf24714}
+ping{lp4t_w4kGtr1ckaG8c7d8!+3df90!}a7880+ b3bd5!~b7442}/19bd3(-2b846()3afd9}z9bf24(/4}
+ping{ls4t_w4kDtr1ckaD8c7d8!(3df90!~a7880+#b3bd5!}b7442},19bd3(.2b846(*3afd9}y9bf24(,4}
+ping{lt4t_w4kCtr1ckaC8c7d8!/3df90!ya7880+$b3bd5!zb7442}+19bd3()2b846(-3afd9}~9bf24(+4}
+ping{lw4t_w4k@tr1cka@8c7d8!,3df90!za7880+'b3bd5!yb7442}(19bd3(*2b846(.3afd9}}9bf24((4}
+ping{lv4t_w4kAtr1ckaA8c7d8!-3df90!{a7880+&b3bd5!xb7442})19bd3(+2b846(/3afd9}|9bf24()4}
+ping{ly4t_w4kNtr1ckaN8c7d8!"3df90!ta7880+)b3bd5!wb7442}&19bd3($2b846( 3afd9}s9bf24(&4}
+ping{lx4t_w4kOtr1ckaO8c7d8!#3df90!ua7880+(b3bd5!vb7442}'19bd3(%2b846(!3afd9}r9bf24('4}
+ping{l{4t_w4kLtr1ckaL8c7d8! 3df90!va7880++b3bd5!ub7442}$19bd3(&2b846("3afd9}q9bf24($4}
+ping{lz4t_w4kMtr1ckaM8c7d8!!3df90!wa7880+*b3bd5!tb7442}%19bd3('2b846(#3afd9}p9bf24(%4}
+ping{l}4t_w4kJtr1ckaJ8c7d8!&3df90!pa7880+-b3bd5!sb7442}"19bd3( 2b846($3afd9}w9bf24("4}
+ping{l|4t_w4kKtr1ckaK8c7d8!'3df90!qa7880+,b3bd5!rb7442}#19bd3(!2b846(%3afd9}v9bf24(#4}
+ping{l~4t_w4kItr1ckaI8c7d8!%3df90!sa7880+.b3bd5!pb7442}!19bd3(#2b846('3afd9}t9bf24(!4}
+ping{la4t_w4kVtr1ckaV8c7d8!:3df90!la7880+1b3bd5!ob7442}>19bd3(<2b846(83afd9}k9bf24(>4}
+ping{l`4t_w4kWtr1ckaW8c7d8!;3df90!ma7880+0b3bd5!nb7442}?19bd3(=2b846(93afd9}j9bf24(?4}
+ping{lc4t_w4kTtr1ckaT8c7d8!83df90!na7880+3b3bd5!mb7442}<19bd3(>2b846(:3afd9}i9bf24(<4}
+ping{lb4t_w4kUtr1ckaU8c7d8!93df90!oa7880+2b3bd5!lb7442}=19bd3(?2b846(;3afd9}h9bf24(=4}
+ping{le4t_w4kRtr1ckaR8c7d8!>3df90!ha7880+5b3bd5!kb7442}:19bd3(82b846(<3afd9}o9bf24(:4}
+ping{ld4t_w4kStr1ckaS8c7d8!?3df90!ia7880+4b3bd5!jb7442};19bd3(92b846(=3afd9}n9bf24(;4}
+ping{lg4t_w4kPtr1ckaP8c7d8!<3df90!ja7880+7b3bd5!ib7442}819bd3(:2b846(>3afd9}m9bf24(84}
+ping{lf4t_w4kQtr1ckaQ8c7d8!=3df90!ka7880+6b3bd5!hb7442}919bd3(;2b846(?3afd9}l9bf24(94}
+ping{li4t_w4k^tr1cka^8c7d8!23df90!da7880+9b3bd5!gb7442}619bd3(42b846(03afd9}c9bf24(64}
+ping{lh4t_w4k_tr1cka_8c7d8!33df90!ea7880+8b3bd5!fb7442}719bd3(52b846(13afd9}b9bf24(74}
+ping{lk4t_w4k\tr1cka\8c7d8!03df90!fa7880+;b3bd5!eb7442}419bd3(62b846(23afd9}a9bf24(44}
+ping{lj4t_w4k]tr1cka]8c7d8!13df90!ga7880+:b3bd5!db7442}519bd3(72b846(33afd9}`9bf24(54}
+ping{lm4t_w4kZtr1ckaZ8c7d8!63df90!`a7880+=b3bd5!cb7442}219bd3(02b846(43afd9}g9bf24(24}
+ping{ll4t_w4k[tr1cka[8c7d8!73df90!aa7880+<b3bd5!bb7442}319bd3(12b846(53afd9}f9bf24(34}
+ping{lo4t_w4kXtr1ckaX8c7d8!43df90!ba7880+?b3bd5!ab7442}019bd3(22b846(63afd9}e9bf24(04}
+ping{ln4t_w4kYtr1ckaY8c7d8!53df90!ca7880+>b3bd5!`b7442}119bd3(32b846(73afd9}d9bf24(14}
+ping{mp4t_w4jGtr1ck`G8c7d8 +3df90 }a7880* b3bd5 ~b7442|/19bd3)-2b846))3afd9|z9bf24)/4}
+ping{ms4t_w4jDtr1ck`D8c7d8 (3df90 ~a7880*#b3bd5 }b7442|,19bd3).2b846)*3afd9|y9bf24),4}
+ping{mt4t_w4jCtr1ck`C8c7d8 /3df90 ya7880*$b3bd5 zb7442|+19bd3))2b846)-3afd9|~9bf24)+4}
+ping{mw4t_w4j@tr1ck`@8c7d8 ,3df90 za7880*'b3bd5 yb7442|(19bd3)*2b846).3afd9|}9bf24)(4}
+ping{mv4t_w4jAtr1ck`A8c7d8 -3df90 {a7880*&b3bd5 xb7442|)19bd3)+2b846)/3afd9||9bf24))4}
+ping{my4t_w4jNtr1ck`N8c7d8 "3df90 ta7880*)b3bd5 wb7442|&19bd3)$2b846) 3afd9|s9bf24)&4}
+ping{mx4t_w4jOtr1ck`O8c7d8 #3df90 ua7880*(b3bd5 vb7442|'19bd3)%2b846)!3afd9|r9bf24)'4}
+ping{m{4t_w4jLtr1ck`L8c7d8  3df90 va7880*+b3bd5 ub7442|$19bd3)&2b846)"3afd9|q9bf24)$4}
+ping{mz4t_w4jMtr1ck`M8c7d8 !3df90 wa7880**b3bd5 tb7442|%19bd3)'2b846)#3afd9|p9bf24)%4}
+ping{m}4t_w4jJtr1ck`J8c7d8 &3df90 pa7880*-b3bd5 sb7442|"19bd3) 2b846)$3afd9|w9bf24)"4}
+ping{m|4t_w4jKtr1ck`K8c7d8 '3df90 qa7880*,b3bd5 rb7442|#19bd3)!2b846)%3afd9|v9bf24)#4}
+ping{m~4t_w4jItr1ck`I8c7d8 %3df90 sa7880*.b3bd5 pb7442|!19bd3)#2b846)'3afd9|t9bf24)!4}
+ping{ma4t_w4jVtr1ck`V8c7d8 :3df90 la7880*1b3bd5 ob7442|>19bd3)<2b846)83afd9|k9bf24)>4}
+ping{m`4t_w4jWtr1ck`W8c7d8 ;3df90 ma7880*0b3bd5 nb7442|?19bd3)=2b846)93afd9|j9bf24)?4}
+ping{mc4t_w4jTtr1ck`T8c7d8 83df90 na7880*3b3bd5 mb7442|<19bd3)>2b846):3afd9|i9bf24)<4}
+ping{mb4t_w4jUtr1ck`U8c7d8 93df90 oa7880*2b3bd5 lb7442|=19bd3)?2b846);3afd9|h9bf24)=4}
+ping{me4t_w4jRtr1ck`R8c7d8 >3df90 ha7880*5b3bd5 kb7442|:19bd3)82b846)<3afd9|o9bf24):4}
+ping{md4t_w4jStr1ck`S8c7d8 ?3df90 ia7880*4b3bd5 jb7442|;19bd3)92b846)=3afd9|n9bf24);4}
+ping{mg4t_w4jPtr1ck`P8c7d8 <3df90 ja7880*7b3bd5 ib7442|819bd3):2b846)>3afd9|m9bf24)84}
+ping{mf4t_w4jQtr1ck`Q8c7d8 =3df90 ka7880*6b3bd5 hb7442|919bd3);2b846)?3afd9|l9bf24)94}
+ping{mi4t_w4j^tr1ck`^8c7d8 23df90 da7880*9b3bd5 gb7442|619bd3)42b846)03afd9|c9bf24)64}
+ping{mh4t_w4j_tr1ck`_8c7d8 33df90 ea7880*8b3bd5 fb7442|719bd3)52b846)13afd9|b9bf24)74}
+ping{mk4t_w4j\tr1ck`\8c7d8 03df90 fa7880*;b3bd5 eb7442|419bd3)62b846)23afd9|a9bf24)44}
+ping{mj4t_w4j]tr1ck`]8c7d8 13df90 ga7880*:b3bd5 db7442|519bd3)72b846)33afd9|`9bf24)54}
+ping{mm4t_w4jZtr1ck`Z8c7d8 63df90 `a7880*=b3bd5 cb7442|219bd3)02b846)43afd9|g9bf24)24}
+ping{ml4t_w4j[tr1ck`[8c7d8 73df90 aa7880*<b3bd5 bb7442|319bd3)12b846)53afd9|f9bf24)34}
+ping{mo4t_w4jXtr1ck`X8c7d8 43df90 ba7880*?b3bd5 ab7442|019bd3)22b846)63afd9|e9bf24)04}
+ping{mn4t_w4jYtr1ck`Y8c7d8 53df90 ca7880*>b3bd5 `b7442|119bd3)32b846)73afd9|d9bf24)14}
+ping{op4t_w4hGtr1ckbG8c7d8"+3df90"}a7880( b3bd5"~b7442~/19bd3+-2b846+)3afd9~z9bf24+/4}
+ping{os4t_w4hDtr1ckbD8c7d8"(3df90"~a7880(#b3bd5"}b7442~,19bd3+.2b846+*3afd9~y9bf24+,4}
+ping{ot4t_w4hCtr1ckbC8c7d8"/3df90"ya7880($b3bd5"zb7442~+19bd3+)2b846+-3afd9~~9bf24++4}
+ping{ow4t_w4h@tr1ckb@8c7d8",3df90"za7880('b3bd5"yb7442~(19bd3+*2b846+.3afd9~}9bf24+(4}
+ping{ov4t_w4hAtr1ckbA8c7d8"-3df90"{a7880(&b3bd5"xb7442~)19bd3++2b846+/3afd9~|9bf24+)4}
+ping{oy4t_w4hNtr1ckbN8c7d8""3df90"ta7880()b3bd5"wb7442~&19bd3+$2b846+ 3afd9~s9bf24+&4}
+ping{ox4t_w4hOtr1ckbO8c7d8"#3df90"ua7880((b3bd5"vb7442~'19bd3+%2b846+!3afd9~r9bf24+'4}
+ping{o{4t_w4hLtr1ckbL8c7d8" 3df90"va7880(+b3bd5"ub7442~$19bd3+&2b846+"3afd9~q9bf24+$4}
+ping{oz4t_w4hMtr1ckbM8c7d8"!3df90"wa7880(*b3bd5"tb7442~%19bd3+'2b846+#3afd9~p9bf24+%4}
+ping{o}4t_w4hJtr1ckbJ8c7d8"&3df90"pa7880(-b3bd5"sb7442~"19bd3+ 2b846+$3afd9~w9bf24+"4}
+ping{o|4t_w4hKtr1ckbK8c7d8"'3df90"qa7880(,b3bd5"rb7442~#19bd3+!2b846+%3afd9~v9bf24+#4}
+ping{o~4t_w4hItr1ckbI8c7d8"%3df90"sa7880(.b3bd5"pb7442~!19bd3+#2b846+'3afd9~t9bf24+!4}
+ping{oa4t_w4hVtr1ckbV8c7d8":3df90"la7880(1b3bd5"ob7442~>19bd3+<2b846+83afd9~k9bf24+>4}
+ping{o`4t_w4hWtr1ckbW8c7d8";3df90"ma7880(0b3bd5"nb7442~?19bd3+=2b846+93afd9~j9bf24+?4}
+ping{oc4t_w4hTtr1ckbT8c7d8"83df90"na7880(3b3bd5"mb7442~<19bd3+>2b846+:3afd9~i9bf24+<4}
+ping{ob4t_w4hUtr1ckbU8c7d8"93df90"oa7880(2b3bd5"lb7442~=19bd3+?2b846+;3afd9~h9bf24+=4}
+ping{oe4t_w4hRtr1ckbR8c7d8">3df90"ha7880(5b3bd5"kb7442~:19bd3+82b846+<3afd9~o9bf24+:4}
+ping{od4t_w4hStr1ckbS8c7d8"?3df90"ia7880(4b3bd5"jb7442~;19bd3+92b846+=3afd9~n9bf24+;4}
+ping{og4t_w4hPtr1ckbP8c7d8"<3df90"ja7880(7b3bd5"ib7442~819bd3+:2b846+>3afd9~m9bf24+84}
+ping{of4t_w4hQtr1ckbQ8c7d8"=3df90"ka7880(6b3bd5"hb7442~919bd3+;2b846+?3afd9~l9bf24+94}
+ping{oi4t_w4h^tr1ckb^8c7d8"23df90"da7880(9b3bd5"gb7442~619bd3+42b846+03afd9~c9bf24+64}
+ping{oh4t_w4h_tr1ckb_8c7d8"33df90"ea7880(8b3bd5"fb7442~719bd3+52b846+13afd9~b9bf24+74}
+ping{ok4t_w4h\tr1ckb\8c7d8"03df90"fa7880(;b3bd5"eb7442~419bd3+62b846+23afd9~a9bf24+44}
+ping{oj4t_w4h]tr1ckb]8c7d8"13df90"ga7880(:b3bd5"db7442~519bd3+72b846+33afd9~`9bf24+54}
+ping{om4t_w4hZtr1ckbZ8c7d8"63df90"`a7880(=b3bd5"cb7442~219bd3+02b846+43afd9~g9bf24+24}
+ping{ol4t_w4h[tr1ckb[8c7d8"73df90"aa7880(<b3bd5"bb7442~319bd3+12b846+53afd9~f9bf24+34}
+ping{oo4t_w4hXtr1ckbX8c7d8"43df90"ba7880(?b3bd5"ab7442~019bd3+22b846+63afd9~e9bf24+04}
+ping{on4t_w4hYtr1ckbY8c7d8"53df90"ca7880(>b3bd5"`b7442~119bd3+32b846+73afd9~d9bf24+14}
+ping{hp4t_w4oGtr1ckeG8c7d8%+3df90%}a7880/ b3bd5%~b7442y/19bd3,-2b846,)3afd9yz9bf24,/4}
+ping{hs4t_w4oDtr1ckeD8c7d8%(3df90%~a7880/#b3bd5%}b7442y,19bd3,.2b846,*3afd9yy9bf24,,4}
+ping{ht4t_w4oCtr1ckeC8c7d8%/3df90%ya7880/$b3bd5%zb7442y+19bd3,)2b846,-3afd9y~9bf24,+4}
+ping{hw4t_w4o@tr1cke@8c7d8%,3df90%za7880/'b3bd5%yb7442y(19bd3,*2b846,.3afd9y}9bf24,(4}
+ping{hv4t_w4oAtr1ckeA8c7d8%-3df90%{a7880/&b3bd5%xb7442y)19bd3,+2b846,/3afd9y|9bf24,)4}
+ping{hy4t_w4oNtr1ckeN8c7d8%"3df90%ta7880/)b3bd5%wb7442y&19bd3,$2b846, 3afd9ys9bf24,&4}
+ping{hx4t_w4oOtr1ckeO8c7d8%#3df90%ua7880/(b3bd5%vb7442y'19bd3,%2b846,!3afd9yr9bf24,'4}
+ping{h{4t_w4oLtr1ckeL8c7d8% 3df90%va7880/+b3bd5%ub7442y$19bd3,&2b846,"3afd9yq9bf24,$4}
+ping{hz4t_w4oMtr1ckeM8c7d8%!3df90%wa7880/*b3bd5%tb7442y%19bd3,'2b846,#3afd9yp9bf24,%4}
+ping{h}4t_w4oJtr1ckeJ8c7d8%&3df90%pa7880/-b3bd5%sb7442y"19bd3, 2b846,$3afd9yw9bf24,"4}
+ping{h|4t_w4oKtr1ckeK8c7d8%'3df90%qa7880/,b3bd5%rb7442y#19bd3,!2b846,%3afd9yv9bf24,#4}
+ping{h~4t_w4oItr1ckeI8c7d8%%3df90%sa7880/.b3bd5%pb7442y!19bd3,#2b846,'3afd9yt9bf24,!4}
+ping{ha4t_w4oVtr1ckeV8c7d8%:3df90%la7880/1b3bd5%ob7442y>19bd3,<2b846,83afd9yk9bf24,>4}
+ping{h`4t_w4oWtr1ckeW8c7d8%;3df90%ma7880/0b3bd5%nb7442y?19bd3,=2b846,93afd9yj9bf24,?4}
+ping{hc4t_w4oTtr1ckeT8c7d8%83df90%na7880/3b3bd5%mb7442y<19bd3,>2b846,:3afd9yi9bf24,<4}
+ping{hb4t_w4oUtr1ckeU8c7d8%93df90%oa7880/2b3bd5%lb7442y=19bd3,?2b846,;3afd9yh9bf24,=4}
+ping{he4t_w4oRtr1ckeR8c7d8%>3df90%ha7880/5b3bd5%kb7442y:19bd3,82b846,<3afd9yo9bf24,:4}
+ping{hd4t_w4oStr1ckeS8c7d8%?3df90%ia7880/4b3bd5%jb7442y;19bd3,92b846,=3afd9yn9bf24,;4}
+ping{hg4t_w4oPtr1ckeP8c7d8%<3df90%ja7880/7b3bd5%ib7442y819bd3,:2b846,>3afd9ym9bf24,84}
+ping{hf4t_w4oQtr1ckeQ8c7d8%=3df90%ka7880/6b3bd5%hb7442y919bd3,;2b846,?3afd9yl9bf24,94}
+ping{hi4t_w4o^tr1cke^8c7d8%23df90%da7880/9b3bd5%gb7442y619bd3,42b846,03afd9yc9bf24,64}
+ping{hh4t_w4o_tr1cke_8c7d8%33df90%ea7880/8b3bd5%fb7442y719bd3,52b846,13afd9yb9bf24,74}
+ping{hk4t_w4o\tr1cke\8c7d8%03df90%fa7880/;b3bd5%eb7442y419bd3,62b846,23afd9ya9bf24,44}
+ping{hj4t_w4o]tr1cke]8c7d8%13df90%ga7880/:b3bd5%db7442y519bd3,72b846,33afd9y`9bf24,54}
+ping{hm4t_w4oZtr1ckeZ8c7d8%63df90%`a7880/=b3bd5%cb7442y219bd3,02b846,43afd9yg9bf24,24}
+ping{hl4t_w4o[tr1cke[8c7d8%73df90%aa7880/<b3bd5%bb7442y319bd3,12b846,53afd9yf9bf24,34}
+ping{ho4t_w4oXtr1ckeX8c7d8%43df90%ba7880/?b3bd5%ab7442y019bd3,22b846,63afd9ye9bf24,04}
+ping{hn4t_w4oYtr1ckeY8c7d8%53df90%ca7880/>b3bd5%`b7442y119bd3,32b846,73afd9yd9bf24,14}
+ping{ip4t_w4nGtr1ckdG8c7d8$+3df90$}a7880. b3bd5$~b7442x/19bd3--2b846-)3afd9xz9bf24-/4}
+ping{is4t_w4nDtr1ckdD8c7d8$(3df90$~a7880.#b3bd5$}b7442x,19bd3-.2b846-*3afd9xy9bf24-,4}
+ping{it4t_w4nCtr1ckdC8c7d8$/3df90$ya7880.$b3bd5$zb7442x+19bd3-)2b846--3afd9x~9bf24-+4}
+ping{iw4t_w4n@tr1ckd@8c7d8$,3df90$za7880.'b3bd5$yb7442x(19bd3-*2b846-.3afd9x}9bf24-(4}
+ping{iv4t_w4nAtr1ckdA8c7d8$-3df90${a7880.&b3bd5$xb7442x)19bd3-+2b846-/3afd9x|9bf24-)4}
+ping{iy4t_w4nNtr1ckdN8c7d8$"3df90$ta7880.)b3bd5$wb7442x&19bd3-$2b846- 3afd9xs9bf24-&4}
+ping{ix4t_w4nOtr1ckdO8c7d8$#3df90$ua7880.(b3bd5$vb7442x'19bd3-%2b846-!3afd9xr9bf24-'4}
+ping{i{4t_w4nLtr1ckdL8c7d8$ 3df90$va7880.+b3bd5$ub7442x$19bd3-&2b846-"3afd9xq9bf24-$4}
+ping{iz4t_w4nMtr1ckdM8c7d8$!3df90$wa7880.*b3bd5$tb7442x%19bd3-'2b846-#3afd9xp9bf24-%4}
+ping{i}4t_w4nJtr1ckdJ8c7d8$&3df90$pa7880.-b3bd5$sb7442x"19bd3- 2b846-$3afd9xw9bf24-"4}
+ping{i|4t_w4nKtr1ckdK8c7d8$'3df90$qa7880.,b3bd5$rb7442x#19bd3-!2b846-%3afd9xv9bf24-#4}
+ping{i~4t_w4nItr1ckdI8c7d8$%3df90$sa7880..b3bd5$pb7442x!19bd3-#2b846-'3afd9xt9bf24-!4}
+ping{ia4t_w4nVtr1ckdV8c7d8$:3df90$la7880.1b3bd5$ob7442x>19bd3-<2b846-83afd9xk9bf24->4}
+ping{i`4t_w4nWtr1ckdW8c7d8$;3df90$ma7880.0b3bd5$nb7442x?19bd3-=2b846-93afd9xj9bf24-?4}
+ping{ic4t_w4nTtr1ckdT8c7d8$83df90$na7880.3b3bd5$mb7442x<19bd3->2b846-:3afd9xi9bf24-<4}
+ping{ib4t_w4nUtr1ckdU8c7d8$93df90$oa7880.2b3bd5$lb7442x=19bd3-?2b846-;3afd9xh9bf24-=4}
+ping{ie4t_w4nRtr1ckdR8c7d8$>3df90$ha7880.5b3bd5$kb7442x:19bd3-82b846-<3afd9xo9bf24-:4}
+ping{id4t_w4nStr1ckdS8c7d8$?3df90$ia7880.4b3bd5$jb7442x;19bd3-92b846-=3afd9xn9bf24-;4}
+ping{ig4t_w4nPtr1ckdP8c7d8$<3df90$ja7880.7b3bd5$ib7442x819bd3-:2b846->3afd9xm9bf24-84}
+ping{if4t_w4nQtr1ckdQ8c7d8$=3df90$ka7880.6b3bd5$hb7442x919bd3-;2b846-?3afd9xl9bf24-94}
+ping{ii4t_w4n^tr1ckd^8c7d8$23df90$da7880.9b3bd5$gb7442x619bd3-42b846-03afd9xc9bf24-64}
+ping{ih4t_w4n_tr1ckd_8c7d8$33df90$ea7880.8b3bd5$fb7442x719bd3-52b846-13afd9xb9bf24-74}
+ping{ik4t_w4n\tr1ckd\8c7d8$03df90$fa7880.;b3bd5$eb7442x419bd3-62b846-23afd9xa9bf24-44}
+ping{ij4t_w4n]tr1ckd]8c7d8$13df90$ga7880.:b3bd5$db7442x519bd3-72b846-33afd9x`9bf24-54}
+ping{im4t_w4nZtr1ckdZ8c7d8$63df90$`a7880.=b3bd5$cb7442x219bd3-02b846-43afd9xg9bf24-24}
+ping{il4t_w4n[tr1ckd[8c7d8$73df90$aa7880.<b3bd5$bb7442x319bd3-12b846-53afd9xf9bf24-34}
+ping{io4t_w4nXtr1ckdX8c7d8$43df90$ba7880.?b3bd5$ab7442x019bd3-22b846-63afd9xe9bf24-04}
+ping{in4t_w4nYtr1ckdY8c7d8$53df90$ca7880.>b3bd5$`b7442x119bd3-32b846-73afd9xd9bf24-14}
+ping{jp4t_w4mGtr1ckgG8c7d8'+3df90'}a7880- b3bd5'~b7442{/19bd3.-2b846.)3afd9{z9bf24./4}
+ping{js4t_w4mDtr1ckgD8c7d8'(3df90'~a7880-#b3bd5'}b7442{,19bd3..2b846.*3afd9{y9bf24.,4}
+ping{jt4t_w4mCtr1ckgC8c7d8'/3df90'ya7880-$b3bd5'zb7442{+19bd3.)2b846.-3afd9{~9bf24.+4}
+ping{jw4t_w4m@tr1ckg@8c7d8',3df90'za7880-'b3bd5'yb7442{(19bd3.*2b846..3afd9{}9bf24.(4}
+ping{jv4t_w4mAtr1ckgA8c7d8'-3df90'{a7880-&b3bd5'xb7442{)19bd3.+2b846./3afd9{|9bf24.)4}
+ping{jy4t_w4mNtr1ckgN8c7d8'"3df90'ta7880-)b3bd5'wb7442{&19bd3.$2b846. 3afd9{s9bf24.&4}
+ping{jx4t_w4mOtr1ckgO8c7d8'#3df90'ua7880-(b3bd5'vb7442{'19bd3.%2b846.!3afd9{r9bf24.'4}
+ping{j{4t_w4mLtr1ckgL8c7d8' 3df90'va7880-+b3bd5'ub7442{$19bd3.&2b846."3afd9{q9bf24.$4}
+ping{jz4t_w4mMtr1ckgM8c7d8'!3df90'wa7880-*b3bd5'tb7442{%19bd3.'2b846.#3afd9{p9bf24.%4}
+ping{j}4t_w4mJtr1ckgJ8c7d8'&3df90'pa7880--b3bd5'sb7442{"19bd3. 2b846.$3afd9{w9bf24."4}
+ping{j|4t_w4mKtr1ckgK8c7d8''3df90'qa7880-,b3bd5'rb7442{#19bd3.!2b846.%3afd9{v9bf24.#4}
+ping{j~4t_w4mItr1ckgI8c7d8'%3df90'sa7880-.b3bd5'pb7442{!19bd3.#2b846.'3afd9{t9bf24.!4}
+ping{ja4t_w4mVtr1ckgV8c7d8':3df90'la7880-1b3bd5'ob7442{>19bd3.<2b846.83afd9{k9bf24.>4}
+ping{j`4t_w4mWtr1ckgW8c7d8';3df90'ma7880-0b3bd5'nb7442{?19bd3.=2b846.93afd9{j9bf24.?4}
+ping{jc4t_w4mTtr1ckgT8c7d8'83df90'na7880-3b3bd5'mb7442{<19bd3.>2b846.:3afd9{i9bf24.<4}
+ping{jb4t_w4mUtr1ckgU8c7d8'93df90'oa7880-2b3bd5'lb7442{=19bd3.?2b846.;3afd9{h9bf24.=4}
+ping{je4t_w4mRtr1ckgR8c7d8'>3df90'ha7880-5b3bd5'kb7442{:19bd3.82b846.<3afd9{o9bf24.:4}
+ping{jd4t_w4mStr1ckgS8c7d8'?3df90'ia7880-4b3bd5'jb7442{;19bd3.92b846.=3afd9{n9bf24.;4}
+ping{jg4t_w4mPtr1ckgP8c7d8'<3df90'ja7880-7b3bd5'ib7442{819bd3.:2b846.>3afd9{m9bf24.84}
+ping{jf4t_w4mQtr1ckgQ8c7d8'=3df90'ka7880-6b3bd5'hb7442{919bd3.;2b846.?3afd9{l9bf24.94}
+ping{ji4t_w4m^tr1ckg^8c7d8'23df90'da7880-9b3bd5'gb7442{619bd3.42b846.03afd9{c9bf24.64}
+ping{jh4t_w4m_tr1ckg_8c7d8'33df90'ea7880-8b3bd5'fb7442{719bd3.52b846.13afd9{b9bf24.74}
+ping{jk4t_w4m\tr1ckg\8c7d8'03df90'fa7880-;b3bd5'eb7442{419bd3.62b846.23afd9{a9bf24.44}
+ping{jj4t_w4m]tr1ckg]8c7d8'13df90'ga7880-:b3bd5'db7442{519bd3.72b846.33afd9{`9bf24.54}
+ping{jm4t_w4mZtr1ckgZ8c7d8'63df90'`a7880-=b3bd5'cb7442{219bd3.02b846.43afd9{g9bf24.24}
+ping{jl4t_w4m[tr1ckg[8c7d8'73df90'aa7880-<b3bd5'bb7442{319bd3.12b846.53afd9{f9bf24.34}
+ping{jo4t_w4mXtr1ckgX8c7d8'43df90'ba7880-?b3bd5'ab7442{019bd3.22b846.63afd9{e9bf24.04}
+ping{jn4t_w4mYtr1ckgY8c7d8'53df90'ca7880->b3bd5'`b7442{119bd3.32b846.73afd9{d9bf24.14}
+ping{kp4t_w4lGtr1ckfG8c7d8&+3df90&}a7880, b3bd5&~b7442z/19bd3/-2b846/)3afd9zz9bf24//4}
+ping{ks4t_w4lDtr1ckfD8c7d8&(3df90&~a7880,#b3bd5&}b7442z,19bd3/.2b846/*3afd9zy9bf24/,4}
+ping{kt4t_w4lCtr1ckfC8c7d8&/3df90&ya7880,$b3bd5&zb7442z+19bd3/)2b846/-3afd9z~9bf24/+4}
+ping{kw4t_w4l@tr1ckf@8c7d8&,3df90&za7880,'b3bd5&yb7442z(19bd3/*2b846/.3afd9z}9bf24/(4}
+ping{kv4t_w4lAtr1ckfA8c7d8&-3df90&{a7880,&b3bd5&xb7442z)19bd3/+2b846//3afd9z|9bf24/)4}
+ping{ky4t_w4lNtr1ckfN8c7d8&"3df90&ta7880,)b3bd5&wb7442z&19bd3/$2b846/ 3afd9zs9bf24/&4}
+ping{kx4t_w4lOtr1ckfO8c7d8&#3df90&ua7880,(b3bd5&vb7442z'19bd3/%2b846/!3afd9zr9bf24/'4}
+ping{k{4t_w4lLtr1ckfL8c7d8& 3df90&va7880,+b3bd5&ub7442z$19bd3/&2b846/"3afd9zq9bf24/$4}
+ping{kz4t_w4lMtr1ckfM8c7d8&!3df90&wa7880,*b3bd5&tb7442z%19bd3/'2b846/#3afd9zp9bf24/%4}
+ping{k}4t_w4lJtr1ckfJ8c7d8&&3df90&pa7880,-b3bd5&sb7442z"19bd3/ 2b846/$3afd9zw9bf24/"4}
+ping{k|4t_w4lKtr1ckfK8c7d8&'3df90&qa7880,,b3bd5&rb7442z#19bd3/!2b846/%3afd9zv9bf24/#4}
+ping{k~4t_w4lItr1ckfI8c7d8&%3df90&sa7880,.b3bd5&pb7442z!19bd3/#2b846/'3afd9zt9bf24/!4}
+ping{ka4t_w4lVtr1ckfV8c7d8&:3df90&la7880,1b3bd5&ob7442z>19bd3/<2b846/83afd9zk9bf24/>4}
+ping{k`4t_w4lWtr1ckfW8c7d8&;3df90&ma7880,0b3bd5&nb7442z?19bd3/=2b846/93afd9zj9bf24/?4}
+ping{kc4t_w4lTtr1ckfT8c7d8&83df90&na7880,3b3bd5&mb7442z<19bd3/>2b846/:3afd9zi9bf24/<4}
+ping{kb4t_w4lUtr1ckfU8c7d8&93df90&oa7880,2b3bd5&lb7442z=19bd3/?2b846/;3afd9zh9bf24/=4}
+ping{ke4t_w4lRtr1ckfR8c7d8&>3df90&ha7880,5b3bd5&kb7442z:19bd3/82b846/<3afd9zo9bf24/:4}
+ping{kd4t_w4lStr1ckfS8c7d8&?3df90&ia7880,4b3bd5&jb7442z;19bd3/92b846/=3afd9zn9bf24/;4}
+ping{kg4t_w4lPtr1ckfP8c7d8&<3df90&ja7880,7b3bd5&ib7442z819bd3/:2b846/>3afd9zm9bf24/84}
+ping{kf4t_w4lQtr1ckfQ8c7d8&=3df90&ka7880,6b3bd5&hb7442z919bd3/;2b846/?3afd9zl9bf24/94}
+ping{ki4t_w4l^tr1ckf^8c7d8&23df90&da7880,9b3bd5&gb7442z619bd3/42b846/03afd9zc9bf24/64}
+ping{kh4t_w4l_tr1ckf_8c7d8&33df90&ea7880,8b3bd5&fb7442z719bd3/52b846/13afd9zb9bf24/74}
+ping{kk4t_w4l\tr1ckf\8c7d8&03df90&fa7880,;b3bd5&eb7442z419bd3/62b846/23afd9za9bf24/44}
+ping{kj4t_w4l]tr1ckf]8c7d8&13df90&ga7880,:b3bd5&db7442z519bd3/72b846/33afd9z`9bf24/54}
+ping{km4t_w4lZtr1ckfZ8c7d8&63df90&`a7880,=b3bd5&cb7442z219bd3/02b846/43afd9zg9bf24/24}
+ping{kl4t_w4l[tr1ckf[8c7d8&73df90&aa7880,<b3bd5&bb7442z319bd3/12b846/53afd9zf9bf24/34}
+ping{ko4t_w4lXtr1ckfX8c7d8&43df90&ba7880,?b3bd5&ab7442z019bd3/22b846/63afd9ze9bf24/04}
+ping{kn4t_w4lYtr1ckfY8c7d8&53df90&ca7880,>b3bd5&`b7442z119bd3/32b846/73afd9zd9bf24/14}
+ping{dp4t_w4cGtr1ckiG8c7d8)+3df90)}a7880# b3bd5)~b7442u/19bd3 -2b846 )3afd9uz9bf24 /4}
+ping{ds4t_w4cDtr1ckiD8c7d8)(3df90)~a7880##b3bd5)}b7442u,19bd3 .2b846 *3afd9uy9bf24 ,4}
+ping{dt4t_w4cCtr1ckiC8c7d8)/3df90)ya7880#$b3bd5)zb7442u+19bd3 )2b846 -3afd9u~9bf24 +4}
+ping{dw4t_w4c@tr1cki@8c7d8),3df90)za7880#'b3bd5)yb7442u(19bd3 *2b846 .3afd9u}9bf24 (4}
+ping{dv4t_w4cAtr1ckiA8c7d8)-3df90){a7880#&b3bd5)xb7442u)19bd3 +2b846 /3afd9u|9bf24 )4}
+ping{dy4t_w4cNtr1ckiN8c7d8)"3df90)ta7880#)b3bd5)wb7442u&19bd3 $2b846  3afd9us9bf24 &4}
+ping{dx4t_w4cOtr1ckiO8c7d8)#3df90)ua7880#(b3bd5)vb7442u'19bd3 %2b846 !3afd9ur9bf24 '4}
+ping{d{4t_w4cLtr1ckiL8c7d8) 3df90)va7880#+b3bd5)ub7442u$19bd3 &2b846 "3afd9uq9bf24 $4}
+ping{dz4t_w4cMtr1ckiM8c7d8)!3df90)wa7880#*b3bd5)tb7442u%19bd3 '2b846 #3afd9up9bf24 %4}
+ping{d}4t_w4cJtr1ckiJ8c7d8)&3df90)pa7880#-b3bd5)sb7442u"19bd3  2b846 $3afd9uw9bf24 "4}
+ping{d|4t_w4cKtr1ckiK8c7d8)'3df90)qa7880#,b3bd5)rb7442u#19bd3 !2b846 %3afd9uv9bf24 #4}
+ping{d~4t_w4cItr1ckiI8c7d8)%3df90)sa7880#.b3bd5)pb7442u!19bd3 #2b846 '3afd9ut9bf24 !4}
+ping{da4t_w4cVtr1ckiV8c7d8):3df90)la7880#1b3bd5)ob7442u>19bd3 <2b846 83afd9uk9bf24 >4}
+ping{d`4t_w4cWtr1ckiW8c7d8);3df90)ma7880#0b3bd5)nb7442u?19bd3 =2b846 93afd9uj9bf24 ?4}
+ping{dc4t_w4cTtr1ckiT8c7d8)83df90)na7880#3b3bd5)mb7442u<19bd3 >2b846 :3afd9ui9bf24 <4}
+ping{db4t_w4cUtr1ckiU8c7d8)93df90)oa7880#2b3bd5)lb7442u=19bd3 ?2b846 ;3afd9uh9bf24 =4}
+ping{de4t_w4cRtr1ckiR8c7d8)>3df90)ha7880#5b3bd5)kb7442u:19bd3 82b846 <3afd9uo9bf24 :4}
+ping{dd4t_w4cStr1ckiS8c7d8)?3df90)ia7880#4b3bd5)jb7442u;19bd3 92b846 =3afd9un9bf24 ;4}
+ping{dg4t_w4cPtr1ckiP8c7d8)<3df90)ja7880#7b3bd5)ib7442u819bd3 :2b846 >3afd9um9bf24 84}
+ping{df4t_w4cQtr1ckiQ8c7d8)=3df90)ka7880#6b3bd5)hb7442u919bd3 ;2b846 ?3afd9ul9bf24 94}
+ping{di4t_w4c^tr1cki^8c7d8)23df90)da7880#9b3bd5)gb7442u619bd3 42b846 03afd9uc9bf24 64}
+ping{dh4t_w4c_tr1cki_8c7d8)33df90)ea7880#8b3bd5)fb7442u719bd3 52b846 13afd9ub9bf24 74}
+ping{dk4t_w4c\tr1cki\8c7d8)03df90)fa7880#;b3bd5)eb7442u419bd3 62b846 23afd9ua9bf24 44}
+ping{dj4t_w4c]tr1cki]8c7d8)13df90)ga7880#:b3bd5)db7442u519bd3 72b846 33afd9u`9bf24 54}
+ping{dm4t_w4cZtr1ckiZ8c7d8)63df90)`a7880#=b3bd5)cb7442u219bd3 02b846 43afd9ug9bf24 24}
+ping{dl4t_w4c[tr1cki[8c7d8)73df90)aa7880#<b3bd5)bb7442u319bd3 12b846 53afd9uf9bf24 34}
+ping{do4t_w4cXtr1ckiX8c7d8)43df90)ba7880#?b3bd5)ab7442u019bd3 22b846 63afd9ue9bf24 04}
+ping{dn4t_w4cYtr1ckiY8c7d8)53df90)ca7880#>b3bd5)`b7442u119bd3 32b846 73afd9ud9bf24 14}
+ping{ep4t_w4bGtr1ckhG8c7d8(+3df90(}a7880" b3bd5(~b7442t/19bd3!-2b846!)3afd9tz9bf24!/4}
+ping{es4t_w4bDtr1ckhD8c7d8((3df90(~a7880"#b3bd5(}b7442t,19bd3!.2b846!*3afd9ty9bf24!,4}
+ping{et4t_w4bCtr1ckhC8c7d8(/3df90(ya7880"$b3bd5(zb7442t+19bd3!)2b846!-3afd9t~9bf24!+4}
+ping{ew4t_w4b@tr1ckh@8c7d8(,3df90(za7880"'b3bd5(yb7442t(19bd3!*2b846!.3afd9t}9bf24!(4}
+ping{ev4t_w4bAtr1ckhA8c7d8(-3df90({a7880"&b3bd5(xb7442t)19bd3!+2b846!/3afd9t|9bf24!)4}
+ping{ey4t_w4bNtr1ckhN8c7d8("3df90(ta7880")b3bd5(wb7442t&19bd3!$2b846! 3afd9ts9bf24!&4}
+ping{ex4t_w4bOtr1ckhO8c7d8(#3df90(ua7880"(b3bd5(vb7442t'19bd3!%2b846!!3afd9tr9bf24!'4}
+ping{e{4t_w4bLtr1ckhL8c7d8( 3df90(va7880"+b3bd5(ub7442t$19bd3!&2b846!"3afd9tq9bf24!$4}
+ping{ez4t_w4bMtr1ckhM8c7d8(!3df90(wa7880"*b3bd5(tb7442t%19bd3!'2b846!#3afd9tp9bf24!%4}
+ping{e}4t_w4bJtr1ckhJ8c7d8(&3df90(pa7880"-b3bd5(sb7442t"19bd3! 2b846!$3afd9tw9bf24!"4}
+ping{e|4t_w4bKtr1ckhK8c7d8('3df90(qa7880",b3bd5(rb7442t#19bd3!!2b846!%3afd9tv9bf24!#4}
+ping{e~4t_w4bItr1ckhI8c7d8(%3df90(sa7880".b3bd5(pb7442t!19bd3!#2b846!'3afd9tt9bf24!!4}
+ping{ea4t_w4bVtr1ckhV8c7d8(:3df90(la7880"1b3bd5(ob7442t>19bd3!<2b846!83afd9tk9bf24!>4}
+ping{e`4t_w4bWtr1ckhW8c7d8(;3df90(ma7880"0b3bd5(nb7442t?19bd3!=2b846!93afd9tj9bf24!?4}
+ping{ec4t_w4bTtr1ckhT8c7d8(83df90(na7880"3b3bd5(mb7442t<19bd3!>2b846!:3afd9ti9bf24!<4}
+ping{eb4t_w4bUtr1ckhU8c7d8(93df90(oa7880"2b3bd5(lb7442t=19bd3!?2b846!;3afd9th9bf24!=4}
+ping{ee4t_w4bRtr1ckhR8c7d8(>3df90(ha7880"5b3bd5(kb7442t:19bd3!82b846!<3afd9to9bf24!:4}
+ping{ed4t_w4bStr1ckhS8c7d8(?3df90(ia7880"4b3bd5(jb7442t;19bd3!92b846!=3afd9tn9bf24!;4}
+ping{eg4t_w4bPtr1ckhP8c7d8(<3df90(ja7880"7b3bd5(ib7442t819bd3!:2b846!>3afd9tm9bf24!84}
+ping{ef4t_w4bQtr1ckhQ8c7d8(=3df90(ka7880"6b3bd5(hb7442t919bd3!;2b846!?3afd9tl9bf24!94}
+ping{ei4t_w4b^tr1ckh^8c7d8(23df90(da7880"9b3bd5(gb7442t619bd3!42b846!03afd9tc9bf24!64}
+ping{eh4t_w4b_tr1ckh_8c7d8(33df90(ea7880"8b3bd5(fb7442t719bd3!52b846!13afd9tb9bf24!74}
+ping{ek4t_w4b\tr1ckh\8c7d8(03df90(fa7880";b3bd5(eb7442t419bd3!62b846!23afd9ta9bf24!44}
+ping{ej4t_w4b]tr1ckh]8c7d8(13df90(ga7880":b3bd5(db7442t519bd3!72b846!33afd9t`9bf24!54}
+ping{em4t_w4bZtr1ckhZ8c7d8(63df90(`a7880"=b3bd5(cb7442t219bd3!02b846!43afd9tg9bf24!24}
+ping{el4t_w4b[tr1ckh[8c7d8(73df90(aa7880"<b3bd5(bb7442t319bd3!12b846!53afd9tf9bf24!34}
+ping{eo4t_w4bXtr1ckhX8c7d8(43df90(ba7880"?b3bd5(ab7442t019bd3!22b846!63afd9te9bf24!04}
+ping{en4t_w4bYtr1ckhY8c7d8(53df90(ca7880">b3bd5(`b7442t119bd3!32b846!73afd9td9bf24!14}
+ping{fp4t_w4aGtr1ckkG8c7d8++3df90+}a7880! b3bd5+~b7442w/19bd3"-2b846")3afd9wz9bf24"/4}
+ping{fs4t_w4aDtr1ckkD8c7d8+(3df90+~a7880!#b3bd5+}b7442w,19bd3".2b846"*3afd9wy9bf24",4}
+ping{ft4t_w4aCtr1ckkC8c7d8+/3df90+ya7880!$b3bd5+zb7442w+19bd3")2b846"-3afd9w~9bf24"+4}
+ping{fw4t_w4a@tr1ckk@8c7d8+,3df90+za7880!'b3bd5+yb7442w(19bd3"*2b846".3afd9w}9bf24"(4}
+ping{fv4t_w4aAtr1ckkA8c7d8+-3df90+{a7880!&b3bd5+xb7442w)19bd3"+2b846"/3afd9w|9bf24")4}
+ping{fy4t_w4aNtr1ckkN8c7d8+"3df90+ta7880!)b3bd5+wb7442w&19bd3"$2b846" 3afd9ws9bf24"&4}
+ping{fx4t_w4aOtr1ckkO8c7d8+#3df90+ua7880!(b3bd5+vb7442w'19bd3"%2b846"!3afd9wr9bf24"'4}
+ping{f{4t_w4aLtr1ckkL8c7d8+ 3df90+va7880!+b3bd5+ub7442w$19bd3"&2b846""3afd9wq9bf24"$4}
+ping{fz4t_w4aMtr1ckkM8c7d8+!3df90+wa7880!*b3bd5+tb7442w%19bd3"'2b846"#3afd9wp9bf24"%4}
+ping{f}4t_w4aJtr1ckkJ8c7d8+&3df90+pa7880!-b3bd5+sb7442w"19bd3" 2b846"$3afd9ww9bf24""4}
+ping{f|4t_w4aKtr1ckkK8c7d8+'3df90+qa7880!,b3bd5+rb7442w#19bd3"!2b846"%3afd9wv9bf24"#4}
+ping{f~4t_w4aItr1ckkI8c7d8+%3df90+sa7880!.b3bd5+pb7442w!19bd3"#2b846"'3afd9wt9bf24"!4}
+ping{fa4t_w4aVtr1ckkV8c7d8+:3df90+la7880!1b3bd5+ob7442w>19bd3"<2b846"83afd9wk9bf24">4}
+ping{f`4t_w4aWtr1ckkW8c7d8+;3df90+ma7880!0b3bd5+nb7442w?19bd3"=2b846"93afd9wj9bf24"?4}
+ping{fc4t_w4aTtr1ckkT8c7d8+83df90+na7880!3b3bd5+mb7442w<19bd3">2b846":3afd9wi9bf24"<4}
+ping{fb4t_w4aUtr1ckkU8c7d8+93df90+oa7880!2b3bd5+lb7442w=19bd3"?2b846";3afd9wh9bf24"=4}
+ping{fe4t_w4aRtr1ckkR8c7d8+>3df90+ha7880!5b3bd5+kb7442w:19bd3"82b846"<3afd9wo9bf24":4}
+ping{fd4t_w4aStr1ckkS8c7d8+?3df90+ia7880!4b3bd5+jb7442w;19bd3"92b846"=3afd9wn9bf24";4}
+ping{fg4t_w4aPtr1ckkP8c7d8+<3df90+ja7880!7b3bd5+ib7442w819bd3":2b846">3afd9wm9bf24"84}
+ping{ff4t_w4aQtr1ckkQ8c7d8+=3df90+ka7880!6b3bd5+hb7442w919bd3";2b846"?3afd9wl9bf24"94}
+ping{fi4t_w4a^tr1ckk^8c7d8+23df90+da7880!9b3bd5+gb7442w619bd3"42b846"03afd9wc9bf24"64}
+ping{fh4t_w4a_tr1ckk_8c7d8+33df90+ea7880!8b3bd5+fb7442w719bd3"52b846"13afd9wb9bf24"74}
+ping{fk4t_w4a\tr1ckk\8c7d8+03df90+fa7880!;b3bd5+eb7442w419bd3"62b846"23afd9wa9bf24"44}
+ping{fj4t_w4a]tr1ckk]8c7d8+13df90+ga7880!:b3bd5+db7442w519bd3"72b846"33afd9w`9bf24"54}
+ping{fm4t_w4aZtr1ckkZ8c7d8+63df90+`a7880!=b3bd5+cb7442w219bd3"02b846"43afd9wg9bf24"24}
+ping{fl4t_w4a[tr1ckk[8c7d8+73df90+aa7880!<b3bd5+bb7442w319bd3"12b846"53afd9wf9bf24"34}
+ping{fo4t_w4aXtr1ckkX8c7d8+43df90+ba7880!?b3bd5+ab7442w019bd3"22b846"63afd9we9bf24"04}
+ping{fn4t_w4aYtr1ckkY8c7d8+53df90+ca7880!>b3bd5+`b7442w119bd3"32b846"73afd9wd9bf24"14}
+ping{gp4t_w4`Gtr1ckjG8c7d8*+3df90*}a7880  b3bd5*~b7442v/19bd3#-2b846#)3afd9vz9bf24#/4}
+ping{gs4t_w4`Dtr1ckjD8c7d8*(3df90*~a7880 #b3bd5*}b7442v,19bd3#.2b846#*3afd9vy9bf24#,4}
+ping{gt4t_w4`Ctr1ckjC8c7d8*/3df90*ya7880 $b3bd5*zb7442v+19bd3#)2b846#-3afd9v~9bf24#+4}
+ping{gw4t_w4`@tr1ckj@8c7d8*,3df90*za7880 'b3bd5*yb7442v(19bd3#*2b846#.3afd9v}9bf24#(4}
+ping{gv4t_w4`Atr1ckjA8c7d8*-3df90*{a7880 &b3bd5*xb7442v)19bd3#+2b846#/3afd9v|9bf24#)4}
+ping{gy4t_w4`Ntr1ckjN8c7d8*"3df90*ta7880 )b3bd5*wb7442v&19bd3#$2b846# 3afd9vs9bf24#&4}
+ping{gx4t_w4`Otr1ckjO8c7d8*#3df90*ua7880 (b3bd5*vb7442v'19bd3#%2b846#!3afd9vr9bf24#'4}
+ping{g{4t_w4`Ltr1ckjL8c7d8* 3df90*va7880 +b3bd5*ub7442v$19bd3#&2b846#"3afd9vq9bf24#$4}
+ping{gz4t_w4`Mtr1ckjM8c7d8*!3df90*wa7880 *b3bd5*tb7442v%19bd3#'2b846##3afd9vp9bf24#%4}
+ping{g}4t_w4`Jtr1ckjJ8c7d8*&3df90*pa7880 -b3bd5*sb7442v"19bd3# 2b846#$3afd9vw9bf24#"4}
+ping{g|4t_w4`Ktr1ckjK8c7d8*'3df90*qa7880 ,b3bd5*rb7442v#19bd3#!2b846#%3afd9vv9bf24##4}
+ping{g~4t_w4`Itr1ckjI8c7d8*%3df90*sa7880 .b3bd5*pb7442v!19bd3##2b846#'3afd9vt9bf24#!4}
+ping{ga4t_w4`Vtr1ckjV8c7d8*:3df90*la7880 1b3bd5*ob7442v>19bd3#<2b846#83afd9vk9bf24#>4}
+ping{g`4t_w4`Wtr1ckjW8c7d8*;3df90*ma7880 0b3bd5*nb7442v?19bd3#=2b846#93afd9vj9bf24#?4}
+ping{gc4t_w4`Ttr1ckjT8c7d8*83df90*na7880 3b3bd5*mb7442v<19bd3#>2b846#:3afd9vi9bf24#<4}
+ping{gb4t_w4`Utr1ckjU8c7d8*93df90*oa7880 2b3bd5*lb7442v=19bd3#?2b846#;3afd9vh9bf24#=4}
+ping{ge4t_w4`Rtr1ckjR8c7d8*>3df90*ha7880 5b3bd5*kb7442v:19bd3#82b846#<3afd9vo9bf24#:4}
+ping{gd4t_w4`Str1ckjS8c7d8*?3df90*ia7880 4b3bd5*jb7442v;19bd3#92b846#=3afd9vn9bf24#;4}
+ping{gg4t_w4`Ptr1ckjP8c7d8*<3df90*ja7880 7b3bd5*ib7442v819bd3#:2b846#>3afd9vm9bf24#84}
+ping{gf4t_w4`Qtr1ckjQ8c7d8*=3df90*ka7880 6b3bd5*hb7442v919bd3#;2b846#?3afd9vl9bf24#94}
+ping{gi4t_w4`^tr1ckj^8c7d8*23df90*da7880 9b3bd5*gb7442v619bd3#42b846#03afd9vc9bf24#64}
+ping{gh4t_w4`_tr1ckj_8c7d8*33df90*ea7880 8b3bd5*fb7442v719bd3#52b846#13afd9vb9bf24#74}
+ping{gk4t_w4`\tr1ckj\8c7d8*03df90*fa7880 ;b3bd5*eb7442v419bd3#62b846#23afd9va9bf24#44}
+ping{gj4t_w4`]tr1ckj]8c7d8*13df90*ga7880 :b3bd5*db7442v519bd3#72b846#33afd9v`9bf24#54}
+ping{gm4t_w4`Ztr1ckjZ8c7d8*63df90*`a7880 =b3bd5*cb7442v219bd3#02b846#43afd9vg9bf24#24}
+ping{gl4t_w4`[tr1ckj[8c7d8*73df90*aa7880 <b3bd5*bb7442v319bd3#12b846#53afd9vf9bf24#34}
+ping{go4t_w4`Xtr1ckjX8c7d8*43df90*ba7880 ?b3bd5*ab7442v019bd3#22b846#63afd9ve9bf24#04}
+ping{gn4t_w4`Ytr1ckjY8c7d8*53df90*ca7880 >b3bd5*`b7442v119bd3#32b846#73afd9vd9bf24#14}
+ping{`p4t_w4gGtr1ckmG8c7d8-+3df90-}a7880' b3bd5-~b7442q/19bd3$-2b846$)3afd9qz9bf24$/4}
+ping{`s4t_w4gDtr1ckmD8c7d8-(3df90-~a7880'#b3bd5-}b7442q,19bd3$.2b846$*3afd9qy9bf24$,4}
+ping{`t4t_w4gCtr1ckmC8c7d8-/3df90-ya7880'$b3bd5-zb7442q+19bd3$)2b846$-3afd9q~9bf24$+4}
+ping{`w4t_w4g@tr1ckm@8c7d8-,3df90-za7880''b3bd5-yb7442q(19bd3$*2b846$.3afd9q}9bf24$(4}
+ping{`v4t_w4gAtr1ckmA8c7d8--3df90-{a7880'&b3bd5-xb7442q)19bd3$+2b846$/3afd9q|9bf24$)4}
+ping{`y4t_w4gNtr1ckmN8c7d8-"3df90-ta7880')b3bd5-wb7442q&19bd3$$2b846$ 3afd9qs9bf24$&4}
+ping{`x4t_w4gOtr1ckmO8c7d8-#3df90-ua7880'(b3bd5-vb7442q'19bd3$%2b846$!3afd9qr9bf24$'4}
+ping{`{4t_w4gLtr1ckmL8c7d8- 3df90-va7880'+b3bd5-ub7442q$19bd3$&2b846$"3afd9qq9bf24$$4}
+ping{`z4t_w4gMtr1ckmM8c7d8-!3df90-wa7880'*b3bd5-tb7442q%19bd3$'2b846$#3afd9qp9bf24$%4}
+ping{`}4t_w4gJtr1ckmJ8c7d8-&3df90-pa7880'-b3bd5-sb7442q"19bd3$ 2b846$$3afd9qw9bf24$"4}
+ping{`|4t_w4gKtr1ckmK8c7d8-'3df90-qa7880',b3bd5-rb7442q#19bd3$!2b846$%3afd9qv9bf24$#4}
+ping{`~4t_w4gItr1ckmI8c7d8-%3df90-sa7880'.b3bd5-pb7442q!19bd3$#2b846$'3afd9qt9bf24$!4}
+ping{`a4t_w4gVtr1ckmV8c7d8-:3df90-la7880'1b3bd5-ob7442q>19bd3$<2b846$83afd9qk9bf24$>4}
+ping{``4t_w4gWtr1ckmW8c7d8-;3df90-ma7880'0b3bd5-nb7442q?19bd3$=2b846$93afd9qj9bf24$?4}
+ping{`c4t_w4gTtr1ckmT8c7d8-83df90-na7880'3b3bd5-mb7442q<19bd3$>2b846$:3afd9qi9bf24$<4}
+ping{`b4t_w4gUtr1ckmU8c7d8-93df90-oa7880'2b3bd5-lb7442q=19bd3$?2b846$;3afd9qh9bf24$=4}
+ping{`e4t_w4gRtr1ckmR8c7d8->3df90-ha7880'5b3bd5-kb7442q:19bd3$82b846$<3afd9qo9bf24$:4}
+ping{`d4t_w4gStr1ckmS8c7d8-?3df90-ia7880'4b3bd5-jb7442q;19bd3$92b846$=3afd9qn9bf24$;4}
+ping{`g4t_w4gPtr1ckmP8c7d8-<3df90-ja7880'7b3bd5-ib7442q819bd3$:2b846$>3afd9qm9bf24$84}
+ping{`f4t_w4gQtr1ckmQ8c7d8-=3df90-ka7880'6b3bd5-hb7442q919bd3$;2b846$?3afd9ql9bf24$94}
+ping{`i4t_w4g^tr1ckm^8c7d8-23df90-da7880'9b3bd5-gb7442q619bd3$42b846$03afd9qc9bf24$64}
+ping{`h4t_w4g_tr1ckm_8c7d8-33df90-ea7880'8b3bd5-fb7442q719bd3$52b846$13afd9qb9bf24$74}
+ping{`k4t_w4g\tr1ckm\8c7d8-03df90-fa7880';b3bd5-eb7442q419bd3$62b846$23afd9qa9bf24$44}
+ping{`j4t_w4g]tr1ckm]8c7d8-13df90-ga7880':b3bd5-db7442q519bd3$72b846$33afd9q`9bf24$54}
+ping{`m4t_w4gZtr1ckmZ8c7d8-63df90-`a7880'=b3bd5-cb7442q219bd3$02b846$43afd9qg9bf24$24}
+ping{`l4t_w4g[tr1ckm[8c7d8-73df90-aa7880'<b3bd5-bb7442q319bd3$12b846$53afd9qf9bf24$34}
+ping{`o4t_w4gXtr1ckmX8c7d8-43df90-ba7880'?b3bd5-ab7442q019bd3$22b846$63afd9qe9bf24$04}
+ping{`n4t_w4gYtr1ckmY8c7d8-53df90-ca7880'>b3bd5-`b7442q119bd3$32b846$73afd9qd9bf24$14}
+ping{ap4t_w4fGtr1cklG8c7d8,+3df90,}a7880& b3bd5,~b7442p/19bd3%-2b846%)3afd9pz9bf24%/4}
+ping{as4t_w4fDtr1cklD8c7d8,(3df90,~a7880&#b3bd5,}b7442p,19bd3%.2b846%*3afd9py9bf24%,4}
+ping{at4t_w4fCtr1cklC8c7d8,/3df90,ya7880&$b3bd5,zb7442p+19bd3%)2b846%-3afd9p~9bf24%+4}
+ping{aw4t_w4f@tr1ckl@8c7d8,,3df90,za7880&'b3bd5,yb7442p(19bd3%*2b846%.3afd9p}9bf24%(4}
+ping{av4t_w4fAtr1cklA8c7d8,-3df90,{a7880&&b3bd5,xb7442p)19bd3%+2b846%/3afd9p|9bf24%)4}
+ping{ay4t_w4fNtr1cklN8c7d8,"3df90,ta7880&)b3bd5,wb7442p&19bd3%$2b846% 3afd9ps9bf24%&4}
+ping{ax4t_w4fOtr1cklO8c7d8,#3df90,ua7880&(b3bd5,vb7442p'19bd3%%2b846%!3afd9pr9bf24%'4}
+ping{a{4t_w4fLtr1cklL8c7d8, 3df90,va7880&+b3bd5,ub7442p$19bd3%&2b846%"3afd9pq9bf24%$4}
+ping{az4t_w4fMtr1cklM8c7d8,!3df90,wa7880&*b3bd5,tb7442p%19bd3%'2b846%#3afd9pp9bf24%%4}
+ping{a}4t_w4fJtr1cklJ8c7d8,&3df90,pa7880&-b3bd5,sb7442p"19bd3% 2b846%$3afd9pw9bf24%"4}
+ping{a|4t_w4fKtr1cklK8c7d8,'3df90,qa7880&,b3bd5,rb7442p#19bd3%!2b846%%3afd9pv9bf24%#4}
+ping{a~4t_w4fItr1cklI8c7d8,%3df90,sa7880&.b3bd5,pb7442p!19bd3%#2b846%'3afd9pt9bf24%!4}
+ping{aa4t_w4fVtr1cklV8c7d8,:3df90,la7880&1b3bd5,ob7442p>19bd3%<2b846%83afd9pk9bf24%>4}
+ping{a`4t_w4fWtr1cklW8c7d8,;3df90,ma7880&0b3bd5,nb7442p?19bd3%=2b846%93afd9pj9bf24%?4}
+ping{ac4t_w4fTtr1cklT8c7d8,83df90,na7880&3b3bd5,mb7442p<19bd3%>2b846%:3afd9pi9bf24%<4}
+ping{ab4t_w4fUtr1cklU8c7d8,93df90,oa7880&2b3bd5,lb7442p=19bd3%?2b846%;3afd9ph9bf24%=4}
+ping{ae4t_w4fRtr1cklR8c7d8,>3df90,ha7880&5b3bd5,kb7442p:19bd3%82b846%<3afd9po9bf24%:4}
+ping{ad4t_w4fStr1cklS8c7d8,?3df90,ia7880&4b3bd5,jb7442p;19bd3%92b846%=3afd9pn9bf24%;4}
+ping{ag4t_w4fPtr1cklP8c7d8,<3df90,ja7880&7b3bd5,ib7442p819bd3%:2b846%>3afd9pm9bf24%84}
+ping{af4t_w4fQtr1cklQ8c7d8,=3df90,ka7880&6b3bd5,hb7442p919bd3%;2b846%?3afd9pl9bf24%94}
+ping{ai4t_w4f^tr1ckl^8c7d8,23df90,da7880&9b3bd5,gb7442p619bd3%42b846%03afd9pc9bf24%64}
+ping{ah4t_w4f_tr1ckl_8c7d8,33df90,ea7880&8b3bd5,fb7442p719bd3%52b846%13afd9pb9bf24%74}
+ping{ak4t_w4f\tr1ckl\8c7d8,03df90,fa7880&;b3bd5,eb7442p419bd3%62b846%23afd9pa9bf24%44}
+ping{aj4t_w4f]tr1ckl]8c7d8,13df90,ga7880&:b3bd5,db7442p519bd3%72b846%33afd9p`9bf24%54}
+ping{am4t_w4fZtr1cklZ8c7d8,63df90,`a7880&=b3bd5,cb7442p219bd3%02b846%43afd9pg9bf24%24}
+ping{al4t_w4f[tr1ckl[8c7d8,73df90,aa7880&<b3bd5,bb7442p319bd3%12b846%53afd9pf9bf24%34}
+ping{ao4t_w4fXtr1cklX8c7d8,43df90,ba7880&?b3bd5,ab7442p019bd3%22b846%63afd9pe9bf24%04}
+ping{an4t_w4fYtr1cklY8c7d8,53df90,ca7880&>b3bd5,`b7442p119bd3%32b846%73afd9pd9bf24%14}
+ping{bp4t_w4eGtr1ckoG8c7d8/+3df90/}a7880% b3bd5/~b7442s/19bd3&-2b846&)3afd9sz9bf24&/4}
+ping{bs4t_w4eDtr1ckoD8c7d8/(3df90/~a7880%#b3bd5/}b7442s,19bd3&.2b846&*3afd9sy9bf24&,4}
+ping{bt4t_w4eCtr1ckoC8c7d8//3df90/ya7880%$b3bd5/zb7442s+19bd3&)2b846&-3afd9s~9bf24&+4}
+ping{bw4t_w4e@tr1cko@8c7d8/,3df90/za7880%'b3bd5/yb7442s(19bd3&*2b846&.3afd9s}9bf24&(4}
+ping{bv4t_w4eAtr1ckoA8c7d8/-3df90/{a7880%&b3bd5/xb7442s)19bd3&+2b846&/3afd9s|9bf24&)4}
+ping{by4t_w4eNtr1ckoN8c7d8/"3df90/ta7880%)b3bd5/wb7442s&19bd3&$2b846& 3afd9ss9bf24&&4}
+ping{bx4t_w4eOtr1ckoO8c7d8/#3df90/ua7880%(b3bd5/vb7442s'19bd3&%2b846&!3afd9sr9bf24&'4}
+ping{b{4t_w4eLtr1ckoL8c7d8/ 3df90/va7880%+b3bd5/ub7442s$19bd3&&2b846&"3afd9sq9bf24&$4}
+ping{bz4t_w4eMtr1ckoM8c7d8/!3df90/wa7880%*b3bd5/tb7442s%19bd3&'2b846&#3afd9sp9bf24&%4}
+ping{b}4t_w4eJtr1ckoJ8c7d8/&3df90/pa7880%-b3bd5/sb7442s"19bd3& 2b846&$3afd9sw9bf24&"4}
+ping{b|4t_w4eKtr1ckoK8c7d8/'3df90/qa7880%,b3bd5/rb7442s#19bd3&!2b846&%3afd9sv9bf24&#4}
+ping{b~4t_w4eItr1ckoI8c7d8/%3df90/sa7880%.b3bd5/pb7442s!19bd3&#2b846&'3afd9st9bf24&!4}
+ping{ba4t_w4eVtr1ckoV8c7d8/:3df90/la7880%1b3bd5/ob7442s>19bd3&<2b846&83afd9sk9bf24&>4}
+ping{b`4t_w4eWtr1ckoW8c7d8/;3df90/ma7880%0b3bd5/nb7442s?19bd3&=2b846&93afd9sj9bf24&?4}
+ping{bc4t_w4eTtr1ckoT8c7d8/83df90/na7880%3b3bd5/mb7442s<19bd3&>2b846&:3afd9si9bf24&<4}
+ping{bb4t_w4eUtr1ckoU8c7d8/93df90/oa7880%2b3bd5/lb7442s=19bd3&?2b846&;3afd9sh9bf24&=4}
+ping{be4t_w4eRtr1ckoR8c7d8/>3df90/ha7880%5b3bd5/kb7442s:19bd3&82b846&<3afd9so9bf24&:4}
+ping{bd4t_w4eStr1ckoS8c7d8/?3df90/ia7880%4b3bd5/jb7442s;19bd3&92b846&=3afd9sn9bf24&;4}
+ping{bg4t_w4ePtr1ckoP8c7d8/<3df90/ja7880%7b3bd5/ib7442s819bd3&:2b846&>3afd9sm9bf24&84}
+ping{bf4t_w4eQtr1ckoQ8c7d8/=3df90/ka7880%6b3bd5/hb7442s919bd3&;2b846&?3afd9sl9bf24&94}
+ping{bi4t_w4e^tr1cko^8c7d8/23df90/da7880%9b3bd5/gb7442s619bd3&42b846&03afd9sc9bf24&64}
+ping{bh4t_w4e_tr1cko_8c7d8/33df90/ea7880%8b3bd5/fb7442s719bd3&52b846&13afd9sb9bf24&74}
+ping{bk4t_w4e\tr1cko\8c7d8/03df90/fa7880%;b3bd5/eb7442s419bd3&62b846&23afd9sa9bf24&44}
+ping{bj4t_w4e]tr1cko]8c7d8/13df90/ga7880%:b3bd5/db7442s519bd3&72b846&33afd9s`9bf24&54}
+ping{bm4t_w4eZtr1ckoZ8c7d8/63df90/`a7880%=b3bd5/cb7442s219bd3&02b846&43afd9sg9bf24&24}
+ping{bl4t_w4e[tr1cko[8c7d8/73df90/aa7880%<b3bd5/bb7442s319bd3&12b846&53afd9sf9bf24&34}
+ping{bo4t_w4eXtr1ckoX8c7d8/43df90/ba7880%?b3bd5/ab7442s019bd3&22b846&63afd9se9bf24&04}
+ping{bn4t_w4eYtr1ckoY8c7d8/53df90/ca7880%>b3bd5/`b7442s119bd3&32b846&73afd9sd9bf24&14}
+ping{cp4t_w4dGtr1cknG8c7d8.+3df90.}a7880$ b3bd5.~b7442r/19bd3'-2b846')3afd9rz9bf24'/4}
+ping{cs4t_w4dDtr1cknD8c7d8.(3df90.~a7880$#b3bd5.}b7442r,19bd3'.2b846'*3afd9ry9bf24',4}
+ping{ct4t_w4dCtr1cknC8c7d8./3df90.ya7880$$b3bd5.zb7442r+19bd3')2b846'-3afd9r~9bf24'+4}
+ping{cw4t_w4d@tr1ckn@8c7d8.,3df90.za7880$'b3bd5.yb7442r(19bd3'*2b846'.3afd9r}9bf24'(4}
+ping{cv4t_w4dAtr1cknA8c7d8.-3df90.{a7880$&b3bd5.xb7442r)19bd3'+2b846'/3afd9r|9bf24')4}
+ping{cy4t_w4dNtr1cknN8c7d8."3df90.ta7880$)b3bd5.wb7442r&19bd3'$2b846' 3afd9rs9bf24'&4}
+ping{cx4t_w4dOtr1cknO8c7d8.#3df90.ua7880$(b3bd5.vb7442r'19bd3'%2b846'!3afd9rr9bf24''4}
+ping{c{4t_w4dLtr1cknL8c7d8. 3df90.va7880$+b3bd5.ub7442r$19bd3'&2b846'"3afd9rq9bf24'$4}
+ping{cz4t_w4dMtr1cknM8c7d8.!3df90.wa7880$*b3bd5.tb7442r%19bd3''2b846'#3afd9rp9bf24'%4}
+ping{c}4t_w4dJtr1cknJ8c7d8.&3df90.pa7880$-b3bd5.sb7442r"19bd3' 2b846'$3afd9rw9bf24'"4}
+ping{c|4t_w4dKtr1cknK8c7d8.'3df90.qa7880$,b3bd5.rb7442r#19bd3'!2b846'%3afd9rv9bf24'#4}
+ping{c~4t_w4dItr1cknI8c7d8.%3df90.sa7880$.b3bd5.pb7442r!19bd3'#2b846''3afd9rt9bf24'!4}
+ping{ca4t_w4dVtr1cknV8c7d8.:3df90.la7880$1b3bd5.ob7442r>19bd3'<2b846'83afd9rk9bf24'>4}
+ping{c`4t_w4dWtr1cknW8c7d8.;3df90.ma7880$0b3bd5.nb7442r?19bd3'=2b846'93afd9rj9bf24'?4}
+ping{cc4t_w4dTtr1cknT8c7d8.83df90.na7880$3b3bd5.mb7442r<19bd3'>2b846':3afd9ri9bf24'<4}
+ping{cb4t_w4dUtr1cknU8c7d8.93df90.oa7880$2b3bd5.lb7442r=19bd3'?2b846';3afd9rh9bf24'=4}
+ping{ce4t_w4dRtr1cknR8c7d8.>3df90.ha7880$5b3bd5.kb7442r:19bd3'82b846'<3afd9ro9bf24':4}
+ping{cd4t_w4dStr1cknS8c7d8.?3df90.ia7880$4b3bd5.jb7442r;19bd3'92b846'=3afd9rn9bf24';4}
+ping{cg4t_w4dPtr1cknP8c7d8.<3df90.ja7880$7b3bd5.ib7442r819bd3':2b846'>3afd9rm9bf24'84}
+ping{cf4t_w4dQtr1cknQ8c7d8.=3df90.ka7880$6b3bd5.hb7442r919bd3';2b846'?3afd9rl9bf24'94}
+ping{ci4t_w4d^tr1ckn^8c7d8.23df90.da7880$9b3bd5.gb7442r619bd3'42b846'03afd9rc9bf24'64}
+ping{ch4t_w4d_tr1ckn_8c7d8.33df90.ea7880$8b3bd5.fb7442r719bd3'52b846'13afd9rb9bf24'74}
+ping{ck4t_w4d\tr1ckn\8c7d8.03df90.fa7880$;b3bd5.eb7442r419bd3'62b846'23afd9ra9bf24'44}
+ping{cj4t_w4d]tr1ckn]8c7d8.13df90.ga7880$:b3bd5.db7442r519bd3'72b846'33afd9r`9bf24'54}
+ping{cm4t_w4dZtr1cknZ8c7d8.63df90.`a7880$=b3bd5.cb7442r219bd3'02b846'43afd9rg9bf24'24}
+ping{cl4t_w4d[tr1ckn[8c7d8.73df90.aa7880$<b3bd5.bb7442r319bd3'12b846'53afd9rf9bf24'34}
+ping{co4t_w4dXtr1cknX8c7d8.43df90.ba7880$?b3bd5.ab7442r019bd3'22b846'63afd9re9bf24'04}
+ping{cn4t_w4dYtr1cknY8c7d8.53df90.ca7880$>b3bd5.`b7442r119bd3'32b846'73afd9rd9bf24'14}

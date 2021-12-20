@@ -1,0 +1,8 @@
+html
+	head
+		title pingCTF
+	body
+		=flag
+		form(action="/check", method="POST")
+			input(type="text", name="user_flag", value="", placeholder="Check your flag")
+			input(type="submit", value="Check")
