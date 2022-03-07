@@ -1,0 +1,13 @@
+version: '3'
+services:
+ reverse:
+  build: .
+  volumes:
+   - ./source/node_modules/:/app/node_modules/:ro
+   - ./source/views/:/app/views/:ro
+   - ./source/flag.txt:/app/flag.txt:ro
+   - ./source/package.json:/app/package.json:ro
+   - ./source/server.js:/app/server.js:ro
+  restart: always
+  ports:
+   - 22227:3001
